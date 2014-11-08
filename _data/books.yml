@@ -1,0 +1,16 @@
+items:
+- title: Cradle to Cradle
+  subtitle: Remaking the Way We Make Things
+  authors:
+    - William McDonough
+    - Michael Braungart
+  state: started
+  started_at: 2014-11-08
+- title: Why we Fail
+  subtitle: Learning from Experience Design Failures
+  authors:
+    - Victor Lombardi
+  urls: http://rosenfeldmedia.com/books/why-we-fail/
+  state: finished
+  started_at: 2014-10-23
+  finished_at: 2014-11-07

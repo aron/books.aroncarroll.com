@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign grouped = site.data.books.items | group_by:'state' %}
+{% for state in grouped %}
+  <section>
+    <h1>{{ state.name | capitalize }}</h1>
+    <ul>
+      {% for book in state.items %}
+        <li>{{ book.title }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
