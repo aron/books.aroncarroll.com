@@ -1,4 +1,17 @@
 items:
+- title: Trout Fishing in America
+  authors:
+  - Richard Brautigan
+  url: http://www.amazon.com/dp/0547255276
+  type: paperback
+  queued_at: 2014-11-12
+- title: Tender Buttons
+  authors:
+  - Gertrude Stein
+  url: http://www.amazon.com/dp/0486298973
+  state: queued
+  type: paperback
+  queued_at: 2014-11-22
 - title: Cradle to Cradle
   subtitle: Remaking the Way We Make Things
   authors:
