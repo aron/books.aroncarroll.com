@@ -1,7 +1,7 @@
 ---
 ---
-{% assign finished = site.data.books.items | where:'state','finished' | sort:'finished_at','last' | first %}
-{% assign reading = site.data.books.items | where:'state','started' | sort:'started_at','last' | first %}
+{% assign finished = site.data.books.items | where:'state','finished' | sort:'finished_at' | last %}
+{% assign reading = site.data.books.items | where:'state','started' | sort:'started_at' | last %}
 {% if finished.finished_at > reading.started_at %}
   {% assign latest = finished %}
 {% else %}
