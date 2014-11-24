@@ -1,4 +1,18 @@
 items:
+- title: The Inmates are Running the Asylum
+  authors:
+  - Alan Cooper
+  url: http://www.amazon.com/dp/0672326140
+  type: paperback
+  state: queued
+  queued_at: 2014-11-24
+- title: The Humane Interface
+  authors:
+  - Jef Raskin
+  url: http://www.amazon.com/dp/0201379376
+  type: paperback
+  state: queued
+  queued_at: 2014-11-24
 - title: Trout Fishing in America
   authors:
   - Richard Brautigan
@@ -19,8 +33,9 @@ items:
   - William McDonough
   - Michael Braungart
   url: http://www.mcdonough.com/speaking-writing/cradle-to-cradle/
-  state: started
+  state: finished
   started_at: 2014-11-08
+  finished_at: 2014-11-24
 - title: Thinking, Fast and Slow
   authors:
   - Daniel Kahneman
