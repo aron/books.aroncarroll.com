@@ -4,8 +4,9 @@ items:
   - Alan Cooper
   url: http://www.amazon.com/dp/0672326140
   type: paperback
-  state: queued
+  state: started
   queued_at: 2014-11-24
+  started_at: 2014-11-25
 - title: The Humane Interface
   authors:
   - Jef Raskin
