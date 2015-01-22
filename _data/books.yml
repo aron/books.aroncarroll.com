@@ -1,12 +1,21 @@
 items:
+- title: Simple and Usable
+  subtitle: Web, Mobile, and Interaction Design
+  authors:
+  - Giles Colborne
+  url: http://www.amazon.co.uk/gp/product/0321703545
+  type: kindle
+  state: queued
+  queued_at: 2015-01-22
 - title: Intertwingled
   subtitle: Information Changes Everything
   authors:
   - Peter Morville
   url: https://kindle.amazon.com/work/intertwingled-information-everything-peter-morville/B00MPGRKV4/0692225587
   type: kindle
-  state: queued
+  state: started
   queued_at: 2015-01-10
+  started_at: 2015-01-17
 - title: The Diamond Age
   subtitle: Or, a Young Lady's Illustrated Primer
   authors:
