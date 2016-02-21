@@ -14,10 +14,10 @@ items:
   - James Gleick
   url: https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
   type: paperback
-  state: reading
+  state: finished
   queued_at: 2015-11-05
   started_at: 2015-11-05
-  started_at: 2015-12-04
+  finished_at: 2015-12-04
 - title: Simple and Usable
   subtitle: Web, Mobile, and Interaction Design
   authors:
@@ -32,9 +32,10 @@ items:
   - Peter Morville
   url: https://kindle.amazon.com/work/intertwingled-information-everything-peter-morville/B00MPGRKV4/0692225587
   type: kindle
-  state: started
+  state: finished
   queued_at: 2015-01-10
   started_at: 2015-01-17
+  finished_at: 2015-03-20
 - title: The Diamond Age
   subtitle: Or, a Young Lady's Illustrated Primer
   authors:
