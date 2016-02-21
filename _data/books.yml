@@ -1,4 +1,23 @@
 items:
+- title: Fun Home
+  subtitle: A Family Tragicomic
+  authors:
+  - Alison Bechdel
+  url: https://en.wikipedia.org/wiki/Fun_Home
+  type: paperback
+  state: reading
+  queued_at: 2015-11-01
+  started_at: 2015-11-01
+- title: The Information
+  subtitle: A History, A Theory, A Flood
+  authors:
+  - James Gleick
+  url: https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
+  type: paperback
+  state: reading
+  queued_at: 2015-11-05
+  started_at: 2015-11-05
+  started_at: 2015-12-04
 - title: Simple and Usable
   subtitle: Web, Mobile, and Interaction Design
   authors:
