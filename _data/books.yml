@@ -1,13 +1,30 @@
 items:
+- title: The Rider
+  authors:
+  - Tim Krabbé
+  url: https://books.google.co.uk/books/about/The_Rider.html?id=QiO4D10VggwC&redir_esc=y
+  type: paperback
+  state: finished
+  started_at: 2016-04-29
+  finished_at: 2016-05-02
+- title: High-Rise
+  authors:
+  - J. G. Ballard
+  url: https://en.wikipedia.org/wiki/High-Rise_(novel)
+  type: paperback
+  state: finished
+  started_at: 2016-04-01
+  finished_at: 2016-04-01
 - title: Fun Home
   subtitle: A Family Tragicomic
   authors:
   - Alison Bechdel
   url: https://en.wikipedia.org/wiki/Fun_Home
   type: paperback
-  state: reading
+  state: finished
   queued_at: 2015-11-01
   started_at: 2015-11-01
+  started_at: 2016-01-01
 - title: The Information
   subtitle: A History, A Theory, A Flood
   authors:
