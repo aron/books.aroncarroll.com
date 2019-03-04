@@ -15,6 +15,45 @@ items:
   state: finished
   started_at: 2019-02-20
   finished_at: 2019-03-04
+- title: "New Dark Age: Technology and the End of the Future"
+  authors:
+  - "James Bridle"
+  url: https://www.goodreads.com/book/show/36696533-new-dark-age
+  type: kindle
+  state: finished
+  started_at: 2019-01-31
+  finished_at: 2019-02-15
+- title: "No Is Not Enough: Defeating the New Shock Politics"
+  authors:
+  - "Naomi Klein"
+  url: https://www.goodreads.com/book/show/34814047-no-is-not-enough
+  type: kindle
+  state: finished
+  started_at: 2018-10-14
+  finished_at: 2019-01-29
+- title: "Capital in the Twenty-First Century"
+  authors:
+  - "Thomas Piketty"
+  url: https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
+  type: kindle
+  state: started
+  started_at: 2018-10-14
+- title: Normal People
+  authors:
+  - Sally Rooney
+  url: https://www.goodreads.com/book/show/37539457-normal-people
+  type: kindle
+  state: finished
+  started_at: 2018-12-27
+  finished_at: 2018-12-27
+- title: "Future Ethics"
+  authors:
+  - "Cennydd Bowles"
+  url: https://www.goodreads.com/book/show/41975945-future-ethics
+  type: kindle
+  state: finished
+  started_at: 2018-09-27
+  finished_at: 2018-12-01
 - title: The Rider
   authors:
   - Tim Krabbé
