@@ -1,5 +1,5 @@
 items:
-- title: Thinking in Systems: A Primer
+- title: "Thinking in Systems: A Primer"
   authors:
   - Donella H. Meadows
   - Diana Wright
@@ -7,7 +7,7 @@ items:
   type: kindle
   state: queued
   queued_at: 2019-03-04
-- title: Four Futures: Life After Capitalism
+- title: "Four Futures: Life After Capitalism"
   authors:
   - Peter Frase
   url: https://www.goodreads.com/book/show/22551901-four-futures
