@@ -1,4 +1,11 @@
 items:
+- title: "Aurora"
+  authors:
+  - Kim Stanley Robinson
+  url: https://www.goodreads.com/book/show/23197269-aurora
+  type: kindle
+  state: queued
+  queued_at: 2019-03-10
 - title: "Virtual Light"
   authors:
   - William Gibson
@@ -13,7 +20,8 @@ items:
   - Diana Wright
   url: https://www.goodreads.com/book/show/3828902-thinking-in-systems
   type: kindle
-  state: queued
+  state: started
+  started_at: 2019-03-04
   queued_at: 2019-03-04
 - title: "Four Futures: Life After Capitalism"
   authors:
