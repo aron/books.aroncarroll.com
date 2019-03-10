@@ -1,4 +1,12 @@
 items:
+- title: "Virtual Light"
+  authors:
+  - William Gibson
+  url: https://www.goodreads.com/book/show/22326.Virtual_Light
+  type: kindle
+  state: started
+  started_at: 2019-03-10
+  queued_at: 2018-12-02
 - title: "Thinking in Systems: A Primer"
   authors:
   - Donella H. Meadows
