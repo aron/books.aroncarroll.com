@@ -51,7 +51,7 @@ items:
   url: https://www.goodreads.com/search?query=1473661234
   isbn: 1473661234
   type: kindle
-  state: read
+  state: finished
   queued_at: 2020-06-02
   started_at: 2020-06-02
   finished_at: 2020-07-02
