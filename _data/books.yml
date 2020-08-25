@@ -1,11 +1,60 @@
 items:
+- title: "The Age of Surveillance Capitalism"
+  authors:
+  - "Shoshana Zuboff"
+  url: https://www.goodreads.com/search?query=978-1781256855
+  isbn: 978-1781256855
+  type: kindle
+  state: queued
+  queued_at: 2020-08-07
+- title: "The Hard Thing About Hard Things"
+  authors:
+  - "Ben Horowitz"
+  url: https://www.goodreads.com/search?query=0062273205
+  isbn: 0062273205
+  type: kindle
+  state: queued
+  queued_at: 2020-08-07
+- title: "Mythical Man-Month"
+  authors:
+  - "Frederick P. Brooks Jr."
+  url: https://www.goodreads.com/search?query=9780201835953
+  isbn: 9780201835953
+  type: kindle
+  state: queued
+  queued_at: 2020-06-03
 - title: "Who Owns England?"
   authors:
   - "Guy Shrubsole"
   url: https://www.goodreads.com/book/show/43080056-who-owns-england
-  type: kindle
+  type: paperback
   state: started
   started_at: 2020-07-18
+- title: "How To Be an Antiracist"
+  authors:
+  - "Ibram X. Kendi"
+  type: kindle
+  state: finished
+  started_at: 2020-06-14
+  finished_at: 2020-07-28
+- title: "Black and British: A Forgotten History"
+  authors:
+  - "David Olusoga"
+  url: https://www.goodreads.com/search?query=9781447299769
+  isbn: 9781447299769
+  type: kindle
+  state: queued
+  queued_at: 2020-06-02
+- title: "Natives: Race and Class in the Ruins of Empire"
+  authors:
+  - "Akala"
+  url: https://www.goodreads.com/search?query=1473661234
+  isbn: 1473661234
+  type: kindle
+  state: read
+  queued_at: 2020-06-02
+  started_at: 2020-06-02
+  finished_at: 2020-07-02
 - title: "Winners Take All: The Elite Charade of Changing the World"
   authors:
   - "Anand Giridharadas"
