@@ -2,6 +2,7 @@ items:
 - title: "The Age of Surveillance Capitalism"
   authors:
   - "Shoshana Zuboff"
+  url: https://www.goodreads.com/search?query=9781781256855
   isbn: 9781781256855
   type: kindle
   state: queued
@@ -9,6 +10,7 @@ items:
 - title: "The Hard Thing About Hard Things"
   authors:
   - "Ben Horowitz"
+  url: https://www.goodreads.com/search?query=0062273205
   isbn: 0062273205
   type: kindle
   state: queued
