@@ -30,4 +30,4 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Validate
-      run: bundle exec kwalify -f schema.yml < _data/books.yml | [[ $(grep -c INVALID) -eq 0 ]]
+      run: bundle exec kwalify -f schema.yml _data/books.yml | [[ $(grep -c INVALID) -eq 0 ]]
