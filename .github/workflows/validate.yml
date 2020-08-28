@@ -28,10 +28,4 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Validate
-      run: bundle exec kwalify -f schema.yml _data/books.yml | tee output.log | [[ $(grep -c INVALID) -eq 0 ]]
-    - name: Upload Artifacts
-      uses: actions/upload-artifact@v2
-      if: failure()
-      with:
-        path: output.log
-        if-no-files-found: warn
+      run: bundle exec kwalify -f schema.yml _data/books.yml | tee /dev/stderr | [[ $(grep -c INVALID) -eq 0 ]]
