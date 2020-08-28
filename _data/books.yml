@@ -33,6 +33,8 @@ items:
 - title: "How To Be an Antiracist"
   authors:
   - "Ibram X. Kendi"
+  url: https://www.goodreads.com/search?query=0525509283
+  isbn: 0525509283
   type: kindle
   state: finished
   started_at: 2020-06-14
