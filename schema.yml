@@ -1,0 +1,41 @@
+type: map
+mapping:
+ "items":
+    type: seq
+    required: yes
+    sequence:
+      - type: map
+        mapping:
+         "title":
+            type: text
+            required: yes
+         "subtitle":
+            type: text
+         "authors":
+            type: seq
+            required: yes
+            sequence:
+              - type: text
+                required: yes
+         "url":
+            type: str
+            required: yes
+            pattern: "/^https?:\/\//"
+         "isbn":
+            type: text
+         "type":
+            type: str
+            enum: [kindle, paperback, ebook]
+         "state":
+            type: str
+            enum: [queued, started, finished]
+            required: yes
+         "queued_at":
+            type: date
+         "started_at":
+            type: date
+         "finished_at":
+            type: date
+         "recommended":
+            type: bool
+
