@@ -2,15 +2,14 @@ items:
 - title: "The Age of Surveillance Capitalism"
   authors:
   - "Shoshana Zuboff"
-  url: https://www.goodreads.com/search?query=978-1781256855
-  isbn: 978-1781256855
+  url: https://www.goodreads.com/search?query=9781781256855
+  isbn: 9781781256855
   type: kindle
   state: queued
   queued_at: 2020-08-07
 - title: "The Hard Thing About Hard Things"
   authors:
   - "Ben Horowitz"
-  url: https://www.goodreads.com/search?query=0062273205
   isbn: 0062273205
   type: kindle
   state: queued
@@ -197,7 +196,8 @@ items:
   authors:
   - Neal Stephenson
   url: https://kindle.amazon.com/work/the-diamond-age-illustrated-spectra/B000AFPEI8/0553380966
-  type: paperback, kindle
+  type: paperback
+  type: kindle
   state: finished
   started_at: 2014-12-20
   finished_at: 2015-01-14
