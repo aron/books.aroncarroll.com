@@ -1,4 +1,13 @@
 items:
+- title: "Pandemics"
+  subtitle: "A Very Short Introduction"
+  authors:
+  - "Christian W. McMillen"
+  url: https://www.goodreads.com/book/isbn/0199340072
+  isbn: 0199340072
+  type: ebook
+  state: started
+  started_at: 2020-09-03
 - title: "The Age of Surveillance Capitalism"
   authors:
   - "Shoshana Zuboff"
@@ -62,8 +71,9 @@ items:
   - "Anand Giridharadas"
   url: https://www.goodreads.com/book/show/37506348-winners-take-all
   type: kindle
-  state: started
+  state: finished
   started_at: 2020-01-12
+  finished_at: 2020-08-31
 - title: "Aurora"
   authors:
   - Kim Stanley Robinson
