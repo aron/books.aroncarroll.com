@@ -6,8 +6,9 @@ items:
   url: https://www.goodreads.com/book/isbn/0199340072
   isbn: 0199340072
   type: ebook
-  state: started
+  state: finished
   started_at: 2020-09-03
+  finished_at: 2020-09-08
 - title: "The Age of Surveillance Capitalism"
   authors:
   - "Shoshana Zuboff"
