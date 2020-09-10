@@ -1,14 +1,36 @@
 ---
 layout: default
 ---
-{% assign grouped = site.data.books.items | group_by:'state' %}
-{% for state in grouped %}
-  <section>
-    <h1>{{ state.name | capitalize }}</h1>
-    <ul>
-      {% for book in state.items %}
-        <li>{{ book.title }}</li>
-      {% endfor %}
-    </ul>
-  </section>
-{% endfor %}
+{% assign books = site.data.books.items %}
+<section>
+  <h1>Reading</h1>
+  <ul>
+    {% assign items = books | where: "state", "started"  %}
+    {% for book in items | sort: "started_at", "last" %}
+    {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.started_at | date:"%b %d, %Y"}}</time>)</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h1>Queued</h1>
+  <ul>
+    {% assign items = books | where: "state", "queued" | sort_natural: "title" %}
+    {% for book in items %}
+    {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.queued_at | date:"%b %d, %Y"}}</time>)</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h1>Finished</h1>
+  <ul>
+    {% assign items = books | where: "state", "finished" %}
+    {% for book in items | sort: "finished_at", "last" %}
+    {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.finished_at | date:"%b %d, %Y"}}</time>)</li>
+    {% endfor %}
+  </ul>
+</section>
