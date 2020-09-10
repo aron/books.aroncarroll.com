@@ -253,6 +253,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.9)
   kwalify (~> 0.7.2)
   psych (~> 2.2.1)
 
