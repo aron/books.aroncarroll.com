@@ -5,10 +5,10 @@ layout: default
 <section>
   <h1>Reading</h1>
   <ul>
-    {% assign items = books | where: "state", "started"  %}
-    {% for book in items | sort: "started_at", "last" %}
+    {% assign items = books | where: "state", "started" | sort: "started_at" | reverse %}
+    {% for book in items %}
     {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
-    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.started_at | date:"%b %d, %Y"}}</time>)</li>
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} <time datetime="{{ book.queued_at | date: "%FT%T" }}">({{ book.started_at | date:"%b %d, %Y"}})</time></li>
     {% endfor %}
   </ul>
 </section>
@@ -19,7 +19,7 @@ layout: default
     {% assign items = books | where: "state", "queued" | sort_natural: "title" %}
     {% for book in items %}
     {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
-    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.queued_at | date:"%b %d, %Y"}}</time>)</li>
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} <time datetime="{{ book.queued_at | date: "%FT%T" }}">({{ book.queued_at | date:"%b %d, %Y"}})</time></li>
     {% endfor %}
   </ul>
 </section>
@@ -27,10 +27,10 @@ layout: default
 <section>
   <h1>Finished</h1>
   <ul>
-    {% assign items = books | where: "state", "finished" %}
-    {% for book in items | sort: "finished_at", "last" %}
+    {% assign items = books | where: "state", "finished" | sort: "finished_at" | reverse %}
+    {% for book in items %}
     {%- capture book_url %}{% if book.url %}{{ book.url }}{% elsif book.isbn %}https://goodreads.com/book/isbn/{{ book.isbn }}{% endif %}{% endcapture -%}
-    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} (<time>{{ book.finished_at | date:"%b %d, %Y"}}</time>)</li>
+    <li>{% if book_url %}<a href="{{ book_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %} <time datetime="{{ book.queued_at | date: "%FT%T" }}">({{ book.finished_at | date:"%b %d, %Y"}})</time></li>
     {% endfor %}
   </ul>
 </section>
