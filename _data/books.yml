@@ -1,4 +1,23 @@
 items:
+- title: "The Fire Next Time"
+  authors:
+  - "James Baldwin"
+  url: https://www.goodreads.com/book/isbn/067974472X
+  isbn: 067974472X
+  type: ebook
+  state: started
+  started_at: 2020-10-04
+- title: "Freedom Is a Constant Struggle"
+  authors:
+  - "Angela Y. Davis"
+  - "Cornel West"
+  - "Frank Barat"
+  url: https://www.goodreads.com/book/isbn/1608465640
+  isbn: 1608465640
+  type: ebook
+  state: finished
+  started_at: 2020-09-28
+  finished_at: 2020-10-04
 - title: "Pandemics"
   subtitle: "A Very Short Introduction"
   authors:
