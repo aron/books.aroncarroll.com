@@ -16,7 +16,7 @@ items:
   type: ebook
   state: finished
   started_at: 2020-10-04
-  started_at: 2020-10-13
+  finished_at: 2020-10-13
 - title: "Freedom Is a Constant Struggle"
   authors:
   - "Angela Y. Davis"
