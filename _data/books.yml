@@ -1,12 +1,22 @@
 items:
+- title: "Democracy for Sale"
+  subtitle: "Dark Money and Dirty Politics"
+  authors:
+  - "Peter Geoghegan"
+  url: https://www.goodreads.com/book/isbn/1789546036
+  isbn: 1789546036
+  type: kindle
+  state: queued
+  queued_at: 2020-10-14
 - title: "The Fire Next Time"
   authors:
   - "James Baldwin"
   url: https://www.goodreads.com/book/isbn/067974472X
   isbn: 067974472X
   type: ebook
-  state: started
+  state: finished
   started_at: 2020-10-04
+  started_at: 2020-10-13
 - title: "Freedom Is a Constant Struggle"
   authors:
   - "Angela Y. Davis"
