@@ -213,7 +213,7 @@ items:
   state: finished
   queued_at: 2015-11-01
   started_at: 2015-11-01
-  started_at: 2016-01-01
+  finished_at: 2016-01-01
 - title: The Information
   subtitle: A History, A Theory, A Flood
   authors:
@@ -248,7 +248,6 @@ items:
   - Neal Stephenson
   url: https://kindle.amazon.com/work/the-diamond-age-illustrated-spectra/B000AFPEI8/0553380966
   type: paperback
-  type: kindle
   state: finished
   started_at: 2014-12-20
   finished_at: 2015-01-14
