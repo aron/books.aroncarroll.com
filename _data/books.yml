@@ -1,4 +1,14 @@
 items:
+- title: "This Changes Everything"
+  subtitle: "Capitalism vs. The Climate"
+  authors:
+  - "Naomi Klein"
+  url: https://www.goodreads.com/book/isbn/1451697384
+  isbn: 1451697384
+  type: kindle
+  state: finished
+  started_at: 2019-02-19
+  finished_at: 2020-10-16
 - title: "Democracy for Sale"
   subtitle: "Dark Money and Dirty Politics"
   authors:
