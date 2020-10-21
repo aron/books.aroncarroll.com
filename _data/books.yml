@@ -1,4 +1,12 @@
 items:
+- title: HELLO, MAYBE
+  authors:
+  - Whit Gale
+  url: https://goodreads.com/book/isbn/136524136X
+  isbn: 136524136X
+  type: paperback
+  state: queued
+  queued_at: "2020-10-21"
 - title: Winner Take All
   authors:
   - Larry Evans
