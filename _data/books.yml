@@ -1,4 +1,12 @@
 items:
+- title: Theorizing Surveillance
+  authors:
+  - David Lyon
+  url: https://goodreads.com/book/isbn/1134023596
+  isbn: "1134023596"
+  type: paperback
+  state: queued
+  queued_at: "2020-10-21"
 - title: This is England
   subtitle: British Film and the People's War, 1939-1945
   authors:
