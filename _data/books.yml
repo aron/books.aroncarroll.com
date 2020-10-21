@@ -1,209 +1,217 @@
 items:
-- title: "This Changes Everything"
-  subtitle: "Capitalism vs. The Climate"
+- title: Winner Take All
   authors:
-  - "Naomi Klein"
+  - Larry Evans
+  url: https://goodreads.com/book/isbn/3734060664
+  isbn: "3734060664"
+  type: paperback
+  state: queued
+  queued_at: "2020-10-21"
+- title: This Changes Everything
+  subtitle: Capitalism vs. The Climate
+  authors:
+  - Naomi Klein
   url: https://www.goodreads.com/book/isbn/1451697384
-  isbn: 1451697384
+  isbn: "1451697384"
   type: kindle
   state: finished
-  started_at: 2019-02-19
-  finished_at: 2020-10-16
-- title: "Democracy for Sale"
-  subtitle: "Dark Money and Dirty Politics"
+  started_at: "2019-02-19"
+  finished_at: "2020-10-16"
+- title: Democracy for Sale
+  subtitle: Dark Money and Dirty Politics
   authors:
-  - "Peter Geoghegan"
+  - Peter Geoghegan
   url: https://www.goodreads.com/book/isbn/1789546036
-  isbn: 1789546036
+  isbn: "1789546036"
   type: kindle
   state: queued
-  queued_at: 2020-10-14
-- title: "The Fire Next Time"
+  queued_at: "2020-10-14"
+- title: The Fire Next Time
   authors:
-  - "James Baldwin"
+  - James Baldwin
   url: https://www.goodreads.com/book/isbn/067974472X
   isbn: 067974472X
   type: ebook
   state: finished
-  started_at: 2020-10-04
-  finished_at: 2020-10-13
-- title: "Freedom Is a Constant Struggle"
+  started_at: "2020-10-04"
+  finished_at: "2020-10-13"
+- title: Freedom Is a Constant Struggle
   authors:
-  - "Angela Y. Davis"
-  - "Cornel West"
-  - "Frank Barat"
+  - Angela Y. Davis
+  - Cornel West
+  - Frank Barat
   url: https://www.goodreads.com/book/isbn/1608465640
-  isbn: 1608465640
+  isbn: "1608465640"
   type: ebook
   state: finished
-  started_at: 2020-09-28
-  finished_at: 2020-10-04
-- title: "Pandemics"
-  subtitle: "A Very Short Introduction"
+  started_at: "2020-09-28"
+  finished_at: "2020-10-04"
+- title: Pandemics
+  subtitle: A Very Short Introduction
   authors:
-  - "Christian W. McMillen"
+  - Christian W. McMillen
   url: https://www.goodreads.com/book/isbn/0199340072
-  isbn: 0199340072
+  isbn: "0199340072"
   type: ebook
   state: finished
-  started_at: 2020-09-03
-  finished_at: 2020-09-08
-- title: "The Age of Surveillance Capitalism"
+  started_at: "2020-09-03"
+  finished_at: "2020-09-08"
+- title: The Age of Surveillance Capitalism
   authors:
-  - "Shoshana Zuboff"
+  - Shoshana Zuboff
   url: https://www.goodreads.com/search?query=9781781256855
-  isbn: 9781781256855
+  isbn: "9781781256855"
   type: kindle
   state: queued
-  queued_at: 2020-08-07
-- title: "The Hard Thing About Hard Things"
+  queued_at: "2020-08-07"
+- title: The Hard Thing About Hard Things
   authors:
-  - "Ben Horowitz"
+  - Ben Horowitz
   url: https://www.goodreads.com/search?query=0062273205
-  isbn: 0062273205
+  isbn: "0062273205"
   type: kindle
   state: queued
-  queued_at: 2020-08-07
-- title: "Mythical Man-Month"
+  queued_at: "2020-08-07"
+- title: Mythical Man-Month
   authors:
-  - "Frederick P. Brooks Jr."
+  - Frederick P. Brooks Jr.
   url: https://www.goodreads.com/search?query=9780201835953
-  isbn: 9780201835953
+  isbn: "9780201835953"
   type: kindle
   state: queued
-  queued_at: 2020-06-03
-- title: "Who Owns England?"
+  queued_at: "2020-06-03"
+- title: Who Owns England?
   authors:
-  - "Guy Shrubsole"
+  - Guy Shrubsole
   url: https://www.goodreads.com/book/show/43080056-who-owns-england
   type: paperback
   state: started
-  started_at: 2020-07-18
-- title: "How To Be an Antiracist"
+  started_at: "2020-07-18"
+- title: How To Be an Antiracist
   authors:
-  - "Ibram X. Kendi"
+  - Ibram X. Kendi
   url: https://www.goodreads.com/search?query=0525509283
-  isbn: 0525509283
+  isbn: "0525509283"
   type: kindle
   state: finished
-  started_at: 2020-06-14
-  finished_at: 2020-07-28
-- title: "Black and British: A Forgotten History"
+  started_at: "2020-06-14"
+  finished_at: "2020-07-28"
+- title: 'Black and British: A Forgotten History'
   authors:
-  - "David Olusoga"
+  - David Olusoga
   url: https://www.goodreads.com/search?query=9781447299769
-  isbn: 9781447299769
+  isbn: "9781447299769"
   type: kindle
   state: queued
-  queued_at: 2020-06-02
-- title: "Natives: Race and Class in the Ruins of Empire"
+  queued_at: "2020-06-02"
+- title: 'Natives: Race and Class in the Ruins of Empire'
   authors:
-  - "Akala"
+  - Akala
   url: https://www.goodreads.com/search?query=1473661234
-  isbn: 1473661234
+  isbn: "1473661234"
   type: kindle
   state: finished
-  queued_at: 2020-06-02
-  started_at: 2020-06-02
-  finished_at: 2020-07-02
-- title: "Winners Take All: The Elite Charade of Changing the World"
+  queued_at: "2020-06-02"
+  started_at: "2020-06-02"
+  finished_at: "2020-07-02"
+- title: 'Winners Take All: The Elite Charade of Changing the World'
   authors:
-  - "Anand Giridharadas"
+  - Anand Giridharadas
   url: https://www.goodreads.com/book/show/37506348-winners-take-all
   type: kindle
   state: finished
-  started_at: 2020-01-12
-  finished_at: 2020-08-31
-- title: "Aurora"
+  started_at: "2020-01-12"
+  finished_at: "2020-08-31"
+- title: Aurora
   authors:
   - Kim Stanley Robinson
   url: https://www.goodreads.com/book/show/23197269-aurora
   type: kindle
   state: finished
-  queued_at: 2019-03-10
-  started_at: 2019-03-25
-  finished_at: 2019-07-26
-- title: "Virtual Light"
+  queued_at: "2019-03-10"
+  started_at: "2019-03-25"
+  finished_at: "2019-07-26"
+- title: Virtual Light
   authors:
   - William Gibson
   url: https://www.goodreads.com/book/show/22326.Virtual_Light
   type: kindle
   state: finished
-  finished_at: 2019-03-25
-  started_at: 2019-03-10
-  queued_at: 2018-12-02
-- title: "Thinking in Systems: A Primer"
+  queued_at: "2018-12-02"
+  started_at: "2019-03-10"
+  finished_at: "2019-03-25"
+- title: 'Thinking in Systems: A Primer'
   authors:
   - Donella H. Meadows
   - Diana Wright
   url: https://www.goodreads.com/book/show/3828902-thinking-in-systems
   type: kindle
   state: started
-  started_at: 2019-03-04
-  queued_at: 2019-03-04
-- title: "Four Futures: Life After Capitalism"
+  queued_at: "2019-03-04"
+  started_at: "2019-03-04"
+- title: 'Four Futures: Life After Capitalism'
   authors:
   - Peter Frase
   url: https://www.goodreads.com/book/show/22551901-four-futures
   type: kindle
   state: finished
-  started_at: 2019-02-20
-  finished_at: 2019-03-04
-- title: "New Dark Age: Technology and the End of the Future"
+  started_at: "2019-02-20"
+  finished_at: "2019-03-04"
+- title: 'New Dark Age: Technology and the End of the Future'
   authors:
-  - "James Bridle"
+  - James Bridle
   url: https://www.goodreads.com/book/show/36696533-new-dark-age
   type: kindle
   state: finished
-  started_at: 2019-01-31
-  finished_at: 2019-02-15
-- title: "No Is Not Enough: Defeating the New Shock Politics"
+  started_at: "2019-01-31"
+  finished_at: "2019-02-15"
+- title: 'No Is Not Enough: Defeating the New Shock Politics'
   authors:
-  - "Naomi Klein"
+  - Naomi Klein
   url: https://www.goodreads.com/book/show/34814047-no-is-not-enough
   type: kindle
   state: finished
-  started_at: 2018-10-14
-  finished_at: 2019-01-29
-- title: "Capital in the Twenty-First Century"
+  started_at: "2018-10-14"
+  finished_at: "2019-01-29"
+- title: Capital in the Twenty-First Century
   authors:
-  - "Thomas Piketty"
+  - Thomas Piketty
   url: https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
   type: kindle
   state: started
-  started_at: 2018-10-14
+  started_at: "2018-10-14"
 - title: Normal People
   authors:
   - Sally Rooney
   url: https://www.goodreads.com/book/show/37539457-normal-people
   type: kindle
   state: finished
-  started_at: 2018-12-27
-  finished_at: 2018-12-27
-- title: "Future Ethics"
+  started_at: "2018-12-27"
+  finished_at: "2018-12-27"
+- title: Future Ethics
   authors:
-  - "Cennydd Bowles"
+  - Cennydd Bowles
   url: https://www.goodreads.com/book/show/41975945-future-ethics
   type: kindle
   state: finished
-  started_at: 2018-09-27
-  finished_at: 2018-12-01
+  started_at: "2018-09-27"
+  finished_at: "2018-12-01"
 - title: The Rider
   authors:
   - Tim Krabbé
   url: https://books.google.co.uk/books/about/The_Rider.html?id=QiO4D10VggwC&redir_esc=y
   type: paperback
   state: finished
-  started_at: 2016-04-29
-  finished_at: 2016-05-02
+  started_at: "2016-04-29"
+  finished_at: "2016-05-02"
 - title: High-Rise
   authors:
   - J. G. Ballard
   url: https://en.wikipedia.org/wiki/High-Rise_(novel)
   type: paperback
   state: finished
-  started_at: 2016-04-01
-  finished_at: 2016-04-01
+  started_at: "2016-04-01"
+  finished_at: "2016-04-01"
 - title: Fun Home
   subtitle: A Family Tragicomic
   authors:
@@ -211,9 +219,9 @@ items:
   url: https://en.wikipedia.org/wiki/Fun_Home
   type: paperback
   state: finished
-  queued_at: 2015-11-01
-  started_at: 2015-11-01
-  finished_at: 2016-01-01
+  queued_at: "2015-11-01"
+  started_at: "2015-11-01"
+  finished_at: "2016-01-01"
 - title: The Information
   subtitle: A History, A Theory, A Flood
   authors:
@@ -221,9 +229,9 @@ items:
   url: https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood
   type: paperback
   state: finished
-  queued_at: 2015-11-05
-  started_at: 2015-11-05
-  finished_at: 2015-12-04
+  queued_at: "2015-11-05"
+  started_at: "2015-11-05"
+  finished_at: "2015-12-04"
 - title: Simple and Usable
   subtitle: Web, Mobile, and Interaction Design
   authors:
@@ -231,7 +239,7 @@ items:
   url: http://www.amazon.co.uk/gp/product/0321703545
   type: kindle
   state: queued
-  queued_at: 2015-01-22
+  queued_at: "2015-01-22"
 - title: Intertwingled
   subtitle: Information Changes Everything
   authors:
@@ -239,9 +247,9 @@ items:
   url: https://kindle.amazon.com/work/intertwingled-information-everything-peter-morville/B00MPGRKV4/0692225587
   type: kindle
   state: finished
-  queued_at: 2015-01-10
-  started_at: 2015-01-17
-  finished_at: 2015-03-20
+  queued_at: "2015-01-10"
+  started_at: "2015-01-17"
+  finished_at: "2015-03-20"
 - title: The Diamond Age
   subtitle: Or, a Young Lady's Illustrated Primer
   authors:
@@ -249,40 +257,40 @@ items:
   url: https://kindle.amazon.com/work/the-diamond-age-illustrated-spectra/B000AFPEI8/0553380966
   type: paperback
   state: finished
-  started_at: 2014-12-20
-  finished_at: 2015-01-14
   recommended: true
+  started_at: "2014-12-20"
+  finished_at: "2015-01-14"
 - title: The Inmates are Running the Asylum
   authors:
   - Alan Cooper
   url: http://www.amazon.com/dp/0672326140
   type: paperback
   state: finished
-  queued_at: 2014-11-24
-  started_at: 2014-11-25
-  finished_at: 2014-12-06
+  queued_at: "2014-11-24"
+  started_at: "2014-11-25"
+  finished_at: "2014-12-06"
 - title: The Humane Interface
   authors:
   - Jef Raskin
   url: http://www.amazon.com/dp/0201379376
   type: paperback
   state: started
-  queued_at: 2014-11-24
-  started_at: 2014-12-06
+  queued_at: "2014-11-24"
+  started_at: "2014-12-06"
 - title: Trout Fishing in America
   authors:
   - Richard Brautigan
   url: http://www.amazon.com/dp/0547255276
-  state: queued
   type: paperback
-  queued_at: 2014-11-12
+  state: queued
+  queued_at: "2014-11-12"
 - title: Tender Buttons
   authors:
   - Gertrude Stein
   url: http://www.amazon.com/dp/0486298973
-  state: queued
   type: paperback
-  queued_at: 2014-11-22
+  state: queued
+  queued_at: "2014-11-22"
 - title: Cradle to Cradle
   subtitle: Remaking the Way We Make Things
   authors:
@@ -290,40 +298,40 @@ items:
   - Michael Braungart
   url: http://www.mcdonough.com/speaking-writing/cradle-to-cradle/
   state: finished
-  started_at: 2014-11-08
-  finished_at: 2014-11-24
+  started_at: "2014-11-08"
+  finished_at: "2014-11-24"
 - title: Thinking, Fast and Slow
   authors:
   - Daniel Kahneman
   url: https://kindle.amazon.com/work/thinking-fast-slow-daniel-kahneman-ebook/B0028FLOYG/B005MJFA2W
   state: queued
-  queued_at: 2014-11-02
+  queued_at: "2014-11-02"
 - title: Why we Fail
   subtitle: Learning from Experience Design Failures
   authors:
   - Victor Lombardi
   url: http://rosenfeldmedia.com/books/why-we-fail/
   state: finished
-  started_at: 2014-10-23
-  finished_at: 2014-11-07
+  started_at: "2014-10-23"
+  finished_at: "2014-11-07"
 - title: The Art of Doing Science and Engineering
   authors:
   - Richard W. Hamming
   url: https://kindle.amazon.com/work/the-art-doing-science-engineering-ebook/B000B1GW0U/B000P2XFPA
   state: started
-  started_at: 2014-11-01
+  started_at: "2014-11-01"
 - title: Designing for People
   authors:
   - Henry Dreyfuss
   url: https://kindle.amazon.com/work/designing-people-henry-dreyfuss-ebook/B000AEZMYU/B00AHUPTOA
   state: finished
-  started_at: 2014-10-22
-  finished_at: 2014-10-28
+  started_at: "2014-10-22"
+  finished_at: "2014-10-28"
 - title: The Difference Engine
   authors:
   - William Gibson
   - Bruce Sterling
   url: https://kindle.amazon.com/work/the-difference-engine-william-gibson/B000B41WIE/0440423627
   state: finished
-  started_at: 2014-10-01
-  finished_at: 2014-10-22
+  started_at: "2014-10-01"
+  finished_at: "2014-10-22"
