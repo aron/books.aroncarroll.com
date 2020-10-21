@@ -1,4 +1,14 @@
 items:
+- title: This is England
+  subtitle: British Film and the People's War, 1939-1945
+  authors:
+  - Neil Rattigan
+  url: https://goodreads.com/book/isbn/0838638627
+  isbn: "0838638627"
+  type: paperback
+  state: queued
+  recommended: true
+  queued_at: "2020-10-21"
 - title: HELLO, MAYBE
   authors:
   - Whit Gale
