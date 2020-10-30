@@ -1,4 +1,13 @@
 items:
+- title: "Understanding Power"
+  subtitle: "The Indispensable Chomsky"
+  authors:
+  - "Noam Chomsky"
+  url: https://www.goodreads.com/book/isbn/0099466066
+  isbn: 0099466066
+  type: kindle
+  state: started
+  started_at: 2020-15-04
 - title: "No Room for Small Dreams"
   subtitle: "Courage, Imagination and the Making of Modern Israel"
   authors:
