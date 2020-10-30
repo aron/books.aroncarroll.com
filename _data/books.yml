@@ -1,4 +1,14 @@
 items:
+- title: "No Room for Small Dreams"
+  subtitle: "Courage, Imagination and the Making of Modern Israel"
+  authors:
+  - "Shimon Peres"
+  url: https://www.goodreads.com/book/isbn/006268129X
+  isbn: 006268129X
+  type: ebook
+  state: finished
+  started_at: 2020-10-22
+  finished_at: 2020-10-28
 - title: "This Changes Everything"
   subtitle: "Capitalism vs. The Climate"
   authors:
@@ -77,8 +87,9 @@ items:
   - "Guy Shrubsole"
   url: https://www.goodreads.com/book/show/43080056-who-owns-england
   type: paperback
-  state: started
+  state: finished
   started_at: 2020-07-18
+  finished_at: 2020-10-15
 - title: "How To Be an Antiracist"
   authors:
   - "Ibram X. Kendi"
