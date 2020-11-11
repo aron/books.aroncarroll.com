@@ -6,8 +6,9 @@ items:
   url: https://www.goodreads.com/book/isbn/0099466066
   isbn: 0099466066
   type: kindle
-  state: started
+  state: finished
   started_at: 2020-04-15
+  finished_at: 2020-11-03
 - title: "No Room for Small Dreams"
   subtitle: "Courage, Imagination and the Making of Modern Israel"
   authors:
