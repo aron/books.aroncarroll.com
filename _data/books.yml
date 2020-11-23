@@ -1,4 +1,13 @@
 items:
+- title: "Jingo"
+  authors:
+  - "Terry Pratchett"
+  url: https://www.goodreads.com/book/isbn/0552154164
+  isbn: 0552154164
+  type: ebook
+  state: finished
+  started_at: 2020-10-04
+  finished_at: 2020-11-23
 - title: "Understanding Power"
   subtitle: "The Indispensable Chomsky"
   authors:
