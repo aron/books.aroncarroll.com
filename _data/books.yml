@@ -1,4 +1,14 @@
 items:
+- title: "Thanks for the Feedback"
+  subtitle: "The Science and Art of Receiving Feedback Well"
+  authors:
+  - "Douglas Stone"
+  - "Sheila Heen"
+  url: https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback
+  isbn: 0670014664
+  type: kindle
+  state: started
+  started_at: 2020-12-28
 - title: "An Elegant Puzzle"
   subtitle: "Systems of Engineering Management"
   authors:
