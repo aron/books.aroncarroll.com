@@ -22,7 +22,7 @@ items:
   subtitle: "Courage, Imagination and the Making of Modern Israel"
   authors:
   - "Shimon Peres"
-  url: https://www.goodreads.com/book/isbn/006268129X
+  url: https://www.goodreads.com/book/isbn/006268129X/
   isbn: 006268129X
   type: ebook
   state: finished
@@ -168,7 +168,8 @@ items:
   - Diana Wright
   url: https://www.goodreads.com/book/show/3828902-thinking-in-systems
   type: kindle
-  state: started
+  state: finished
+  finished_at: 2020-12-28
   started_at: 2019-03-04
   queued_at: 2019-03-04
 - title: "Four Futures: Life After Capitalism"
