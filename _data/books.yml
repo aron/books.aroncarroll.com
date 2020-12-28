@@ -1,4 +1,13 @@
 items:
+- title: "Let My People Go Surfing"
+  subtitle: "The Education of a Reluctant Businessman"
+  authors:
+  - "Yvon Chouinard"
+  url: https://www.goodreads.com/book/isbn/0143037838
+  isbn: 0143037838
+  type: kindle
+  state: queued
+  queued_at: 2020-12-21
 - title: "Thanks for the Feedback"
   subtitle: "The Science and Art of Receiving Feedback Well"
   authors:
