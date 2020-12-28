@@ -1,4 +1,14 @@
 items:
+- title: "An Elegant Puzzle"
+  subtitle: "Systems of Engineering Management"
+  authors:
+  - "Will Larson"
+  url: https://press.stripe.com/
+  isbn: 1732265186
+  type: kindle
+  state: finished
+  started_at: 2020-11-09
+  finished_at: 2020-12-27
 - title: "Jingo"
   authors:
   - "Terry Pratchett"
@@ -172,6 +182,7 @@ items:
   finished_at: 2020-12-28
   started_at: 2019-03-04
   queued_at: 2019-03-04
+  recommended: true
 - title: "Four Futures: Life After Capitalism"
   authors:
   - Peter Frase
