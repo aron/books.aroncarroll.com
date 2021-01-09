@@ -16,8 +16,8 @@ items:
   url: https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback
   isbn: 0670014664
   type: kindle
-  state: started
-  started_at: 2020-12-28
+  state: finished
+  started_at: 2021-01-06
 - title: "An Elegant Puzzle"
   subtitle: "Systems of Engineering Management"
   authors:
