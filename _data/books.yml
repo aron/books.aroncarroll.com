@@ -1,4 +1,34 @@
 items:
+- title: "Whose Story is This?"
+  subtitle: "Old Conflicts, New Chapters"
+  authors:
+  - "Rebecca Solnit"
+  url: https://www.goodreads.com/book/isbn/1642590185
+  isbn: 1642590185
+  type: kindle
+  state: started
+  queued_at: 2021-01-29
+  started_at: 2021-01-29
+- title: "The Coaching Habit"
+  subtitle: "Say Less, Ask More & Change the Way You Lead Forever"
+  authors:
+  - "Michael Bungay Stanier"
+  url: https://www.goodreads.com/book/isbn/0978440749
+  isbn: 0978440749
+  type: kindle
+  state: started
+  queued_at: 2021-04-28
+  started_at: 2021-04-29
+- title: "Fierce Conversations"
+  subtitle: "Achieving Success at Work and in Life One Conversation at a Time"
+  authors:
+  - "Susan Scott"
+  url: https://www.goodreads.com/book/isbn/0349417369
+  isbn: 0349417369
+  type: kindle
+  state: finished
+  queued_at: 2021-01-29
+  finished_at: 2021-04-28
 - title: "Let My People Go Surfing"
   subtitle: "The Education of a Reluctant Businessman"
   authors:
@@ -129,8 +159,9 @@ items:
   url: https://www.goodreads.com/search?query=9780201835953
   isbn: 9780201835953
   type: kindle
-  state: queued
+  state: started
   queued_at: 2020-06-03
+  started_at: 2021-02-01
 - title: "Who Owns England?"
   authors:
   - "Guy Shrubsole"
