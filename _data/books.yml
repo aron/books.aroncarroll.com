@@ -1,4 +1,12 @@
 items:
+- title: The Tombs of Atuan
+  authors:
+  - Ursula K. Le Guin
+  url: https://goodreads.com/book/isbn/1416509623
+  isbn: "1416509623"
+  type: kindle
+  state: queued
+  queued_at: "2020-03-19"
 - title: Hello World
   subtitle: How to be Human in the Age of the Machine
   authors:
