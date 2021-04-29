@@ -23,7 +23,7 @@ items:
   isbn: "0748124128"
   type: kindle
   state: queued
-queued_at: "2021-02-21"
+  queued_at: "2021-02-21"
 - title: Debt, Updated and Expanded
   subtitle: The First 5,000 Years
   authors:
