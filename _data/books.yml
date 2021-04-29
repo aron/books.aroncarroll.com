@@ -1,4 +1,39 @@
 items:
+- title: Hello World
+  subtitle: How to be Human in the Age of the Machine
+  authors:
+  - Hannah Fry
+  url: https://goodreads.com/book/isbn/1473544718
+  isbn: "1473544718"
+  type: kindle
+  state: queued
+  queued_at: "2020-12-28"
+- title: Accelerando
+  authors:
+  - Charles Stross
+  url: https://goodreads.com/book/isbn/0748124128
+  isbn: "0748124128"
+  type: kindle
+  state: queued
+queued_at: "2021-02-21"
+- title: Debt, Updated and Expanded
+  subtitle: The First 5,000 Years
+  authors:
+  - David Graeber
+  url: https://goodreads.com/book/isbn/1612194206
+  isbn: "1612194206"
+  type: kindle
+  state: queued
+  queued_at: "2021-04-26"
+- title: Fed Up
+  subtitle: Navigating and redefining emotional labour for good
+  authors:
+  - Gemma Hartley
+  url: https://goodreads.com/book/isbn/1473687454
+  isbn: "1473687454"
+  type: kindle
+  state: queued
+  queued_at: "2021-03-21"
 - title: "Whose Story is This?"
   subtitle: "Old Conflicts, New Chapters"
   authors:
