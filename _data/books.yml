@@ -1,4 +1,30 @@
 items:
+- title: The Separation
+  authors:
+  - Christopher Priest
+  url: https://goodreads.com/book/isbn/0575114959
+  isbn: "0575114959"
+  type: kindle
+  state: queued
+  queued_at: "2020-10-19"
+- title: The Culture Map
+  subtitle: Decoding How People Think, Lead, and Get Things Done Across Cultures
+  authors:
+  - Erin Meyer
+  url: https://goodreads.com/book/isbn/1610396715
+  isbn: "1610396715"
+  type: paperback
+  state: queued
+  queued_at: "2021-04-29"
+- title: Powerful
+  subtitle: Building a Culture of Freedom and Responsibility
+  authors:
+  - Patty McCord
+  url: https://goodreads.com/book/isbn/1939714117
+  isbn: "1939714117"
+  type: kindle
+  state: queued
+  queued_at: "2021-04-28"
 - title: The Tombs of Atuan
   authors:
   - Ursula K. Le Guin
