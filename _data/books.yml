@@ -23,8 +23,9 @@ items:
   url: https://goodreads.com/book/isbn/1939714117
   isbn: "1939714117"
   type: kindle
-  state: queued
+  state: started
   queued_at: "2021-04-28"
+  started_at: "2021-05-03"
 - title: The Tombs of Atuan
   authors:
   - Ursula K. Le Guin
