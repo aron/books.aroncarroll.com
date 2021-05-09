@@ -34,8 +34,7 @@ items:
   isbn: "1939714117"
   type: kindle
   state: finished
-  queued_at: 
-  -04-28"
+  queued_at: 2021-04-28
   started_at: 2021-05-03
   finished_at: 2021-05-08
 - title: The Tombs of Atuan
