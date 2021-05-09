@@ -1,4 +1,14 @@
 items:
+- title: Creativity, Inc.
+  subtitle: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
+  authors:
+  - Ed Catmull
+  url: https://goodreads.com/book/isbn/1448126282
+  isbn: "1448126282"
+  type: kindle
+  state: started
+  queued_at: 2021-05-08
+  started_at: 2021-05-08
 - title: The Separation
   authors:
   - Christopher Priest
@@ -6,7 +16,7 @@ items:
   isbn: "0575114959"
   type: kindle
   state: queued
-  queued_at: "2020-10-19"
+  queued_at: 2020-10-19
 - title: The Culture Map
   subtitle: Decoding How People Think, Lead, and Get Things Done Across Cultures
   authors:
@@ -15,7 +25,7 @@ items:
   isbn: "1610396715"
   type: paperback
   state: queued
-  queued_at: "2021-04-29"
+  queued_at: 2021-04-29
 - title: Powerful
   subtitle: Building a Culture of Freedom and Responsibility
   authors:
@@ -24,9 +34,10 @@ items:
   isbn: "1939714117"
   type: kindle
   state: finished
-  queued_at: "2021-04-28"
-  started_at: "2021-05-03"
-  finished_at: "2021-05-08"
+  queued_at: 
+  -04-28"
+  started_at: 2021-05-03
+  finished_at: 2021-05-08
 - title: The Tombs of Atuan
   authors:
   - Ursula K. Le Guin
@@ -51,7 +62,7 @@ items:
   isbn: "0748124128"
   type: kindle
   state: queued
-  queued_at: "2021-02-21"
+  queued_at: 2021-02-21
 - title: Debt, Updated and Expanded
   subtitle: The First 5,000 Years
   authors:
@@ -60,7 +71,7 @@ items:
   isbn: "1612194206"
   type: kindle
   state: queued
-  queued_at: "2021-04-26"
+  queued_at: 2021-04-26
 - title: Fed Up
   subtitle: Navigating and redefining emotional labour for good
   authors:
@@ -69,7 +80,7 @@ items:
   isbn: "1473687454"
   type: kindle
   state: queued
-  queued_at: "2021-03-21"
+  queued_at: 2021-03-21
 - title: "Whose Story is This?"
   subtitle: "Old Conflicts, New Chapters"
   authors:
