@@ -1,4 +1,26 @@
 items:
+- title: The ALL NEW Don't Think of an Elephant!
+  subtitle: Know Your Values and Frame the Debate
+  authors:
+  - George Lakoff
+  url: https://goodreads.com/book/isbn/B00NP9LHFA
+  isbn: "B00NP9LHFA"
+  type: kindle
+  state: finished
+  queued_at: 2021-12-27
+  started_at: 2022-08-01
+  finished_at: 2022-08-21
+- title: The Farthest Shore
+  subtitle: The Third Book of Earthsea
+  authors:
+  - Ursula K. Le Guin
+  url: https://goodreads.com/book/isbn/978-1473223585
+  isbn: "978-1473223585"
+  type: kindle
+  state: finished
+  queued_at: 2022-05-29
+  started_at: 2022-05-29
+  finished_at: 2022-06-05
 - title: Creativity, Inc.
   subtitle: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
   authors:
