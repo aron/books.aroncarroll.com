@@ -3,11 +3,7 @@ const filename = Deno.args[0]; // Same name as downloaded_filename `const filena
 const destination = "_data/music.yaml";
 
 import { load, dump } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
-import {
-  uniqWith,
-  isEqual,
-  merge,
-} from "https://deno.land/x/lodash@4.17.15-es/lodash.js";
+import { unionWith, isEqual } from "https://deno.land/x/lodash@4.17.15-es/lodash.js";
 import { ensureDir } from "https://deno.land/std@0.160.0/fs/mod.ts";
 import { dirname } from "https://deno.land/std@0.160.0/path/posix.ts";
 
@@ -64,7 +60,7 @@ try {
   current = { items: [] };
 }
 
-const merged = uniqWith(merge(current.items, tracks), isEqual);
+const merged = unionWith(current.items, tracks, isEqual);
 merged.sort((a, b) => Date.parse(b.timestamp) - Date.parse(a.timestamp));
 
 const filedata = { items: merged };
