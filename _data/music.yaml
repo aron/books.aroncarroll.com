@@ -1,4 +1,9 @@
 items:
+  - title: Introvert
+    album: Sometimes I Might Be Introvert
+    artist: Little Simz
+    timestamp: '23 Oct 2022, 18:40'
+    link: 'https://www.last.fm/music/Little+Simz/_/Introvert'
   - title: Tom Courtenay
     album: Electr-o-pura
     artist: Yo La Tengo
@@ -45,8 +50,3 @@ items:
     artist: Hole
     timestamp: '15 Oct 2022, 20:03'
     link: 'https://www.last.fm/music/Hole/_/Plump'
-  - title: Miss World
-    album: Live Through This
-    artist: Hole
-    timestamp: '15 Oct 2022, 20:00'
-    link: 'https://www.last.fm/music/Hole/_/Miss+World'
