@@ -4,11 +4,8 @@ const destination = "_data/films.yaml";
 
 import { parseFeed } from "https://deno.land/x/rss/mod.ts";
 import { load, dump } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
-import {
-  uniqWith,
-  isEqual,
-  merge,
-} from "https://deno.land/x/lodash@4.17.15-es/lodash.js";import { ensureDir } from "https://deno.land/std@0.160.0/fs/mod.ts";
+import { unionWith, isEqual } from "https://deno.land/x/lodash@4.17.15-es/lodash.js";
+import { ensureDir } from "https://deno.land/std@0.160.0/fs/mod.ts";
 import { dirname } from "https://deno.land/std@0.160.0/path/posix.ts";
 
 const xml = await Deno.readTextFile(filename);
@@ -61,7 +58,7 @@ try {
   current = {items: []};
 }
 
-const merged = uniqWith(merge(current.items, films), isEqual);
+const merged = unionWith(films, current.items, isEqual);
 merged.sort(
   (a, b) => Date.parse(b.watched_at) - Date.parse(a.watched_at)
 );
