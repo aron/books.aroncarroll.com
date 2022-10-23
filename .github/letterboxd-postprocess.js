@@ -43,7 +43,6 @@ const { entries } = await parseFeed(xml);
 const films = entries
   .filter((entry) => entry["letterboxd:watcheddate"])
   .map((entry) => {
-    console.log(entry["letterboxd:memberrating"]);
     return {
       title: entry["letterboxd:filmtitle"]?.value ?? "",
       year: entry["letterboxd:filmyear"]?.value ?? "",
