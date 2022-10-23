@@ -7,9 +7,8 @@ import { load, dump } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 import { deepmerge } from "https://deno.land/x/deepmergets/dist/deno/index.ts";
 import { ensureDir } from "https://deno.land/std@0.160.0/fs/mod.ts";
 import { dirname } from "https://deno.land/std@0.160.0/path/posix.ts";
-import { readTXT, writeTXT } from "https://deno.land/x/flat@0.0.11/mod.ts";
 
-const xml = await readTXT(filename);
+const xml = await Deno.readTextFile(filename);
 const { entries } = await parseFeed(xml);
 
 /*
@@ -54,7 +53,7 @@ await ensureDir(dirname(destination));
 
 let current;
 try {
-  current = load(Deno.readTextFileSync(destination));
+  current = load(await Deno.readTextFile(destination));
 } catch (err) {
   current = {};
 }
@@ -64,5 +63,5 @@ merged.items.sort(
   (a, b) => Date.parse(b.watched_at) - Date.parse(a.watched_at)
 );
 
-await writeTXT(destination, dump(merged));
-await removeFile(filename);
+await Deno.writeTextFile(destination, dump(merged));
+await Deno.remove(filename);
