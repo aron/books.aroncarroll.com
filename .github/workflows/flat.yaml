@@ -27,3 +27,10 @@ jobs:
           http_url: https://letterboxd.com/aron/rss/ # The data to fetch every 5 minutes
           downloaded_filename: letterboxd.xml
           postprocess: .github/letterboxd-postprocess.js
+      - name: Fetch Last.fm data 
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&limit=10&user=ac94&api_key=${{ secrets.LASTFM_API_KEY }}&format=json
+          downloaded_filename: lastfm.json
+          postprocess: .github/lastfm-postprocess.js
+          mask: '["${{ secrets.LASTFM_API_KEY }}"]'
