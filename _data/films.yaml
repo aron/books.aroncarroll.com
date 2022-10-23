@@ -24,6 +24,16 @@ items:
     rating: '4.0'
     watched_at: '2022-10-22'
     link: 'https://letterboxd.com/aron/film/the-blues-brothers/'
+  - title: The Blues Brothers
+    year: '1980'
+    rating: '4.0'
+    watched_at: '2022-10-22'
+    link: 'https://letterboxd.com/aron/film/the-blues-brothers/'
+  - title: In Bruges
+    year: '2008'
+    rating: '3.0'
+    watched_at: '2022-10-08'
+    link: 'https://letterboxd.com/aron/film/in-bruges/'
   - title: In Bruges
     year: '2008'
     rating: '3.0'
@@ -79,6 +89,17 @@ items:
     watched_at: '2022-08-26'
     link: >-
       https://letterboxd.com/aron/film/like-a-rolling-stone-the-life-times-of-ben-fong-torres/
+  - title: 'Like A Rolling Stone: The Life & Times of Ben Fong-Torres'
+    year: '2021'
+    rating: ''
+    watched_at: '2022-08-26'
+    link: >-
+      https://letterboxd.com/aron/film/like-a-rolling-stone-the-life-times-of-ben-fong-torres/
+  - title: In the Loop
+    year: '2009'
+    rating: '4.0'
+    watched_at: '2022-08-22'
+    link: 'https://letterboxd.com/aron/film/in-the-loop/'
   - title: In the Loop
     year: '2009'
     rating: '4.0'
@@ -129,6 +150,16 @@ items:
     rating: ''
     watched_at: '2022-08-20'
     link: 'https://letterboxd.com/aron/film/boiling-point-2021/'
+  - title: Boiling Point
+    year: '2021'
+    rating: ''
+    watched_at: '2022-08-20'
+    link: 'https://letterboxd.com/aron/film/boiling-point-2021/'
+  - title: Dune
+    year: '2021'
+    rating: '4.0'
+    watched_at: '2022-08-19'
+    link: 'https://letterboxd.com/aron/film/dune-2021/'
   - title: Dune
     year: '2021'
     rating: '4.0'
@@ -179,6 +210,16 @@ items:
     rating: ''
     watched_at: '2022-08-18'
     link: 'https://letterboxd.com/aron/film/stay-on-board-the-leo-baker-story/'
+  - title: 'Stay on Board: The Leo Baker Story'
+    year: '2022'
+    rating: ''
+    watched_at: '2022-08-18'
+    link: 'https://letterboxd.com/aron/film/stay-on-board-the-leo-baker-story/'
+  - title: Bear Island
+    year: '2014'
+    rating: '3.5'
+    watched_at: '2022-08-10'
+    link: 'https://letterboxd.com/aron/film/bear-island-2014/'
   - title: Bear Island
     year: '2014'
     rating: '3.5'
@@ -229,6 +270,16 @@ items:
     rating: ''
     watched_at: '2022-08-05'
     link: 'https://letterboxd.com/aron/film/roadrunner-a-film-about-anthony-bourdain/'
+  - title: 'Roadrunner: A Film About Anthony Bourdain'
+    year: '2021'
+    rating: ''
+    watched_at: '2022-08-05'
+    link: 'https://letterboxd.com/aron/film/roadrunner-a-film-about-anthony-bourdain/'
+  - title: North of the Sun
+    year: '2012'
+    rating: ''
+    watched_at: '2022-07-25'
+    link: 'https://letterboxd.com/aron/film/north-of-the-sun/'
   - title: North of the Sun
     year: '2012'
     rating: ''
@@ -279,6 +330,16 @@ items:
     rating: ''
     watched_at: '2022-07-10'
     link: 'https://letterboxd.com/aron/film/behind-the-tide/'
+  - title: Behind the Tide
+    year: '2014'
+    rating: ''
+    watched_at: '2022-07-10'
+    link: 'https://letterboxd.com/aron/film/behind-the-tide/'
+  - title: The Sparks Brothers
+    year: '2021'
+    rating: ''
+    watched_at: '2022-06-15'
+    link: 'https://letterboxd.com/aron/film/the-sparks-brothers/'
   - title: The Sparks Brothers
     year: '2021'
     rating: ''
@@ -329,6 +390,16 @@ items:
     rating: ''
     watched_at: '2022-04-21'
     link: 'https://letterboxd.com/aron/film/the-king-of-staten-island/'
+  - title: The King of Staten Island
+    year: '2020'
+    rating: ''
+    watched_at: '2022-04-21'
+    link: 'https://letterboxd.com/aron/film/the-king-of-staten-island/'
+  - title: Dirty Dancing
+    year: '1987'
+    rating: ''
+    watched_at: '2022-04-18'
+    link: 'https://letterboxd.com/aron/film/dirty-dancing/'
   - title: Dirty Dancing
     year: '1987'
     rating: ''
@@ -379,6 +450,16 @@ items:
     rating: ''
     watched_at: '2022-03-04'
     link: 'https://letterboxd.com/aron/film/passing-2021/'
+  - title: Passing
+    year: '2021'
+    rating: ''
+    watched_at: '2022-03-04'
+    link: 'https://letterboxd.com/aron/film/passing-2021/'
+  - title: Seaspiracy
+    year: '2021'
+    rating: ''
+    watched_at: '2022-02-25'
+    link: 'https://letterboxd.com/aron/film/seaspiracy/'
   - title: Seaspiracy
     year: '2021'
     rating: ''
@@ -429,6 +510,16 @@ items:
     rating: ''
     watched_at: '2022-02-09'
     link: 'https://letterboxd.com/aron/film/schumacher/'
+  - title: Schumacher
+    year: '2021'
+    rating: ''
+    watched_at: '2022-02-09'
+    link: 'https://letterboxd.com/aron/film/schumacher/'
+  - title: The Ponds
+    year: '2018'
+    rating: ''
+    watched_at: '2022-02-07'
+    link: 'https://letterboxd.com/aron/film/the-ponds/'
   - title: The Ponds
     year: '2018'
     rating: ''
@@ -479,6 +570,16 @@ items:
     rating: ''
     watched_at: '2022-02-05'
     link: 'https://letterboxd.com/aron/film/a-beautiful-day-in-the-neighborhood/'
+  - title: A Beautiful Day in the Neighborhood
+    year: '2019'
+    rating: ''
+    watched_at: '2022-02-05'
+    link: 'https://letterboxd.com/aron/film/a-beautiful-day-in-the-neighborhood/'
+  - title: Don't Look Up
+    year: '2021'
+    rating: ''
+    watched_at: '2021-12-29'
+    link: 'https://letterboxd.com/aron/film/dont-look-up-2021/'
   - title: Don't Look Up
     year: '2021'
     rating: ''
@@ -554,6 +655,21 @@ items:
     rating: ''
     watched_at: '2021-11-26'
     link: 'https://letterboxd.com/aron/film/tick-tick-boom-2021/'
+  - title: Babyteeth
+    year: '2019'
+    rating: ''
+    watched_at: '2021-11-26'
+    link: 'https://letterboxd.com/aron/film/babyteeth/'
+  - title: 'tick, tick...BOOM!'
+    year: '2021'
+    rating: ''
+    watched_at: '2021-11-26'
+    link: 'https://letterboxd.com/aron/film/tick-tick-boom-2021/'
+  - title: Count Me In
+    year: '2021'
+    rating: ''
+    watched_at: '2021-10-15'
+    link: 'https://letterboxd.com/aron/film/count-me-in/'
   - title: Count Me In
     year: '2021'
     rating: ''
@@ -629,6 +745,21 @@ items:
     rating: ''
     watched_at: '2021-08-21'
     link: 'https://letterboxd.com/aron/film/inventing-david-geffen/'
+  - title: 'Bo Burnham: Inside'
+    year: '2021'
+    rating: ''
+    watched_at: '2021-08-21'
+    link: 'https://letterboxd.com/aron/film/bo-burnham-inside/'
+  - title: Inventing David Geffen
+    year: '2012'
+    rating: ''
+    watched_at: '2021-08-21'
+    link: 'https://letterboxd.com/aron/film/inventing-david-geffen/'
+  - title: Blinded by the Light
+    year: '2019'
+    rating: ''
+    watched_at: '2021-07-21'
+    link: 'https://letterboxd.com/aron/film/blinded-by-the-light-2019/'
   - title: Blinded by the Light
     year: '2019'
     rating: ''
@@ -679,6 +810,11 @@ items:
     rating: ''
     watched_at: '2021-06-30'
     link: 'https://letterboxd.com/aron/film/yesterday-2019/'
+  - title: Yesterday
+    year: '2019'
+    rating: ''
+    watched_at: '2021-06-30'
+    link: 'https://letterboxd.com/aron/film/yesterday-2019/'
   - title: Rocketman
     year: '2019'
     rating: ''
@@ -704,6 +840,16 @@ items:
     rating: ''
     watched_at: '2021-05-31'
     link: 'https://letterboxd.com/aron/film/rocketman-2019/'
+  - title: Rocketman
+    year: '2019'
+    rating: ''
+    watched_at: '2021-05-31'
+    link: 'https://letterboxd.com/aron/film/rocketman-2019/'
+  - title: Matangi / Maya / M.I.A.
+    year: '2018'
+    rating: ''
+    watched_at: '2021-05-22'
+    link: 'https://letterboxd.com/aron/film/matangi-maya-mia/'
   - title: Matangi / Maya / M.I.A.
     year: '2018'
     rating: ''
@@ -779,6 +925,21 @@ items:
     rating: ''
     watched_at: '2021-03-19'
     link: 'https://letterboxd.com/aron/film/malcolm-marie/'
+  - title: 'Biggie: I Got a Story to Tell'
+    year: '2021'
+    rating: ''
+    watched_at: '2021-03-19'
+    link: 'https://letterboxd.com/aron/film/biggie-i-got-a-story-to-tell/'
+  - title: Malcolm & Marie
+    year: '2021'
+    rating: ''
+    watched_at: '2021-03-19'
+    link: 'https://letterboxd.com/aron/film/malcolm-marie/'
+  - title: Who Killed Malcolm X?
+    year: '2019'
+    rating: ''
+    watched_at: '2021-01-28'
+    link: 'https://letterboxd.com/aron/film/who-killed-malcolm-x/'
   - title: Who Killed Malcolm X?
     year: '2019'
     rating: ''
@@ -829,6 +990,26 @@ items:
     rating: ''
     watched_at: '2020-12-20'
     link: 'https://letterboxd.com/aron/film/tripping-with-nils-frahm/'
+  - title: Tripping with Nils Frahm
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-20'
+    link: 'https://letterboxd.com/aron/film/tripping-with-nils-frahm/'
+  - title: The Forty-Year-Old Version
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-06'
+    link: 'https://letterboxd.com/aron/film/the-forty-year-old-version/1/'
+  - title: The Queen's Gambit
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-06'
+    link: 'https://letterboxd.com/aron/film/the-queens-gambit/'
+  - title: The Forty-Year-Old Version
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-06'
+    link: 'https://letterboxd.com/aron/film/the-forty-year-old-version/'
   - title: The Forty-Year-Old Version
     year: '2020'
     rating: ''
@@ -954,6 +1135,26 @@ items:
     rating: ''
     watched_at: '2020-12-05'
     link: 'https://letterboxd.com/aron/film/the-trial-of-the-chicago-7/'
+  - title: The Trial of the Chicago 7
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-05'
+    link: 'https://letterboxd.com/aron/film/the-trial-of-the-chicago-7/1/'
+  - title: The Trial of the Chicago 7
+    year: '2020'
+    rating: ''
+    watched_at: '2020-12-05'
+    link: 'https://letterboxd.com/aron/film/the-trial-of-the-chicago-7/'
+  - title: 'Miles Davis: Birth of the Cool'
+    year: '2019'
+    rating: ''
+    watched_at: '2020-12-03'
+    link: 'https://letterboxd.com/aron/film/miles-davis-birth-of-the-cool/1/'
+  - title: 'Miles Davis: Birth of the Cool'
+    year: '2019'
+    rating: ''
+    watched_at: '2020-12-03'
+    link: 'https://letterboxd.com/aron/film/miles-davis-birth-of-the-cool/'
   - title: 'Miles Davis: Birth of the Cool'
     year: '2019'
     rating: ''
@@ -1029,6 +1230,16 @@ items:
     rating: ''
     watched_at: '2020-11-14'
     link: 'https://letterboxd.com/aron/film/8-women/'
+  - title: 8 Women
+    year: '2002'
+    rating: ''
+    watched_at: '2020-11-14'
+    link: 'https://letterboxd.com/aron/film/8-women/'
+  - title: 'Spider-Man: Into the Spider-Verse'
+    year: '2018'
+    rating: '4.0'
+    watched_at: '2020-11-07'
+    link: 'https://letterboxd.com/aron/film/spider-man-into-the-spider-verse/'
   - title: 'Spider-Man: Into the Spider-Verse'
     year: '2018'
     rating: '4.0'
@@ -1079,6 +1290,16 @@ items:
     rating: ''
     watched_at: '2020-10-08'
     link: 'https://letterboxd.com/aron/film/juliet-naked/'
+  - title: 'Juliet, Naked'
+    year: '2018'
+    rating: ''
+    watched_at: '2020-10-08'
+    link: 'https://letterboxd.com/aron/film/juliet-naked/'
+  - title: The Social Dilemma
+    year: '2020'
+    rating: ''
+    watched_at: '2020-09-23'
+    link: 'https://letterboxd.com/aron/film/the-social-dilemma/'
   - title: The Social Dilemma
     year: '2020'
     rating: ''
@@ -1134,6 +1355,17 @@ items:
     watched_at: '2020-09-13'
     link: >-
       https://letterboxd.com/aron/film/the-b-side-elsa-dorfmans-portrait-photography/
+  - title: 'The B-Side: Elsa Dorfman''s Portrait Photography'
+    year: '2016'
+    rating: ''
+    watched_at: '2020-09-13'
+    link: >-
+      https://letterboxd.com/aron/film/the-b-side-elsa-dorfmans-portrait-photography/
+  - title: How to Train Your Dragon
+    year: '2010'
+    rating: ''
+    watched_at: '2020-08-08'
+    link: 'https://letterboxd.com/aron/film/how-to-train-your-dragon/'
   - title: How to Train Your Dragon
     year: '2010'
     rating: ''
@@ -1184,6 +1416,16 @@ items:
     rating: ''
     watched_at: '2020-07-15'
     link: 'https://letterboxd.com/aron/film/the-last-dance-2020/'
+  - title: The Last Dance
+    year: '2020'
+    rating: ''
+    watched_at: '2020-07-15'
+    link: 'https://letterboxd.com/aron/film/the-last-dance-2020/'
+  - title: Unorthodox
+    year: '2020'
+    rating: '4.0'
+    watched_at: '2020-06-30'
+    link: 'https://letterboxd.com/aron/film/unorthodox-2020/'
   - title: Unorthodox
     year: '2020'
     rating: '4.0'
@@ -1234,6 +1476,16 @@ items:
     rating: '4.0'
     watched_at: '2020-04-07'
     link: 'https://letterboxd.com/aron/film/coffee-and-cigarettes-2003/'
+  - title: Coffee and Cigarettes
+    year: '2003'
+    rating: '4.0'
+    watched_at: '2020-04-07'
+    link: 'https://letterboxd.com/aron/film/coffee-and-cigarettes-2003/'
+  - title: Army of Shadows
+    year: '1969'
+    rating: '3.0'
+    watched_at: '2020-03-31'
+    link: 'https://letterboxd.com/aron/film/army-of-shadows/'
   - title: Army of Shadows
     year: '1969'
     rating: '3.0'
