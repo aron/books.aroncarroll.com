@@ -43,7 +43,9 @@ const { recenttracks } = await JSON.parse(data);
   date: { uts: "1666008599", "#text": "17 Oct 2022, 12:09" }
 }
   */
-const tracks = recenttracks.track.map((entry) => {
+const tracks = recenttracks.track
+.filter(entry => entry.date)
+.map(entry => {
   return {
     title: entry.name,
     album: entry.album["#text"],
