@@ -26,4 +26,4 @@ jobs:
         with:
           http_url: https://letterboxd.com/aron/rss/ # The data to fetch every 5 minutes
           downloaded_filename: letterboxd.xml
-          postprocess: .github/flat-postprocess.js
+          postprocess: .github/letterboxd-postprocess.js
