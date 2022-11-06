@@ -1,4 +1,19 @@
 items:
+  - title: Imagine
+    album: Imagine
+    artist: John Lennon
+    timestamp: '06 Nov 2022, 14:57'
+    link: 'https://www.last.fm/music/John+Lennon/_/Imagine'
+  - title: Peace Train
+    album: Greatest Hits
+    artist: Cat Stevens
+    timestamp: '06 Nov 2022, 14:53'
+    link: 'https://www.last.fm/music/Cat+Stevens/_/Peace+Train'
+  - title: Yellow Submarine
+    album: Revolver (Super Deluxe)
+    artist: The Beatles
+    timestamp: '06 Nov 2022, 14:50'
+    link: 'https://www.last.fm/music/The+Beatles/_/Yellow+Submarine'
   - title: I'm a Believer (2006 Remaster)
     album: More of the Monkees (Deluxe Edition)
     artist: The Monkees
