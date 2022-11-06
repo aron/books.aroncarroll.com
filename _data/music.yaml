@@ -1,4 +1,14 @@
 items:
+  - title: American Pie
+    album: American Pie
+    artist: Don McLean
+    timestamp: '06 Nov 2022, 15:12'
+    link: 'https://www.last.fm/music/Don+McLean/_/American+Pie'
+  - title: What Is Life
+    album: All Things Must Pass
+    artist: George Harrison
+    timestamp: '06 Nov 2022, 15:08'
+    link: 'https://www.last.fm/music/George+Harrison/_/What+Is+Life'
   - title: Mr. Blue Sky
     album: Out of the Blue
     artist: Electric Light Orchestra
