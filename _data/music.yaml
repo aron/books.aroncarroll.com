@@ -1,4 +1,20 @@
 items:
+  - title: My Sweet Lord
+    album: All Things Must Pass
+    artist: George Harrison
+    timestamp: '06 Nov 2022, 14:40'
+    link: 'https://www.last.fm/music/George+Harrison/_/My+Sweet+Lord'
+  - title: Mrs. Robinson (From "The Graduate" Soundtrack)
+    album: Bookends
+    artist: Simon & Garfunkel
+    timestamp: '06 Nov 2022, 14:35'
+    link: >-
+      https://www.last.fm/music/Simon+&+Garfunkel/_/Mrs.+Robinson+(From+%22The+Graduate%22+Soundtrack)
+  - title: The Wind
+    album: Sing (Original Motion Picture Soundtrack / Deluxe)
+    artist: Cat Stevens
+    timestamp: '06 Nov 2022, 14:34'
+    link: 'https://www.last.fm/music/Cat+Stevens/_/The+Wind'
   - title: Here Comes the Sun
     album: Abbey Road (Remastered)
     artist: The Beatles
