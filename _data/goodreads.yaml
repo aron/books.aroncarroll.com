@@ -7,6 +7,18 @@ items:
     goodreads_url: 'https://www.goodreads.com/review/show/5106465911'
     isbn: '1942788339'
     type: kindle
+    state: started
+    pages: '288'
+    queued_at: '2022-11-15'
+    started_at: '2022-11-15'
+  - title: Accelerate
+    subtitle: Building and Scaling High Performing Technology Organizations
+    authors:
+      - Nicole Forsgren
+    url: 'https://www.goodreads.com/book/show/35747076'
+    goodreads_url: 'https://www.goodreads.com/review/show/5106465911'
+    isbn: '1942788339'
+    type: kindle
     state: finished
     pages: '288'
     queued_at: '2022-11-15'
@@ -23,18 +35,6 @@ items:
     pages: '288'
     queued_at: '2022-11-15'
     finished_at: '2022-11-15'
-  - title: The Cutter Incident
-    subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
-    authors:
-      - Paul A. Offit
-    url: 'https://www.goodreads.com/book/show/19642511'
-    goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
-    isbn: ''
-    type: kindle
-    state: finished
-    pages: '256'
-    queued_at: '2022-10-23'
-    finished_at: '2022-11-15'
   - title: Cryptonomicon
     subtitle: ''
     authors:
@@ -47,6 +47,42 @@ items:
     pages: '931'
     queued_at: '2022-10-23'
     finished_at: '2022-11-15'
+  - title: The All New Don't Think of an Elephant!
+    subtitle: Know Your Values and Frame the Debate
+    authors:
+      - George Lakoff
+    url: 'https://www.goodreads.com/book/show/23392815'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '195'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
+  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157443'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '404'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Cutter Incident
+    subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
+    authors:
+      - Paul A. Offit
+    url: 'https://www.goodreads.com/book/show/19642511'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '256'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
   - title: Team Topologies
     subtitle: Organizing Business and Technology Teams for Fast Flow
     authors:
@@ -57,18 +93,6 @@ items:
     type: kindle
     state: started
     pages: '240'
-    queued_at: '2022-10-23'
-    started_at: '2022-10-23'
-  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
-    subtitle: ''
-    authors:
-      - Diana Wynne Jones
-    url: 'https://www.goodreads.com/book/show/17157443'
-    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
-    isbn: ''
-    type: kindle
-    state: started
-    pages: '404'
     queued_at: '2022-10-23'
     started_at: '2022-10-23'
   - title: 'A Wizard of Earthsea (Earthsea Cycle, #1)'
@@ -107,30 +131,6 @@ items:
     pages: '196'
     queued_at: '2022-10-23'
     finished_at: '2022-10-23'
-  - title: The All New Don't Think of an Elephant!
-    subtitle: Know Your Values and Frame the Debate
-    authors:
-      - George Lakoff
-    url: 'https://www.goodreads.com/book/show/23392815'
-    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
-    isbn: ''
-    type: kindle
-    state: finished
-    pages: '195'
-    queued_at: '2022-10-23'
-    finished_at: '2022-10-23'
-  - title: The Exploits of Moominpappa
-    subtitle: ''
-    authors:
-      - Tove Jansson
-    url: 'https://www.goodreads.com/book/show/19386502'
-    goodreads_url: 'https://www.goodreads.com/review/show/5062921388'
-    isbn: 014191565X
-    type: kindle
-    state: started
-    pages: '156'
-    queued_at: '2022-10-23'
-    started_at: '2022-10-23'
   - title: Accelerando
     subtitle: ''
     authors:
@@ -202,6 +202,42 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157443'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '404'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
+  - title: The All New Don't Think of an Elephant!
+    subtitle: Know Your Values and Frame the Debate
+    authors:
+      - George Lakoff
+    url: 'https://www.goodreads.com/book/show/23392815'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '195'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Exploits of Moominpappa
+    subtitle: ''
+    authors:
+      - Tove Jansson
+    url: 'https://www.goodreads.com/book/show/19386502'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062921388'
+    isbn: 014191565X
+    type: kindle
+    state: started
+    pages: '156'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
   - title: The Cutter Incident
     subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
     authors:
