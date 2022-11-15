@@ -4,6 +4,18 @@ items:
     authors:
       - Nicole Forsgren
     url: 'https://www.goodreads.com/book/show/35747076'
+    goodreads_url: 'https://www.goodreads.com/review/show/5106465911'
+    isbn: '1942788339'
+    type: kindle
+    state: finished
+    pages: '288'
+    queued_at: '2022-11-15'
+    finished_at: '2022-11-15'
+  - title: Accelerate
+    subtitle: Building and Scaling High Performing Technology Organizations
+    authors:
+      - Nicole Forsgren
+    url: 'https://www.goodreads.com/book/show/35747076'
     goodreads_url: utm_medium=api&utm_source=rss
     isbn: '1942788339'
     type: kindle
@@ -11,6 +23,185 @@ items:
     pages: '288'
     queued_at: '2022-11-15'
     finished_at: '2022-11-15'
+  - title: The Cutter Incident
+    subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
+    authors:
+      - Paul A. Offit
+    url: 'https://www.goodreads.com/book/show/19642511'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '256'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
+  - title: Cryptonomicon
+    subtitle: ''
+    authors:
+      - Neal Stephenson
+    url: 'https://www.goodreads.com/book/show/14761514'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062918711'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '931'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
+  - title: Team Topologies
+    subtitle: Organizing Business and Technology Teams for Fast Flow
+    authors:
+      - Matthew    Skelton
+    url: 'https://www.goodreads.com/book/show/44649332'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867869'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '240'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
+  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157443'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '404'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
+  - title: 'A Wizard of Earthsea (Earthsea Cycle, #1)'
+    subtitle: ''
+    authors:
+      - Ursula K. Le Guin
+    url: 'https://www.goodreads.com/book/show/25328607'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925954'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '320'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: 'The Farthest Shore (Earthsea Cycle, #3)'
+    subtitle: ''
+    authors:
+      - Ursula K. Le Guin
+    url: 'https://www.goodreads.com/book/show/25328606'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062866467'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '320'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: 'The Tombs of Atuan (Earthsea Cycle, #2)'
+    subtitle: ''
+    authors:
+      - Ursula K. Le Guin
+    url: 'https://www.goodreads.com/book/show/25328608'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062926569'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '196'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The All New Don't Think of an Elephant!
+    subtitle: Know Your Values and Frame the Debate
+    authors:
+      - George Lakoff
+    url: 'https://www.goodreads.com/book/show/23392815'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '195'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Exploits of Moominpappa
+    subtitle: ''
+    authors:
+      - Tove Jansson
+    url: 'https://www.goodreads.com/book/show/19386502'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062921388'
+    isbn: 014191565X
+    type: kindle
+    state: started
+    pages: '156'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
+  - title: Accelerando
+    subtitle: ''
+    authors:
+      - Charles Stross
+    url: 'https://www.goodreads.com/book/show/11672721'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062920443'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '441'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
+  - title: 'House of Many Ways (Howl''s Moving Castle, #3)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157453'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062877447'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '441'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Dispossessed
+    subtitle: ''
+    authors:
+      - Ursula K. Le Guin
+    url: 'https://www.goodreads.com/book/show/26837308'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062868255'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '403'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: On Fire
+    subtitle: The Burning Case for a Green New Deal
+    authors:
+      - Naomi Klein
+    url: 'https://www.goodreads.com/book/show/44127588'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062868072'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '310'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Ministry for the Future
+    subtitle: ''
+    authors:
+      - Kim Stanley Robinson
+    url: 'https://www.goodreads.com/book/show/55533938'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867573'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '600'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: Manufacturing Consent
+    subtitle: The Political Economy of the Mass Media
+    authors:
+      - Edward S. Herman
+    url: 'https://www.goodreads.com/book/show/46227381'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867184'
+    isbn: ''
+    type: kindle
+    state: queued
+    pages: '464'
+    queued_at: '2022-10-23'
   - title: The Cutter Incident
     subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
     authors:
@@ -195,6 +386,18 @@ items:
     authors:
       - Susan Scott
     url: 'https://www.goodreads.com/book/show/19285484'
+    goodreads_url: 'https://www.goodreads.com/review/show/3971471930'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '280'
+    queued_at: '2021-04-28'
+    finished_at: '2021-04-28'
+  - title: Fierce Conversations
+    subtitle: 'Achieving success in work and in life, one conversation at a time'
+    authors:
+      - Susan Scott
+    url: 'https://www.goodreads.com/book/show/19285484'
     goodreads_url: utm_medium=api&utm_source=rss
     isbn: ''
     type: kindle
@@ -202,6 +405,18 @@ items:
     pages: '280'
     queued_at: '2021-04-28'
     finished_at: '2021-04-28'
+  - title: Thanks for the Feedback
+    subtitle: The Science and Art of Receiving Feedback Well
+    authors:
+      - Douglas Stone
+    url: 'https://www.goodreads.com/book/show/20991739'
+    goodreads_url: 'https://www.goodreads.com/review/show/3721958028'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '368'
+    queued_at: '2020-12-28'
+    finished_at: '2021-01-06'
   - title: Thanks for the Feedback
     subtitle: The Science and Art of Receiving Feedback Well
     authors:
@@ -219,6 +434,18 @@ items:
     authors:
       - Will Larson
     url: 'https://www.goodreads.com/book/show/45303387'
+    goodreads_url: 'https://www.goodreads.com/review/show/3720010723'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '289'
+    queued_at: '2020-12-27'
+    finished_at: '2020-12-27'
+  - title: An Elegant Puzzle
+    subtitle: Systems of Engineering Management
+    authors:
+      - Will Larson
+    url: 'https://www.goodreads.com/book/show/45303387'
     goodreads_url: utm_medium=api&utm_source=rss
     isbn: ''
     type: kindle
@@ -226,6 +453,18 @@ items:
     pages: '289'
     queued_at: '2020-12-27'
     finished_at: '2020-12-27'
+  - title: Understanding Power
+    subtitle: The Indispensable Chomsky
+    authors:
+      - Noam Chomsky
+    url: 'https://www.goodreads.com/book/show/41049047'
+    goodreads_url: 'https://www.goodreads.com/review/show/3621346399'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '432'
+    queued_at: '2020-10-30'
+    started_at: '2020-10-30'
   - title: Understanding Power
     subtitle: The Indispensable Chomsky
     authors:
