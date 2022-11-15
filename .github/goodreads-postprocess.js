@@ -92,7 +92,7 @@ const books = entries.map((entry) => {
     subtitle: subtitle.join(":").trim(),
     authors: [entry.author_name.value],
     url: "https://www.goodreads.com/book/show/" + entry.book.id,
-    goodreads_url: entry.id.split("?").pop(),
+    goodreads_url: entry.id.split("?")[0],
     isbn: entry.isbn?.value ?? "",
     type: "kindle",
     state: state, // queued, started, finished
