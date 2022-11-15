@@ -34,3 +34,10 @@ jobs:
           downloaded_filename: lastfm.json
           postprocess: .github/lastfm-postprocess.js
           mask: '["${{ secrets.LASTFM_API_KEY }}"]'
+      - name: Fetch Goodreads data 
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://www.goodreads.com/review/list_rss/123826756?key=${{ secrets.GOODREADS_RSS_KEY }}
+          downloaded_filename: books.xml
+          postprocess: .github/goodreads-postprocess.js
+          mask: '["${{ secrets.GOODREADS_RSS_KEY }}"]'
