@@ -1,4 +1,19 @@
 items:
+  - title: Never Come Back
+    album: Suddenly
+    artist: Caribou
+    timestamp: '19 Nov 2022, 22:53'
+    link: 'https://www.last.fm/music/Caribou/_/Never+Come+Back'
+  - title: Lime
+    album: Suddenly
+    artist: Caribou
+    timestamp: '19 Nov 2022, 22:50'
+    link: 'https://www.last.fm/music/Caribou/_/Lime'
+  - title: Home
+    album: Suddenly
+    artist: Caribou
+    timestamp: '19 Nov 2022, 22:47'
+    link: 'https://www.last.fm/music/Caribou/_/Home'
   - title: >-
       Requiem in D Minor, K. 626: VIII. Communio: No. 1, Lux aeterna (Soprano I,
       Chorus) - No. 2, Cum Sanctis (Chorus)
@@ -9,6 +24,11 @@ items:
     timestamp: '19 Nov 2022, 22:46'
     link: >-
       https://www.last.fm/music/Heather+Harper,+Aldeburgh+Festival+Chorus,+English+Chamber+Orchestra,+Benjamin+Britten/_/Requiem+in+D+Minor,+K.+626:+VIII.+Communio:+No.+1,+Lux+aeterna+(Soprano+I,+Chorus)+-+No.+2,+Cum+Sanctis+(Chorus)
+  - title: Emma Swapped Instruments
+    album: Rough Trade Super-Disc
+    artist: Horsegirl
+    timestamp: '19 Nov 2022, 22:46'
+    link: 'https://www.last.fm/music/Horsegirl/_/Emma+Swapped+Instruments'
   - title: Arp Blocks
     album: Cherry
     artist: Daphni
