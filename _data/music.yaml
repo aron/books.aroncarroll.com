@@ -1,4 +1,15 @@
 items:
+  - title: Locked
+    album: Pink
+    artist: Four Tet
+    timestamp: '21 Nov 2022, 13:49'
+    link: 'https://www.last.fm/music/Four+Tet/_/Locked'
+  - title: Feel Good (feat. Khruangbin)
+    album: Kingdoms In Colour
+    artist: 'Maribou State, Khruangbin'
+    timestamp: '21 Nov 2022, 13:45'
+    link: >-
+      https://www.last.fm/music/Maribou+State,+Khruangbin/_/Feel+Good+(feat.+Khruangbin)
   - title: Persona
     album: Persona
     artist: Rival Consoles
