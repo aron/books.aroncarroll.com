@@ -1,4 +1,20 @@
 items:
+  - title: Nova
+    album: Nova / Moth
+    artist: 'Burial, Four Tet'
+    timestamp: '21 Nov 2022, 09:33'
+    link: 'https://www.last.fm/music/Burial,+Four+Tet/_/Nova'
+  - title: Esse é Meu Momento
+    album: Esse é Meu Momento
+    artist: 'Luna, TOKIODK, VND, Ogbritto, Bomcof'
+    timestamp: '21 Nov 2022, 09:30'
+    link: >-
+      https://www.last.fm/music/Luna,+TOKIODK,+VND,+Ogbritto,+Bomcof/_/Esse+%C3%A9+Meu+Momento
+  - title: The Garden Of Earthly Delights
+    album: Come Around
+    artist: Carla dal Forno
+    timestamp: '21 Nov 2022, 09:26'
+    link: 'https://www.last.fm/music/Carla+dal+Forno/_/The+Garden+Of+Earthly+Delights'
   - title: Blood & Sweat
     album: Blood & Sweat
     artist: 'Emil, Kojey Radical, Wretch 32'
