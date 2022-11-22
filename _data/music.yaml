@@ -1,4 +1,14 @@
 items:
+  - title: Hard to Let Go
+    album: Hard to Let Go
+    artist: Men I Trust
+    timestamp: '22 Nov 2022, 13:04'
+    link: 'https://www.last.fm/music/Men+I+Trust/_/Hard+to+Let+Go'
+  - title: Seventh String
+    album: Seventh String
+    artist: Makaya McCraven
+    timestamp: '22 Nov 2022, 13:01'
+    link: 'https://www.last.fm/music/Makaya+McCraven/_/Seventh+String'
   - title: Tongo Barra
     album: Tongo Barra
     artist: 'Vieux Farka Touré, Khruangbin'
@@ -35,6 +45,12 @@ items:
     timestamp: '22 Nov 2022, 11:35'
     link: >-
       https://www.last.fm/music/+noredirect/Daryl+Hall+&+John+Oates/_/You+Make+My+Dreams+(Come+True)
+  - title: You Make My Dreams (Come True)
+    album: Voices
+    artist: Daryl Hall & John Oates
+    timestamp: '22 Nov 2022, 11:35'
+    link: >-
+      https://www.last.fm/music/Daryl+Hall+&+John+Oates/_/You+Make+My+Dreams+(Come+True)
   - title: Theme from Jurassic Park
     album: Jurassic Park - 20th Anniversary
     artist: John Williams
