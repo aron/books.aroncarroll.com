@@ -1,4 +1,14 @@
 items:
+  - title: The Car
+    album: The Car
+    artist: Arctic Monkeys
+    timestamp: '24 Nov 2022, 14:08'
+    link: 'https://www.last.fm/music/Arctic+Monkeys/_/The+Car'
+  - title: Synthesist 2048
+    album: Synthesist Reloaded
+    artist: Monokompatibel
+    timestamp: '24 Nov 2022, 14:02'
+    link: 'https://www.last.fm/music/Monokompatibel/_/Synthesist+2048'
   - title: Paradise (2002 Remaster)
     album: Sneakin' Suspicion
     artist: Dr Feelgood
