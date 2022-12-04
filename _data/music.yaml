@@ -1,4 +1,19 @@
 items:
+  - title: A Marshmallow World
+    album: The Dean Martin Christmas Album
+    artist: Dean Martin
+    timestamp: '04 Dec 2022, 12:55'
+    link: 'https://www.last.fm/music/Dean+Martin/_/A+Marshmallow+World'
+  - title: 'Silent Night, Holy Night'
+    album: Christmas Classics
+    artist: Mahalia Jackson
+    timestamp: '04 Dec 2022, 12:50'
+    link: 'https://www.last.fm/music/Mahalia+Jackson/_/Silent+Night,+Holy+Night'
+  - title: When a Child Is Born
+    album: The Essential Johnny Mathis
+    artist: Johnny Mathis
+    timestamp: '04 Dec 2022, 12:46'
+    link: 'https://www.last.fm/music/Johnny+Mathis/_/When+a+Child+Is+Born'
   - title: It Came Upon A Midnight Clear
     album: Noël
     artist: Josh Groban
