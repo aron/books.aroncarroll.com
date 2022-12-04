@@ -1,4 +1,20 @@
 items:
+  - title: Blue Christmas
+    album: The Classic Christmas Album
+    artist: Elvis Presley
+    timestamp: '04 Dec 2022, 11:27'
+    link: 'https://www.last.fm/music/Elvis+Presley/_/Blue+Christmas'
+  - title: The Christmas Song (Merry Christmas To You)
+    album: The Christmas Song
+    artist: Nat King Cole
+    timestamp: '04 Dec 2022, 11:23'
+    link: >-
+      https://www.last.fm/music/Nat+King+Cole/_/The+Christmas+Song+(Merry+Christmas+To+You)
+  - title: A Holly Jolly Christmas
+    album: The Very Best Of Burl Ives Christmas
+    artist: Burl Ives
+    timestamp: '04 Dec 2022, 11:21'
+    link: 'https://www.last.fm/music/Burl+Ives/_/A+Holly+Jolly+Christmas'
   - title: 'Rudolph, The Red-Nosed Reindeer'
     album: A Mary Christmas
     artist: Mary J. Blige
