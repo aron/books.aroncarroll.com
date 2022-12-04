@@ -1,4 +1,29 @@
 items:
+  - title: Adeste Fideles
+    album: A Jolly Christmas From Frank Sinatra
+    artist: Frank Sinatra
+    timestamp: '04 Dec 2022, 13:08'
+    link: 'https://www.last.fm/music/Frank+Sinatra/_/Adeste+Fideles'
+  - title: White Christmas
+    album: A Classic Soul Christmas
+    artist: Otis Redding
+    timestamp: '04 Dec 2022, 13:05'
+    link: 'https://www.last.fm/music/Otis+Redding/_/White+Christmas'
+  - title: Frosty The Snowman
+    album: Merry Christmas From Brenda Lee
+    artist: Brenda Lee
+    timestamp: '04 Dec 2022, 13:03'
+    link: 'https://www.last.fm/music/Brenda+Lee/_/Frosty+The+Snowman'
+  - title: The First Nowell
+    album: Bing Crosby Sings Christmas Songs
+    artist: Bing Crosby
+    timestamp: '04 Dec 2022, 13:00'
+    link: 'https://www.last.fm/music/Bing+Crosby/_/The+First+Nowell'
+  - title: O Little Town of Bethlehem
+    album: The Christmas Song
+    artist: Nat King Cole
+    timestamp: '04 Dec 2022, 12:58'
+    link: 'https://www.last.fm/music/Nat+King+Cole/_/O+Little+Town+of+Bethlehem'
   - title: A Marshmallow World
     album: The Dean Martin Christmas Album
     artist: Dean Martin
