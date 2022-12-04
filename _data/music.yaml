@@ -1,4 +1,25 @@
 items:
+  - title: Pretty Paper
+    album: The Essential Roy Orbison
+    artist: Roy Orbison
+    timestamp: '04 Dec 2022, 12:09'
+    link: 'https://www.last.fm/music/Roy+Orbison/_/Pretty+Paper'
+  - title: Santa Baby
+    album: The Essential Eartha Kitt
+    artist: Eartha Kitt
+    timestamp: '04 Dec 2022, 12:05'
+    link: 'https://www.last.fm/music/Eartha+Kitt/_/Santa+Baby'
+  - title: Let It Snow
+    album: Christmas
+    artist: 'Boyz II Men, Brian McKnight'
+    timestamp: '04 Dec 2022, 12:04'
+    link: 'https://www.last.fm/music/Boyz+II+Men,+Brian+McKnight/_/Let+It+Snow'
+  - title: It's the Most Wonderful Time of the Year
+    album: TIDAL presents Happy Holidays
+    artist: Andy Williams
+    timestamp: '04 Dec 2022, 12:01'
+    link: >-
+      https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year
   - title: O Holy Night (Cantique de Noel) (1959 Version)
     album: The Classic Christmas Album
     artist: Perry Como
