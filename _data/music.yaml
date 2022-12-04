@@ -1,4 +1,21 @@
 items:
+  - title: 'Rudolph, The Red-Nosed Reindeer'
+    album: A Mary Christmas
+    artist: Mary J. Blige
+    timestamp: '04 Dec 2022, 11:19'
+    link: 'https://www.last.fm/music/Mary+J.+Blige/_/Rudolph,+The+Red-Nosed+Reindeer'
+  - title: It's Beginning to Look a Lot Like Christmas
+    album: Christmas (Deluxe Special Edition)
+    artist: Michael Bublé
+    timestamp: '04 Dec 2022, 11:15'
+    link: >-
+      https://www.last.fm/music/Michael+Bubl%C3%A9/_/It%27s+Beginning+to+Look+a+Lot+Like+Christmas
+  - title: White Christmas
+    album: White Christmas
+    artist: 'Bing Crosby, Ken Darby Singers, John Scott Trotter and His Orchestra'
+    timestamp: '04 Dec 2022, 11:12'
+    link: >-
+      https://www.last.fm/music/Bing+Crosby,+Ken+Darby+Singers,+John+Scott+Trotter+and+His+Orchestra/_/White+Christmas
   - title: Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)
     album: The Classic Christmas Album
     artist: 'Frank Sinatra, The B. Swanson Quartet'
