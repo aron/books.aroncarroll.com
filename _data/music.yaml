@@ -1,4 +1,19 @@
 items:
+  - title: My Favorite Things
+    album: The Classic Christmas Album
+    artist: Tony Bennett
+    timestamp: '08 Dec 2022, 18:29'
+    link: 'https://www.last.fm/music/Tony+Bennett/_/My+Favorite+Things'
+  - title: 'Baby, It''s Cold Outside'
+    album: Christmas With The Rat Pack
+    artist: Dean Martin
+    timestamp: '08 Dec 2022, 18:27'
+    link: 'https://www.last.fm/music/Dean+Martin/_/Baby,+It%27s+Cold+Outside'
+  - title: Sleigh Ride
+    album: When My Heart Finds Christmas
+    artist: 'Harry Connick, Jr.'
+    timestamp: '08 Dec 2022, 18:23'
+    link: 'https://www.last.fm/music/Harry+Connick,+Jr./_/Sleigh+Ride'
   - title: Silent Night
     album: Give Love At Christmas
     artist: The Temptations
