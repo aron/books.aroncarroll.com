@@ -1,4 +1,25 @@
 items:
+  - title: Silent Night
+    album: Give Love At Christmas
+    artist: The Temptations
+    timestamp: '08 Dec 2022, 18:17'
+    link: 'https://www.last.fm/music/The+Temptations/_/Silent+Night'
+  - title: Glow
+    album: Glow (Deluxe Edition)
+    artist: Brett Eldredge
+    timestamp: '08 Dec 2022, 18:13'
+    link: 'https://www.last.fm/music/Brett+Eldredge/_/Glow'
+  - title: Blue Christmas
+    album: The Classic Christmas Album
+    artist: Elvis Presley
+    timestamp: '08 Dec 2022, 18:11'
+    link: 'https://www.last.fm/music/Elvis+Presley/_/Blue+Christmas'
+  - title: The Christmas Song (Merry Christmas To You)
+    album: The Christmas Song
+    artist: Nat King Cole
+    timestamp: '08 Dec 2022, 18:08'
+    link: >-
+      https://www.last.fm/music/Nat+King+Cole/_/The+Christmas+Song+(Merry+Christmas+To+You)
   - title: A Holly Jolly Christmas
     album: The Very Best of Burl Ives Christmas
     artist: Burl Ives
