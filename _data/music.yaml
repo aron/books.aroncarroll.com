@@ -1,4 +1,26 @@
 items:
+  - title: Santa Baby
+    album: The Essential Eartha Kitt
+    artist: Eartha Kitt
+    timestamp: '08 Dec 2022, 18:39'
+    link: 'https://www.last.fm/music/Eartha+Kitt/_/Santa+Baby'
+  - title: Let It Snow
+    album: Christmas
+    artist: 'Boyz II Men, Brian McKnight'
+    timestamp: '08 Dec 2022, 18:38'
+    link: 'https://www.last.fm/music/Boyz+II+Men,+Brian+McKnight/_/Let+It+Snow'
+  - title: It's the Most Wonderful Time of the Year
+    album: TIDAL presents Happy Holidays
+    artist: Andy Williams
+    timestamp: '08 Dec 2022, 18:36'
+    link: >-
+      https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year
+  - title: O Holy Night (Cantique de Noel) (1959 Version)
+    album: The Classic Christmas Album
+    artist: Perry Como
+    timestamp: '08 Dec 2022, 18:33'
+    link: >-
+      https://www.last.fm/music/Perry+Como/_/O+Holy+Night+(Cantique+de+Noel)+(1959+Version)
   - title: My Favorite Things
     album: The Classic Christmas Album
     artist: Tony Bennett
