@@ -1,4 +1,19 @@
 items:
+  - title: I'll Be Home for Christmas
+    album: Personal Christmas Collection
+    artist: Doris Day
+    timestamp: '10 Dec 2022, 18:30'
+    link: 'https://www.last.fm/music/Doris+Day/_/I%27ll+Be+Home+for+Christmas'
+  - title: Let It Snow
+    album: Christmas
+    artist: 'Boyz II Men, Brian McKnight'
+    timestamp: '10 Dec 2022, 18:26'
+    link: 'https://www.last.fm/music/Boyz+II+Men,+Brian+McKnight/_/Let+It+Snow'
+  - title: 'Rudolph, The Red-Nosed Reindeer'
+    album: A Mary Christmas
+    artist: Mary J. Blige
+    timestamp: '10 Dec 2022, 18:24'
+    link: 'https://www.last.fm/music/Mary+J.+Blige/_/Rudolph,+The+Red-Nosed+Reindeer'
   - title: Blue Christmas
     album: The Classic Christmas Album
     artist: Elvis Presley
