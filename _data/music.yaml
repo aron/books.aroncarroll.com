@@ -1,4 +1,20 @@
 items:
+  - title: My Only Wish (This Year)
+    album: Music Made for Christmas
+    artist: Britney Spears
+    timestamp: '10 Dec 2022, 09:26'
+    link: 'https://www.last.fm/music/Britney+Spears/_/My+Only+Wish+(This+Year)'
+  - title: Jingle Bells
+    album: A Jolly Christmas from Frank Sinatra
+    artist: Frank Sinatra
+    timestamp: '10 Dec 2022, 09:24'
+    link: 'https://www.last.fm/music/Frank+Sinatra/_/Jingle+Bells'
+  - title: Santa Claus Is Coming to Town
+    album: Christmas (Deluxe Special Edition)
+    artist: Michael Bublé
+    timestamp: '10 Dec 2022, 09:21'
+    link: >-
+      https://www.last.fm/music/Michael+Bubl%C3%A9/_/Santa+Claus+Is+Coming+to+Town
   - title: >-
       Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY -
       December 1975)
