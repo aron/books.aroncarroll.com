@@ -1,4 +1,19 @@
 items:
+  - title: Rudolph The Red-Nosed Reindeer
+    album: The Temptations' Christmas Card
+    artist: The Temptations
+    timestamp: '10 Dec 2022, 19:06'
+    link: 'https://www.last.fm/music/The+Temptations/_/Rudolph+The+Red-Nosed+Reindeer'
+  - title: Merry Christmas Baby
+    album: A Classic Soul Christmas
+    artist: Otis Redding
+    timestamp: '10 Dec 2022, 19:03'
+    link: 'https://www.last.fm/music/Otis+Redding/_/Merry+Christmas+Baby'
+  - title: Someday at Christmas
+    album: 'The Christmas Collection: The Best of Stevie Wonder'
+    artist: Stevie Wonder
+    timestamp: '10 Dec 2022, 19:00'
+    link: 'https://www.last.fm/music/Stevie+Wonder/_/Someday+at+Christmas'
   - title: This Christmas
     album: A Classic Soul Christmas
     artist: Donny Hathaway
