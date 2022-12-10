@@ -1,4 +1,14 @@
 items:
+  - title: Everything She Wants
+    album: Last Christmas
+    artist: Wham!
+    timestamp: '10 Dec 2022, 08:27'
+    link: 'https://www.last.fm/music/Wham!/_/Everything+She+Wants'
+  - title: Feliz Navidad
+    album: Feliz Navidad
+    artist: Jose Feliciano
+    timestamp: '10 Dec 2022, 08:23'
+    link: 'https://www.last.fm/music/Jose+Feliciano/_/Feliz+Navidad'
   - title: Do They Know It's Christmas?
     album: Do They Know It's Christmas?
     artist: Band Aid
