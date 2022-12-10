@@ -1,4 +1,19 @@
 items:
+  - title: My Favorite Things
+    album: The Classic Christmas Album
+    artist: Tony Bennett
+    timestamp: '10 Dec 2022, 18:06'
+    link: 'https://www.last.fm/music/Tony+Bennett/_/My+Favorite+Things'
+  - title: Do You Hear What I Hear
+    album: Greatest Christmas Songs
+    artist: Perry Como
+    timestamp: '10 Dec 2022, 18:03'
+    link: 'https://www.last.fm/music/Perry+Como/_/Do+You+Hear+What+I+Hear'
+  - title: A Marshmallow World
+    album: The Dean Martin Christmas Album
+    artist: Dean Martin
+    timestamp: '10 Dec 2022, 18:00'
+    link: 'https://www.last.fm/music/Dean+Martin/_/A+Marshmallow+World'
   - title: A Holly Jolly Christmas
     album: The Very Best of Burl Ives Christmas
     artist: Burl Ives
