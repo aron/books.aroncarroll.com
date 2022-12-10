@@ -1,4 +1,19 @@
 items:
+  - title: My Favorite Things
+    album: Merry Christmas
+    artist: The Supremes
+    timestamp: '10 Dec 2022, 19:23'
+    link: 'https://www.last.fm/music/The+Supremes/_/My+Favorite+Things'
+  - title: 'Gee Whiz, It''s Christmas'
+    album: Stax/Volt - The Complete Singles 1959-1968 - Volume 3
+    artist: Carla Thomas
+    timestamp: '10 Dec 2022, 19:20'
+    link: 'https://www.last.fm/music/Carla+Thomas/_/Gee+Whiz,+It%27s+Christmas'
+  - title: White Christmas
+    album: A Classic Soul Christmas
+    artist: Otis Redding
+    timestamp: '10 Dec 2022, 19:17'
+    link: 'https://www.last.fm/music/Otis+Redding/_/White+Christmas'
   - title: What Christmas Means to Me
     album: 'The Christmas Collection: The Best of Stevie Wonder'
     artist: Stevie Wonder
