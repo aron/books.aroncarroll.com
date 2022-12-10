@@ -1,4 +1,26 @@
 items:
+  - title: 'Rudolph, The Red-Nosed Reindeer'
+    album: Dino's Christmas
+    artist: Dean Martin
+    timestamp: '10 Dec 2022, 09:05'
+    link: 'https://www.last.fm/music/Dean+Martin/_/Rudolph,+The+Red-Nosed+Reindeer'
+  - title: Have Yourself a Merry Little Christmas
+    album: A Jolly Christmas from Frank Sinatra
+    artist: Frank Sinatra
+    timestamp: '10 Dec 2022, 09:02'
+    link: >-
+      https://www.last.fm/music/Frank+Sinatra/_/Have+Yourself+a+Merry+Little+Christmas
+  - title: Jingle Bell Rock (Daryl's Version)
+    album: TIDAL presents Forever Christmas
+    artist: Daryl Hall & John Oates
+    timestamp: '10 Dec 2022, 09:00'
+    link: >-
+      https://www.last.fm/music/Daryl+Hall+&+John+Oates/_/Jingle+Bell+Rock+(Daryl%27s+Version)
+  - title: Holly Jolly Christmas
+    album: Christmas (Deluxe Special Edition)
+    artist: Michael Bublé
+    timestamp: '10 Dec 2022, 08:58'
+    link: 'https://www.last.fm/music/Michael+Bubl%C3%A9/_/Holly+Jolly+Christmas'
   - title: Underneath the Tree
     album: TIDAL presents Forever Christmas
     artist: Kelly Clarkson
