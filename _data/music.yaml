@@ -1,4 +1,19 @@
 items:
+  - title: Frosty the Snowman
+    album: Merry Christmas from Brenda Lee
+    artist: Brenda Lee
+    timestamp: '10 Dec 2022, 18:39'
+    link: 'https://www.last.fm/music/Brenda+Lee/_/Frosty+the+Snowman'
+  - title: Sleigh Ride
+    album: When My Heart Finds Christmas
+    artist: 'Harry Connick, Jr.'
+    timestamp: '10 Dec 2022, 18:35'
+    link: 'https://www.last.fm/music/Harry+Connick,+Jr./_/Sleigh+Ride'
+  - title: Silver Bells
+    album: The Dean Martin Christmas Album
+    artist: Dean Martin
+    timestamp: '10 Dec 2022, 18:33'
+    link: 'https://www.last.fm/music/Dean+Martin/_/Silver+Bells'
   - title: I'll Be Home for Christmas
     album: Personal Christmas Collection
     artist: Doris Day
