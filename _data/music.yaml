@@ -1,4 +1,19 @@
 items:
+  - title: 'Oh Well, OK'
+    album: XO
+    artist: Elliott Smith
+    timestamp: '15 Dec 2022, 23:31'
+    link: 'https://www.last.fm/music/+noredirect/Elliott+Smith/_/Oh+Well,+OK'
+  - title: Amity
+    album: XO
+    artist: Elliott Smith
+    timestamp: '15 Dec 2022, 23:29'
+    link: 'https://www.last.fm/music/Elliott+Smith/_/Amity'
+  - title: 'Waltz #1'
+    album: XO
+    artist: Elliott Smith
+    timestamp: '15 Dec 2022, 23:25'
+    link: 'https://www.last.fm/music/Elliott+Smith/_/Waltz+%231'
   - title: Bled White
     album: XO
     artist: Elliott Smith
