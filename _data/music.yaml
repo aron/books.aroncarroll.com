@@ -1,4 +1,26 @@
 items:
+  - title: My Girl
+    album: The Temptations Sing Smokey
+    artist: The Temptations
+    timestamp: '16 Dec 2022, 13:48'
+    link: 'https://www.last.fm/music/The+Temptations/_/My+Girl'
+  - title: Ain't No Mountain High Enough
+    album: Greatest Hits
+    artist: 'MARVIN GAYE, TAMMI TERRELL'
+    timestamp: '16 Dec 2022, 13:46'
+    link: >-
+      https://www.last.fm/music/MARVIN+GAYE,+TAMMI+TERRELL/_/Ain%27t+No+Mountain+High+Enough
+  - title: Under The Boardwalk
+    album: Under the Boardwalk
+    artist: The Drifters
+    timestamp: '16 Dec 2022, 13:43'
+    link: 'https://www.last.fm/music/The+Drifters/_/Under+The+Boardwalk'
+  - title: I Second That Emotion
+    album: 'Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)'
+    artist: 'Smokey Robinson, The Miracles'
+    timestamp: '16 Dec 2022, 13:40'
+    link: >-
+      https://www.last.fm/music/+noredirect/Smokey+Robinson,+The+Miracles/_/I+Second+That+Emotion
   - title: Do You Love Me
     album: 'Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)'
     artist: The Contours
