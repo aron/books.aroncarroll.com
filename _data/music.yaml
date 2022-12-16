@@ -1,4 +1,25 @@
 items:
+  - title: Get Ready
+    album: Gettin' Ready
+    artist: The Temptations
+    timestamp: '16 Dec 2022, 12:16'
+    link: 'https://www.last.fm/music/The+Temptations/_/Get+Ready'
+  - title: My Guy
+    album: 'Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)'
+    artist: Mary Wells
+    timestamp: '16 Dec 2022, 12:13'
+    link: 'https://www.last.fm/music/Mary+Wells/_/My+Guy'
+  - title: 'I Can''t Help Myself (Sugar Pie, Honey Bunch)'
+    album: Four Tops - Second Album
+    artist: Four Tops
+    timestamp: '16 Dec 2022, 12:10'
+    link: >-
+      https://www.last.fm/music/Four+Tops/_/I+Can%27t+Help+Myself+(Sugar+Pie,+Honey+Bunch)
+  - title: Baby Love
+    album: Where Did Our Love Go
+    artist: The Supremes
+    timestamp: '16 Dec 2022, 12:07'
+    link: 'https://www.last.fm/music/The+Supremes/_/Baby+Love'
   - title: Two-Headed Boy Pt. 2
     album: In the Aeroplane Over the Sea
     artist: Neutral Milk Hotel
