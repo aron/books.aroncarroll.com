@@ -1,4 +1,14 @@
 items:
+  - title: Alice The Goon
+    album: When the Going Gets Dark
+    artist: Quasi
+    timestamp: '21 Dec 2022, 19:13'
+    link: 'https://www.last.fm/music/Quasi/_/Alice+The+Goon'
+  - title: Trash Can
+    album: Spencer Sings the Hits!
+    artist: Jon Spencer
+    timestamp: '21 Dec 2022, 19:07'
+    link: 'https://www.last.fm/music/Jon+Spencer/_/Trash+Can'
   - title: Change
     album: Jollification
     artist: The Lightning Seeds
