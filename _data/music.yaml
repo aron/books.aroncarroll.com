@@ -1,4 +1,25 @@
 items:
+  - title: Sleigh Ride
+    album: A Christmas Gift for You From Phil Spector
+    artist: The Ronettes
+    timestamp: '22 Dec 2022, 18:07'
+    link: 'https://www.last.fm/music/The+Ronettes/_/Sleigh+Ride'
+  - title: Santa Claus Is Coming to Town
+    album: A Christmas Gift For You From Phil Spector
+    artist: The Crystals
+    timestamp: '22 Dec 2022, 18:04'
+    link: 'https://www.last.fm/music/The+Crystals/_/Santa+Claus+Is+Coming+to+Town'
+  - title: The Bells of St. Mary
+    album: A Christmas Gift For You From Phil Spector
+    artist: 'Bob B. Soxx, The Blue Jeans'
+    timestamp: '22 Dec 2022, 18:01'
+    link: >-
+      https://www.last.fm/music/Bob+B.+Soxx,+The+Blue+Jeans/_/The+Bells+of+St.+Mary
+  - title: Frosty the Snowman
+    album: A Christmas Gift for You From Phil Spector
+    artist: The Ronettes
+    timestamp: '22 Dec 2022, 17:59'
+    link: 'https://www.last.fm/music/The+Ronettes/_/Frosty+the+Snowman'
   - title: White Christmas
     album: A Christmas Gift for You From Phil Spector
     artist: Darlene Love
