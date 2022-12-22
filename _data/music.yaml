@@ -1,4 +1,44 @@
 items:
+  - title: Winter Wonderland
+    album: A Christmas Gift for You
+    artist: Phil Spector
+    timestamp: '22 Dec 2022, 18:39'
+    link: 'https://www.last.fm/music/Phil+Spector/_/Winter+Wonderland'
+  - title: Parade Of The Wooden Soldiers
+    album: A Christmas Gift For You From Phil Spector
+    artist: The Crystals
+    timestamp: '22 Dec 2022, 18:36'
+    link: 'https://www.last.fm/music/The+Crystals/_/Parade+Of+The+Wooden+Soldiers'
+  - title: White Christmas
+    album: A Christmas Gift for You From Phil Spector
+    artist: Darlene Love
+    timestamp: '22 Dec 2022, 18:33'
+    link: 'https://www.last.fm/music/Darlene+Love/_/White+Christmas'
+  - title: The Bells of St. Mary
+    album: A Christmas Gift For You From Phil Spector
+    artist: 'Bob B. Soxx, The Blue Jeans'
+    timestamp: '22 Dec 2022, 18:30'
+    link: >-
+      https://www.last.fm/music/Bob+B.+Soxx,+The+Blue+Jeans/_/The+Bells+of+St.+Mary
+  - title: Silent Night
+    album: A Christmas Gift For You From Phil Spector
+    artist: >-
+      Phil Spector, Bob B. Soxx and The Blue Jeans, Darlene Love, The Crystals,
+      The Ronettes
+    timestamp: '22 Dec 2022, 18:28'
+    link: >-
+      https://www.last.fm/music/Phil+Spector,+Bob+B.+Soxx+and+The+Blue+Jeans,+Darlene+Love,+The+Crystals,+The+Ronettes/_/Silent+Night
+  - title: Here Comes Santa Claus
+    album: A Christmas Gift For You From Phil Spector
+    artist: 'Bob B. Soxx, The Blue Jeans'
+    timestamp: '22 Dec 2022, 18:26'
+    link: >-
+      https://www.last.fm/music/Bob+B.+Soxx,+The+Blue+Jeans/_/Here+Comes+Santa+Claus
+  - title: Christmas (Baby Please Come Home)
+    album: A Christmas Gift for You From Phil Spector
+    artist: Darlene Love
+    timestamp: '22 Dec 2022, 18:23'
+    link: 'https://www.last.fm/music/Darlene+Love/_/Christmas+(Baby+Please+Come+Home)'
   - title: Parade Of The Wooden Soldiers
     album: A Christmas Gift For You From Phil Spector
     artist: The Crystals
