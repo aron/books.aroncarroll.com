@@ -1,4 +1,24 @@
 items:
+  - title: Silent Night
+    album: Give Love At Christmas
+    artist: The Temptations
+    timestamp: '22 Dec 2022, 11:45'
+    link: 'https://www.last.fm/music/The+Temptations/_/Silent+Night'
+  - title: Rockin' Around the Christmas Tree
+    album: Merry Christmas from Brenda Lee
+    artist: Brenda Lee
+    timestamp: '22 Dec 2022, 11:43'
+    link: 'https://www.last.fm/music/Brenda+Lee/_/Rockin%27+Around+the+Christmas+Tree'
+  - title: All I Want for Christmas Is You
+    album: Merry Christmas
+    artist: Mariah Carey
+    timestamp: '22 Dec 2022, 11:42'
+    link: 'https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You'
+  - title: Everyday Is A Holiday
+    album: Another Kind Of Christmas (Deluxe Edition)
+    artist: Ne-Yo
+    timestamp: '22 Dec 2022, 11:41'
+    link: 'https://www.last.fm/music/Ne-Yo/_/Everyday+Is+A+Holiday'
   - title: Happy Holidays / The Holiday Season
     album: A Very Darren Crissmas
     artist: Darren Criss
