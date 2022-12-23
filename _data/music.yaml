@@ -1,4 +1,56 @@
 items:
+  - title: It's the Most Wonderful Time of the Year
+    album: TIDAL presents Happy Holidays
+    artist: Andy Williams
+    timestamp: '23 Dec 2022, 17:32'
+    link: >-
+      https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year
+  - title: O Holy Night (Cantique de Noel) (1959 Version)
+    album: The Classic Christmas Album
+    artist: Perry Como
+    timestamp: '23 Dec 2022, 17:29'
+    link: >-
+      https://www.last.fm/music/Perry+Como/_/O+Holy+Night+(Cantique+de+Noel)+(1959+Version)
+  - title: 'Rudolph, The Red-Nosed Reindeer'
+    album: A Mary Christmas
+    artist: Mary J. Blige
+    timestamp: '23 Dec 2022, 17:26'
+    link: 'https://www.last.fm/music/Mary+J.+Blige/_/Rudolph,+The+Red-Nosed+Reindeer'
+  - title: A Holly Jolly Christmas
+    album: The Very Best of Burl Ives Christmas
+    artist: Burl Ives
+    timestamp: '23 Dec 2022, 17:24'
+    link: 'https://www.last.fm/music/Burl+Ives/_/A+Holly+Jolly+Christmas'
+  - title: Good Morning Blues
+    album: Ella Wishes You A Swinging Christmas (Expanded Edition)
+    artist: Ella Fitzgerald
+    timestamp: '23 Dec 2022, 17:21'
+    link: 'https://www.last.fm/music/Ella+Fitzgerald/_/Good+Morning+Blues'
+  - title: My Favorite Things
+    album: The Classic Christmas Album
+    artist: Tony Bennett
+    timestamp: '23 Dec 2022, 17:17'
+    link: 'https://www.last.fm/music/Tony+Bennett/_/My+Favorite+Things'
+  - title: 'Baby, It''s Cold Outside'
+    album: Christmas With The Rat Pack
+    artist: Dean Martin
+    timestamp: '23 Dec 2022, 17:15'
+    link: 'https://www.last.fm/music/Dean+Martin/_/Baby,+It%27s+Cold+Outside'
+  - title: Sleigh Ride
+    album: When My Heart Finds Christmas
+    artist: 'Harry Connick, Jr.'
+    timestamp: '23 Dec 2022, 17:11'
+    link: 'https://www.last.fm/music/Harry+Connick,+Jr./_/Sleigh+Ride'
+  - title: Blue Christmas
+    album: The Classic Christmas Album
+    artist: Elvis Presley
+    timestamp: '23 Dec 2022, 17:09'
+    link: 'https://www.last.fm/music/Elvis+Presley/_/Blue+Christmas'
+  - title: Santa Baby
+    album: The Essential Eartha Kitt
+    artist: Eartha Kitt
+    timestamp: '23 Dec 2022, 17:07'
+    link: 'https://www.last.fm/music/Eartha+Kitt/_/Santa+Baby'
   - title: The Christmas Song (Merry Christmas To You)
     album: The Christmas Song
     artist: Nat King Cole
