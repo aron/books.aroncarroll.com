@@ -46,7 +46,7 @@ items:
     state: started
     pages: '441'
     queued_at: '2022-10-23'
-    started_at: '2022-12-22'
+    started_at: '2022-12-28'
   - title: Cryptonomicon
     subtitle: ''
     authors:
@@ -202,6 +202,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: 'House of Many Ways (Howl''s Moving Castle, #3)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157453'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062877447'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '441'
+    queued_at: '2022-10-23'
+    started_at: '2022-12-22'
   - title: 'House of Many Ways (Howl''s Moving Castle, #3)'
     subtitle: ''
     authors:
