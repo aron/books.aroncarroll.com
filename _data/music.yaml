@@ -14,6 +14,11 @@ items:
     artist: Bing Crosby
     timestamp: '25 Dec 2022, 16:33'
     link: 'https://www.last.fm/music/Bing+Crosby/_/Christmas+In+Killarney'
+  - title: Christmas in Killarney
+    album: White Christmas
+    artist: Bing Crosby
+    timestamp: '25 Dec 2022, 16:33'
+    link: 'https://www.last.fm/music/Bing+Crosby/_/Christmas+in+Killarney'
   - title: Everyone's A Kid At Christmas
     album: 'The Christmas Collection: The Best of Stevie Wonder'
     artist: Stevie Wonder
@@ -27,6 +32,11 @@ items:
       https://www.last.fm/music/Diana+Krall,+The+Clayton-Hamilton+Jazz+Orchestra/_/Let+It+Snow
   - title: Winter Wonderland
     album: Ella Wishes You A Swinging Christmas (Expanded Edition)
+    artist: Ella Fitzgerald
+    timestamp: '25 Dec 2022, 16:24'
+    link: 'https://www.last.fm/music/Ella+Fitzgerald/_/Winter+Wonderland'
+  - title: Winter Wonderland
+    album: Ella Wishes You a Swinging Christmas (Expanded Edition)
     artist: Ella Fitzgerald
     timestamp: '25 Dec 2022, 16:24'
     link: 'https://www.last.fm/music/Ella+Fitzgerald/_/Winter+Wonderland'
