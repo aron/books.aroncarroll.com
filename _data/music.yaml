@@ -1,4 +1,24 @@
 items:
+  - title: Chaise Longue
+    album: Wet Leg
+    artist: Wet Leg
+    timestamp: '04 Jan 2023, 15:13'
+    link: 'https://www.last.fm/music/Wet+Leg/_/Chaise+Longue'
+  - title: Wurlitzer Jukebox
+    album: Colossal Youth (40th Anniversary Edition)
+    artist: Young Marble Giants
+    timestamp: '04 Jan 2023, 15:10'
+    link: 'https://www.last.fm/music/Young+Marble+Giants/_/Wurlitzer+Jukebox'
+  - title: Legal Man
+    album: Push Barman to Open Old Wounds
+    artist: Belle and Sebastian
+    timestamp: '04 Jan 2023, 15:08'
+    link: 'https://www.last.fm/music/Belle+and+Sebastian/_/Legal+Man'
+  - title: PS Exclusive
+    album: Any Other City
+    artist: Life Without Buildings
+    timestamp: '04 Jan 2023, 15:03'
+    link: 'https://www.last.fm/music/Life+Without+Buildings/_/PS+Exclusive'
   - title: The Lucky One - Instrumental
     album: Wish Upon A Blackstar (Deluxe Edition)
     artist: Celldweller
@@ -61,6 +81,11 @@ items:
     artist: The La's
     timestamp: '02 Jan 2023, 18:31'
     link: 'https://www.last.fm/music/The+La%27s/_/There+She+Goes'
+  - title: A Postcard to Nina
+    album: The Linden Trees Are Still In Blossom
+    artist: Jens Lekman
+    timestamp: '01 Jan 2023, 22:48'
+    link: 'https://www.last.fm/music/Jens+Lekman/_/A+Postcard+to+Nina'
   - title: Tickles
     album: Heart Tax
     artist: JennyLee
