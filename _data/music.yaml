@@ -1,4 +1,15 @@
 items:
+  - title: Pray For Me I Don't Fit In
+    album: Pray For Me I Don’t Fit In
+    artist: Melt Yourself Down
+    timestamp: '09 Jan 2023, 14:14'
+    link: >-
+      https://www.last.fm/music/Melt+Yourself+Down/_/Pray+For+Me+I+Don%27t+Fit+In
+  - title: Gizeh
+    album: Singur
+    artist: Oskar Schuster
+    timestamp: '08 Jan 2023, 20:14'
+    link: 'https://www.last.fm/music/Oskar+Schuster/_/Gizeh'
   - title: Gizeh
     album: Singur
     artist: Oskar Schuster
@@ -7,9 +18,20 @@ items:
   - title: A Game of Badminton (feat. Jack Liebeck)
     album: Jane Eyre - Original Motion Picture Soundtrack
     artist: Dario Marianelli
+    timestamp: '08 Jan 2023, 20:13'
+    link: >-
+      https://www.last.fm/music/Dario+Marianelli/_/A+Game+of+Badminton+(feat.+Jack+Liebeck)
+  - title: A Game of Badminton (feat. Jack Liebeck)
+    album: Jane Eyre - Original Motion Picture Soundtrack
+    artist: Dario Marianelli
     timestamp: '08 Jan 2023, 20:12'
     link: >-
       https://www.last.fm/music/Dario+Marianelli/_/A+Game+of+Badminton+(feat.+Jack+Liebeck)
+  - title: Fly
+    album: Divenire (Deluxe Edition)
+    artist: Ludovico Einaudi
+    timestamp: '08 Jan 2023, 20:12'
+    link: 'https://www.last.fm/music/Ludovico+Einaudi/_/Fly'
   - title: Fly
     album: Divenire
     artist: Ludovico Einaudi
@@ -18,8 +40,18 @@ items:
   - title: Eyes Closed And Traveling
     album: Eyes Closed And Traveling
     artist: Peter Broderick
+    timestamp: '08 Jan 2023, 20:07'
+    link: 'https://www.last.fm/music/Peter+Broderick/_/Eyes+Closed+And+Traveling'
+  - title: Eyes Closed And Traveling
+    album: Eyes Closed And Traveling
+    artist: Peter Broderick
     timestamp: '08 Jan 2023, 20:03'
     link: 'https://www.last.fm/music/Peter+Broderick/_/Eyes+Closed+And+Traveling'
+  - title: Dalur - Island Songs V
+    album: Island Songs
+    artist: Ólafur Arnalds
+    timestamp: '08 Jan 2023, 20:03'
+    link: 'https://www.last.fm/music/%C3%93lafur+Arnalds/_/Dalur+-+Island+Songs+V'
   - title: Dalur - Island Songs V
     album: Island Songs
     artist: Ólafur Arnalds
