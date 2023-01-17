@@ -1,4 +1,14 @@
 items:
+  - title: One
+    album: Magnolia (Music from the Motion Picture)
+    artist: Aimee Mann
+    timestamp: '17 Jan 2023, 19:37'
+    link: 'https://www.last.fm/music/Aimee+Mann/_/One'
+  - title: Starálfur
+    album: Ágætis byrjun
+    artist: Sigur Rós
+    timestamp: '17 Jan 2023, 19:30'
+    link: 'https://www.last.fm/music/Sigur+R%C3%B3s/_/Star%C3%A1lfur'
   - title: Feeling Blue - Mixed
     album: 'FABRICLIVE 35: Marcus Intalex (DJ Mix)'
     artist: Duo Infernale
