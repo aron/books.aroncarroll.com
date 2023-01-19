@@ -1,4 +1,19 @@
 items:
+  - title: She
+    album: Dookie
+    artist: Green Day
+    timestamp: '19 Jan 2023, 22:02'
+    link: 'https://www.last.fm/music/Green+Day/_/She'
+  - title: The Colour and the Shape
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '19 Jan 2023, 21:58'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/The+Colour+and+the+Shape'
+  - title: New Way Home
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '19 Jan 2023, 21:52'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/New+Way+Home'
   - title: Walking After You
     album: The Colour and the Shape
     artist: Foo Fighters
