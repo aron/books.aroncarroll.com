@@ -1,4 +1,36 @@
 items:
+  - title: 'Hey, Johnny Park!'
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '19 Jan 2023, 21:17'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Hey,+Johnny+Park!'
+  - title: Monkey Wrench
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '19 Jan 2023, 21:13'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Monkey+Wrench'
+  - title: Doll
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '19 Jan 2023, 21:11'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Doll'
+  - title: Here Is No Why - Remastered 2012
+    album: Mellon Collie and the Infinite Sadness (Deluxe Edition)
+    artist: The Smashing Pumpkins
+    timestamp: '19 Jan 2023, 21:08'
+    link: >-
+      https://www.last.fm/music/The+Smashing+Pumpkins/_/Here+Is+No+Why+-+Remastered+2012
+  - title: Zero - Remastered 2012
+    album: Mellon Collie and the Infinite Sadness (Deluxe Edition)
+    artist: The Smashing Pumpkins
+    timestamp: '19 Jan 2023, 21:05'
+    link: 'https://www.last.fm/music/The+Smashing+Pumpkins/_/Zero+-+Remastered+2012'
+  - title: Jellybelly - Remastered 2012
+    album: Mellon Collie and the Infinite Sadness (Deluxe Edition)
+    artist: The Smashing Pumpkins
+    timestamp: '19 Jan 2023, 21:02'
+    link: >-
+      https://www.last.fm/music/The+Smashing+Pumpkins/_/Jellybelly+-+Remastered+2012
   - title: 'Tonight, Tonight - Remastered 2012'
     album: Mellon Collie and the Infinite Sadness (Deluxe Edition)
     artist: The Smashing Pumpkins
