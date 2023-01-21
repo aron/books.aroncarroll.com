@@ -1,9 +1,34 @@
 items:
+  - title: Crystalised
+    album: xx
+    artist: The xx
+    timestamp: '21 Jan 2023, 22:20'
+    link: 'https://www.last.fm/music/The+xx/_/Crystalised'
+  - title: Holocene
+    album: Bon Iver
+    artist: Bon Iver
+    timestamp: '21 Jan 2023, 22:15'
+    link: 'https://www.last.fm/music/Bon+Iver/_/Holocene'
   - title: 'Cheer Up, My Brother'
     album: Sunday
     artist: Hnny
     timestamp: '21 Jan 2023, 22:10'
     link: 'https://www.last.fm/music/Hnny/_/Cheer+Up,+My+Brother'
+  - title: Cucurucu
+    album: First Mind
+    artist: Nick Mulvey
+    timestamp: '21 Jan 2023, 22:10'
+    link: 'https://www.last.fm/music/Nick+Mulvey/_/Cucurucu'
+  - title: Cucurucu
+    album: First Mind
+    artist: Nick Mulvey
+    timestamp: '21 Jan 2023, 22:09'
+    link: 'https://www.last.fm/music/Nick+Mulvey/_/Cucurucu'
+  - title: Cucurucu
+    album: First Mind
+    artist: Nick Mulvey
+    timestamp: '21 Jan 2023, 21:04'
+    link: 'https://www.last.fm/music/Nick+Mulvey/_/Cucurucu'
   - title: Que Sera
     album: Tales of the Forgotten Melodies
     artist: Wax Tailor
