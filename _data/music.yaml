@@ -1,4 +1,19 @@
 items:
+  - title: Space Oddity - 2015 Remaster
+    album: 'David Bowie (aka Space Oddity) [2015 Remaster]'
+    artist: David Bowie
+    timestamp: '27 Jan 2023, 19:39'
+    link: 'https://www.last.fm/music/David+Bowie/_/Space+Oddity+-+2015+Remaster'
+  - title: Loser
+    album: Mellow Gold
+    artist: Beck
+    timestamp: '24 Jan 2023, 18:52'
+    link: 'https://www.last.fm/music/Beck/_/Loser'
+  - title: Everlong
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '24 Jan 2023, 18:30'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Everlong'
   - title: Everlong
     album: The Colour and the Shape
     artist: Foo Fighters
@@ -7,13 +22,28 @@ items:
   - title: Drive
     album: Make Yourself
     artist: Incubus
+    timestamp: '24 Jan 2023, 18:25'
+    link: 'https://www.last.fm/music/Incubus/_/Drive'
+  - title: Drive
+    album: Make Yourself
+    artist: Incubus
     timestamp: '24 Jan 2023, 18:22'
     link: 'https://www.last.fm/music/Incubus/_/Drive'
   - title: Basket Case
     album: Dookie
     artist: Green Day
+    timestamp: '24 Jan 2023, 18:21'
+    link: 'https://www.last.fm/music/Green+Day/_/Basket+Case'
+  - title: Basket Case
+    album: Dookie
+    artist: Green Day
     timestamp: '24 Jan 2023, 18:18'
     link: 'https://www.last.fm/music/Green+Day/_/Basket+Case'
+  - title: Song 2 - 2012 Remaster
+    album: Blur (Special Edition)
+    artist: Blur
+    timestamp: '24 Jan 2023, 18:18'
+    link: 'https://www.last.fm/music/Blur/_/Song+2+-+2012+Remaster'
   - title: Song 2 - 2012 Remaster
     album: Blur (Special Edition)
     artist: Blur
