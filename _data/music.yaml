@@ -1,4 +1,19 @@
 items:
+  - title: Black Bird
+    album: Let's Go
+    artist: The Guess Who
+    timestamp: '03 Feb 2023, 21:16'
+    link: 'https://www.last.fm/music/The+Guess+Who/_/Black+Bird'
+  - title: Elenore
+    album: The Turtles Present the Battle of the Bands
+    artist: The Turtles
+    timestamp: '03 Feb 2023, 21:13'
+    link: 'https://www.last.fm/music/The+Turtles/_/Elenore'
+  - title: Spectre
+    album: Spectre
+    artist: Radiohead
+    timestamp: '03 Feb 2023, 21:10'
+    link: 'https://www.last.fm/music/Radiohead/_/Spectre'
   - title: Strange Brew
     album: Disraeli Gears (Deluxe Edition)
     artist: Cream
