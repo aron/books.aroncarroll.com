@@ -1,4 +1,19 @@
 items:
+  - title: Strange Brew
+    album: Disraeli Gears (Deluxe Edition)
+    artist: Cream
+    timestamp: '03 Feb 2023, 21:07'
+    link: 'https://www.last.fm/music/Cream/_/Strange+Brew'
+  - title: Spanish Caravan
+    album: Waiting for the Sun
+    artist: The Doors
+    timestamp: '03 Feb 2023, 21:04'
+    link: 'https://www.last.fm/music/The+Doors/_/Spanish+Caravan'
+  - title: Under My Thumb
+    album: Aftermath
+    artist: The Rolling Stones
+    timestamp: '03 Feb 2023, 21:01'
+    link: 'https://www.last.fm/music/The+Rolling+Stones/_/Under+My+Thumb'
   - title: Ballad Of Sir Frankie Crisp (Let It Roll) - Remastered 2014
     album: All Things Must Pass (Remastered 2014)
     artist: George Harrison
