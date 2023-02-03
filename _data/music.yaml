@@ -1,4 +1,20 @@
 items:
+  - title: Gimme Shelter
+    album: Let It Bleed
+    artist: The Rolling Stones
+    timestamp: '03 Feb 2023, 22:05'
+    link: 'https://www.last.fm/music/The+Rolling+Stones/_/Gimme+Shelter'
+  - title: Love Will Tear Us Apart - 2020 Remaster
+    album: Love Will Tear Us Apart
+    artist: Joy Division
+    timestamp: '03 Feb 2023, 22:02'
+    link: >-
+      https://www.last.fm/music/Joy+Division/_/Love+Will+Tear+Us+Apart+-+2020+Remaster
+  - title: Golden Brown
+    album: La Folie
+    artist: The Stranglers
+    timestamp: '03 Feb 2023, 21:58'
+    link: 'https://www.last.fm/music/The+Stranglers/_/Golden+Brown'
   - title: Monkey Gone to Heaven
     album: Doolittle
     artist: Pixies
