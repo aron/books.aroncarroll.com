@@ -1,4 +1,41 @@
 items:
+  - title: Sunny Afternoon
+    album: Face to Face (Deluxe)
+    artist: The Kinks
+    timestamp: '03 Feb 2023, 20:15'
+    link: 'https://www.last.fm/music/The+Kinks/_/Sunny+Afternoon'
+  - title: The Guns of Brixton - Remastered
+    album: London Calling (Remastered)
+    artist: The Clash
+    timestamp: '03 Feb 2023, 20:12'
+    link: 'https://www.last.fm/music/The+Clash/_/The+Guns+of+Brixton+-+Remastered'
+  - title: Soul Love - 2012 Remaster
+    album: >-
+      The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012
+      Remaster)
+    artist: David Bowie
+    timestamp: '03 Feb 2023, 20:08'
+    link: 'https://www.last.fm/music/David+Bowie/_/Soul+Love+-+2012+Remaster'
+  - title: The Lovecats
+    album: Japanese Whispers
+    artist: The Cure
+    timestamp: '03 Feb 2023, 20:05'
+    link: 'https://www.last.fm/music/The+Cure/_/The+Lovecats'
+  - title: Jersey Thursday
+    album: Fairytale (Deluxe Expanded Edition)
+    artist: Donovan
+    timestamp: '03 Feb 2023, 20:02'
+    link: 'https://www.last.fm/music/Donovan/_/Jersey+Thursday'
+  - title: Homeward Bound
+    album: 'Parsley, Sage, Rosemary And Thyme'
+    artist: Simon & Garfunkel
+    timestamp: '03 Feb 2023, 20:00'
+    link: 'https://www.last.fm/music/Simon+&+Garfunkel/_/Homeward+Bound'
+  - title: The Crystal Ship
+    album: The Doors
+    artist: The Doors
+    timestamp: '03 Feb 2023, 19:57'
+    link: 'https://www.last.fm/music/The+Doors/_/The+Crystal+Ship'
   - title: Who Loves the Sun - 2015 Remaster
     album: 'Loaded: Re-Loaded 45th Anniversary Edition'
     artist: The Velvet Underground
