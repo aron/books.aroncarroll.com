@@ -1,4 +1,19 @@
 items:
+  - title: A Rose for Emily
+    album: Odessey and Oracle
+    artist: The Zombies
+    timestamp: '03 Feb 2023, 22:28'
+    link: 'https://www.last.fm/music/The+Zombies/_/A+Rose+for+Emily'
+  - title: America
+    album: Bookends
+    artist: Simon & Garfunkel
+    timestamp: '03 Feb 2023, 22:24'
+    link: 'https://www.last.fm/music/Simon+&+Garfunkel/_/America'
+  - title: 'Hello, I Love You'
+    album: Waiting for the Sun
+    artist: The Doors
+    timestamp: '03 Feb 2023, 22:22'
+    link: 'https://www.last.fm/music/The+Doors/_/Hello,+I+Love+You'
   - title: Dancing in the Moonlight (It's Caught Me in It's Spotlight)
     album: Bad Reputation (Expanded Edition)
     artist: Thin Lizzy
