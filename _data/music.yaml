@@ -1,4 +1,24 @@
 items:
+  - title: Time in a Bottle
+    album: You Don't Mess Around with Jim
+    artist: Jim Croce
+    timestamp: '08 Feb 2023, 20:15'
+    link: 'https://www.last.fm/music/Jim+Croce/_/Time+in+a+Bottle'
+  - title: Far From Any Road
+    album: Singing Bones
+    artist: The Handsome Family
+    timestamp: '08 Feb 2023, 20:12'
+    link: 'https://www.last.fm/music/The+Handsome+Family/_/Far+From+Any+Road'
+  - title: Life's a Gas
+    album: Electric Warrior
+    artist: T. Rex
+    timestamp: '08 Feb 2023, 20:10'
+    link: 'https://www.last.fm/music/T.+Rex/_/Life%27s+a+Gas'
+  - title: Somebody to Love
+    album: Surrealistic Pillow
+    artist: Jefferson Airplane
+    timestamp: '08 Feb 2023, 20:07'
+    link: 'https://www.last.fm/music/Jefferson+Airplane/_/Somebody+to+Love'
   - title: Oh! You Pretty Things - 2015 Remaster
     album: Hunky Dory (2015 Remaster)
     artist: David Bowie
