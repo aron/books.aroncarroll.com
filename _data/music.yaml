@@ -1,4 +1,14 @@
 items:
+  - title: Your Song
+    album: Elton John
+    artist: Elton John
+    timestamp: '09 Feb 2023, 18:22'
+    link: 'https://www.last.fm/music/Elton+John/_/Your+Song'
+  - title: Go Your Own Way - 2004 Remaster
+    album: Rumours
+    artist: Fleetwood Mac
+    timestamp: '09 Feb 2023, 18:18'
+    link: 'https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way+-+2004+Remaster'
   - title: Son of a Preacher Man
     album: Dusty In Memphis
     artist: Dusty Springfield
