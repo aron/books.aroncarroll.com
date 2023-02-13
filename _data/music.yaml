@@ -1,4 +1,25 @@
 items:
+  - title: Green Onions
+    album: Green Onions
+    artist: Booker T. & The M.G.'s
+    timestamp: '13 Feb 2023, 20:19'
+    link: 'https://www.last.fm/music/Booker+T.+&+The+M.G.%27s/_/Green+Onions'
+  - title: Close to Me
+    album: The Head On The Door (Remastered)
+    artist: The Cure
+    timestamp: '13 Feb 2023, 20:15'
+    link: 'https://www.last.fm/music/The+Cure/_/Close+to+Me'
+  - title: (You Make Me Feel Like) A Natural Woman
+    album: Tapestry
+    artist: Carole King
+    timestamp: '13 Feb 2023, 20:11'
+    link: >-
+      https://www.last.fm/music/Carole+King/_/(You+Make+Me+Feel+Like)+A+Natural+Woman
+  - title: Tapestry
+    album: Tapestry
+    artist: Carole King
+    timestamp: '13 Feb 2023, 20:08'
+    link: 'https://www.last.fm/music/Carole+King/_/Tapestry'
   - title: Smackwater Jack
     album: Tapestry
     artist: Carole King
