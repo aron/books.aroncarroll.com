@@ -1,4 +1,14 @@
 items:
+  - title: Ain't No Sunshine
+    album: Just As I Am
+    artist: Bill Withers
+    timestamp: '09 Feb 2023, 18:29'
+    link: 'https://www.last.fm/music/Bill+Withers/_/Ain%27t+No+Sunshine'
+  - title: Your Song
+    album: Elton John
+    artist: Elton John
+    timestamp: '09 Feb 2023, 18:27'
+    link: 'https://www.last.fm/music/Elton+John/_/Your+Song'
   - title: Your Song
     album: Elton John
     artist: Elton John
@@ -7,8 +17,18 @@ items:
   - title: Go Your Own Way - 2004 Remaster
     album: Rumours
     artist: Fleetwood Mac
+    timestamp: '09 Feb 2023, 18:22'
+    link: 'https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way+-+2004+Remaster'
+  - title: Go Your Own Way - 2004 Remaster
+    album: Rumours
+    artist: Fleetwood Mac
     timestamp: '09 Feb 2023, 18:18'
     link: 'https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way+-+2004+Remaster'
+  - title: Son of a Preacher Man
+    album: Dusty In Memphis
+    artist: Dusty Springfield
+    timestamp: '09 Feb 2023, 18:18'
+    link: 'https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man'
   - title: Son of a Preacher Man
     album: Dusty In Memphis
     artist: Dusty Springfield
@@ -17,8 +37,19 @@ items:
   - title: Jolene
     album: Jolene (Expanded Edition)
     artist: Dolly Parton
+    timestamp: '09 Feb 2023, 18:16'
+    link: 'https://www.last.fm/music/Dolly+Parton/_/Jolene'
+  - title: Jolene
+    album: Jolene (Expanded Edition)
+    artist: Dolly Parton
     timestamp: '09 Feb 2023, 18:13'
     link: 'https://www.last.fm/music/Dolly+Parton/_/Jolene'
+  - title: 'Rocket Man (I Think It''s Going to Be a Long, Long Time)'
+    album: Honky Chateau
+    artist: Elton John
+    timestamp: '09 Feb 2023, 18:13'
+    link: >-
+      https://www.last.fm/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long,+Long+Time)
   - title: 'Rocket Man (I Think It''s Going to Be a Long, Long Time)'
     album: Honky Chateau
     artist: Elton John
