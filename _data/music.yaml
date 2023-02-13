@@ -1,4 +1,14 @@
 items:
+  - title: A Forest
+    album: Seventeen Seconds
+    artist: The Cure
+    timestamp: '13 Feb 2023, 20:32'
+    link: 'https://www.last.fm/music/The+Cure/_/A+Forest'
+  - title: The Letter
+    album: The Letter/Neon Rainbow
+    artist: The Box Tops
+    timestamp: '13 Feb 2023, 20:30'
+    link: 'https://www.last.fm/music/The+Box+Tops/_/The+Letter'
   - title: The Man In Me
     album: New Morning
     artist: Bob Dylan
