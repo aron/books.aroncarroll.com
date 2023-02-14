@@ -1,4 +1,25 @@
 items:
+  - title: Bleecker Street
+    album: 'Wednesday Morning, 3 A.M.'
+    artist: Simon & Garfunkel
+    timestamp: '14 Feb 2023, 09:11'
+    link: 'https://www.last.fm/music/Simon+&+Garfunkel/_/Bleecker+Street'
+  - title: Wichita Lineman - Remastered 2001
+    album: Wichita Lineman (remastered)
+    artist: Glen Campbell
+    timestamp: '14 Feb 2023, 09:08'
+    link: >-
+      https://www.last.fm/music/Glen+Campbell/_/Wichita+Lineman+-+Remastered+2001
+  - title: Me and Julio Down by the Schoolyard
+    album: Paul Simon
+    artist: Paul Simon
+    timestamp: '14 Feb 2023, 09:05'
+    link: 'https://www.last.fm/music/Paul+Simon/_/Me+and+Julio+Down+by+the+Schoolyard'
+  - title: Fire and Rain - 2019 Remaster
+    album: Sweet Baby James (2019 Remaster)
+    artist: James Taylor
+    timestamp: '14 Feb 2023, 09:02'
+    link: 'https://www.last.fm/music/James+Taylor/_/Fire+and+Rain+-+2019+Remaster'
   - title: Alabama Rain
     album: Life & Times
     artist: Jim Croce
