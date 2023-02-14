@@ -1,4 +1,21 @@
 items:
+  - title: 'Don''t Think Twice, It''s All Right'
+    album: In the Wind
+    artist: 'Peter, Paul and Mary'
+    timestamp: '14 Feb 2023, 08:50'
+    link: >-
+      https://www.last.fm/music/Peter,+Paul+and+Mary/_/Don%27t+Think+Twice,+It%27s+All+Right
+  - title: Daydream Believer
+    album: 'The Birds, The Bees, & The Monkees'
+    artist: The Monkees
+    timestamp: '14 Feb 2023, 08:47'
+    link: 'https://www.last.fm/music/The+Monkees/_/Daydream+Believer'
+  - title: You Can Close Your Eyes - 2019 Remaster
+    album: Mud Slide Slim and the Blue Horizon (2019 Remaster)
+    artist: James Taylor
+    timestamp: '14 Feb 2023, 08:45'
+    link: >-
+      https://www.last.fm/music/James+Taylor/_/You+Can+Close+Your+Eyes+-+2019+Remaster
   - title: 'Hey, That''s No Way to Say Goodbye'
     album: Songs of Leonard Cohen
     artist: Leonard Cohen
