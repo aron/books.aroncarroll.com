@@ -1,4 +1,14 @@
 items:
+  - title: Immigrant Song - Remaster
+    album: Led Zeppelin III (Remaster)
+    artist: Led Zeppelin
+    timestamp: '14 Feb 2023, 21:13'
+    link: 'https://www.last.fm/music/Led+Zeppelin/_/Immigrant+Song+-+Remaster'
+  - title: The Chain - 2004 Remaster
+    album: Rumours (Super Deluxe)
+    artist: Fleetwood Mac
+    timestamp: '14 Feb 2023, 20:59'
+    link: 'https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster'
   - title: The Chain - 2004 Remaster
     album: Rumours (Super Deluxe)
     artist: Fleetwood Mac
@@ -7,8 +17,19 @@ items:
   - title: Dirty Work
     album: Can't Buy A Thrill
     artist: Steely Dan
+    timestamp: '14 Feb 2023, 20:55'
+    link: 'https://www.last.fm/music/Steely+Dan/_/Dirty+Work'
+  - title: Dirty Work
+    album: Can't Buy A Thrill
+    artist: Steely Dan
     timestamp: '14 Feb 2023, 20:51'
     link: 'https://www.last.fm/music/Steely+Dan/_/Dirty+Work'
+  - title: It's the End of the World as We Know It (and I Feel Fine)
+    album: Document (R.E.M. No. 5)
+    artist: R.E.M.
+    timestamp: '14 Feb 2023, 20:51'
+    link: >-
+      https://www.last.fm/music/R.E.M./_/It%27s+the+End+of+the+World+as+We+Know+It+(and+I+Feel+Fine)
   - title: It's the End of the World as We Know It (and I Feel Fine)
     album: Document (R.E.M. No. 5)
     artist: R.E.M.
@@ -18,8 +39,18 @@ items:
   - title: Ocean Man
     album: The Mollusk
     artist: Ween
+    timestamp: '14 Feb 2023, 20:47'
+    link: 'https://www.last.fm/music/Ween/_/Ocean+Man'
+  - title: Ocean Man
+    album: The Mollusk
+    artist: Ween
     timestamp: '14 Feb 2023, 20:45'
     link: 'https://www.last.fm/music/Ween/_/Ocean+Man'
+  - title: Sir Duke
+    album: Songs in the Key of Life
+    artist: Stevie Wonder
+    timestamp: '14 Feb 2023, 20:45'
+    link: 'https://www.last.fm/music/Stevie+Wonder/_/Sir+Duke'
   - title: Sir Duke
     album: Songs in the Key of Life
     artist: Stevie Wonder
