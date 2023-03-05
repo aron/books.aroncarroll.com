@@ -1,4 +1,14 @@
 items:
+  - title: Blue
+    album: Tomorrow The Green Grass
+    artist: The Jayhawks
+    timestamp: '05 Mar 2023, 14:04'
+    link: 'https://www.last.fm/music/The+Jayhawks/_/Blue'
+  - title: Another World
+    album: Night And Day
+    artist: Joe Jackson
+    timestamp: '05 Mar 2023, 13:59'
+    link: 'https://www.last.fm/music/Joe+Jackson/_/Another+World'
   - title: Thirteen
     album: '#1 Record'
     artist: Big Star
