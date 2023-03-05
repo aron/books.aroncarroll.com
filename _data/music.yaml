@@ -1,4 +1,14 @@
 items:
+  - title: It's Raining Today
+    album: Scott 3
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:31'
+    link: 'https://www.last.fm/music/Scott+Walker/_/It%27s+Raining+Today'
+  - title: Jackie
+    album: Scott 2
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:28'
+    link: 'https://www.last.fm/music/Scott+Walker/_/Jackie'
   - title: Amsterdam
     album: Scott
     artist: Scott Walker
