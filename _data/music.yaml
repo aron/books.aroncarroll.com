@@ -1,4 +1,24 @@
 items:
+  - title: Amsterdam
+    album: Scott
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:25'
+    link: 'https://www.last.fm/music/Scott+Walker/_/Amsterdam'
+  - title: On Your Own Again
+    album: Scott 4
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:23'
+    link: 'https://www.last.fm/music/Scott+Walker/_/On+Your+Own+Again'
+  - title: Copenhagen
+    album: Scott 3
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:21'
+    link: 'https://www.last.fm/music/Scott+Walker/_/Copenhagen'
+  - title: Black Sheep Boy
+    album: Scott 2
+    artist: Scott Walker
+    timestamp: '05 Mar 2023, 14:18'
+    link: 'https://www.last.fm/music/Scott+Walker/_/Black+Sheep+Boy'
   - title: The Lady Came from Baltimore
     album: Scott
     artist: Scott Walker
