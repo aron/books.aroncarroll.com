@@ -1,4 +1,14 @@
 items:
+  - title: Thirteen
+    album: '#1 Record'
+    artist: Big Star
+    timestamp: '05 Mar 2023, 13:57'
+    link: 'https://www.last.fm/music/Big+Star/_/Thirteen'
+  - title: Son of a Preacher Man
+    album: Dusty In Memphis
+    artist: Dusty Springfield
+    timestamp: '05 Mar 2023, 12:32'
+    link: 'https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man'
   - title: A Well Respected Man
     album: Kinda Kinks (Deluxe)
     artist: The Kinks
