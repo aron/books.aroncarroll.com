@@ -11,6 +11,8 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    env:
+      DENO_DIR: .deno
     steps: # This workflow has 3 steps
       # The first step is to check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
@@ -20,6 +22,12 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
+      # https://deno.land/manual@v1.30.1/advanced/continuous_integration#speeding-up-deno-pipelines
+      - name: Cache Deno dependencies 
+        uses: actions/cache@v3
+        with:
+          path: ${{ env.DENO_DIR }}
+          key: ${{ hashFiles('.github/*-postprocess.js') }}
       # The third step is a Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch Letterboxd data 
         uses: githubocto/flat@v3
