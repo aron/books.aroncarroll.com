@@ -11,9 +11,9 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    env:
-      DENO_DIR: ${{ runner.temp }}/.deno
     steps: # This workflow has 3 steps
+      - name: Setup deno env
+        run: echo "DENO_DIR='${{ runner.temp }}/.deno'" >> $GITHUB_ENV
       # The first step is to check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v3
