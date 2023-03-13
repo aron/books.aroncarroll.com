@@ -1,4 +1,19 @@
 items:
+  - title: Night
+    album: Born to Run
+    artist: Bruce Springsteen
+    timestamp: '13 Mar 2023, 17:02'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Night'
+  - title: Tenth Avenue Freeze-Out
+    album: Born to Run
+    artist: Bruce Springsteen
+    timestamp: '13 Mar 2023, 16:59'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Tenth+Avenue+Freeze-Out'
+  - title: Thunder Road
+    album: Born to Run
+    artist: Bruce Springsteen
+    timestamp: '13 Mar 2023, 16:54'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Thunder+Road'
   - title: 'Sleep, Eat Food, Have Visions'
     album: Everything Ecstatic
     artist: Four Tet
