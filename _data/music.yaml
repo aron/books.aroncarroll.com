@@ -1,4 +1,19 @@
 items:
+  - title: Sanctus
+    album: Missa Luba
+    artist: Les Troubadours du Roi Baudouin
+    timestamp: '12 Apr 2023, 07:04'
+    link: 'https://www.last.fm/music/Les+Troubadours+du+Roi+Baudouin/_/Sanctus'
+  - title: A Minha Menina
+    album: Sunshine Hit Me
+    artist: The Bees
+    timestamp: '12 Apr 2023, 07:04'
+    link: 'https://www.last.fm/music/The+Bees/_/A+Minha+Menina'
+  - title: The Infanta
+    album: Picaresque
+    artist: The Decemberists
+    timestamp: '10 Apr 2023, 18:08'
+    link: 'https://www.last.fm/music/The+Decemberists/_/The+Infanta'
   - title: The Infanta
     album: Picaresque
     artist: The Decemberists
@@ -7,8 +22,18 @@ items:
   - title: Comedy
     album: HMS Fable
     artist: Shack
+    timestamp: '10 Apr 2023, 18:03'
+    link: 'https://www.last.fm/music/Shack/_/Comedy'
+  - title: Comedy
+    album: HMS Fable
+    artist: Shack
     timestamp: '10 Apr 2023, 17:57'
     link: 'https://www.last.fm/music/Shack/_/Comedy'
+  - title: Honesty Is No Excuse
+    album: Thin Lizzy
+    artist: Thin Lizzy
+    timestamp: '10 Apr 2023, 17:57'
+    link: 'https://www.last.fm/music/Thin+Lizzy/_/Honesty+Is+No+Excuse'
   - title: Honesty Is No Excuse
     album: Thin Lizzy
     artist: Thin Lizzy
@@ -17,8 +42,18 @@ items:
   - title: Breakfast - 2005 Digital Remaster
     album: Pipedream
     artist: Alan Hull
+    timestamp: '10 Apr 2023, 17:54'
+    link: 'https://www.last.fm/music/Alan+Hull/_/Breakfast+-+2005+Digital+Remaster'
+  - title: Breakfast - 2005 Digital Remaster
+    album: Pipedream
+    artist: Alan Hull
     timestamp: '10 Apr 2023, 17:50'
     link: 'https://www.last.fm/music/Alan+Hull/_/Breakfast+-+2005+Digital+Remaster'
+  - title: Walk on By
+    album: Black And White
+    artist: The Stranglers
+    timestamp: '10 Apr 2023, 17:50'
+    link: 'https://www.last.fm/music/The+Stranglers/_/Walk+on+By'
   - title: Walk on By
     album: Black And White
     artist: The Stranglers
