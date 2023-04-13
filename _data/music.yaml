@@ -1,4 +1,14 @@
 items:
+  - title: Da Funk
+    album: Homework
+    artist: Daft Punk
+    timestamp: '13 Apr 2023, 15:46'
+    link: 'https://www.last.fm/music/Daft+Punk/_/Da+Funk'
+  - title: Rip It Up
+    album: Rip It Up
+    artist: Orange Juice
+    timestamp: '13 Apr 2023, 15:41'
+    link: 'https://www.last.fm/music/Orange+Juice/_/Rip+It+Up'
   - title: On Parade
     album: The Power Out
     artist: Electrelane
