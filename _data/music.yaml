@@ -1,4 +1,19 @@
 items:
+  - title: 'Archie, Marry Me'
+    album: Alvvays
+    artist: Alvvays
+    timestamp: '15 Apr 2023, 14:40'
+    link: 'https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me'
+  - title: Wednesday Week
+    album: The Anthology
+    artist: The Undertones
+    timestamp: '15 Apr 2023, 14:38'
+    link: 'https://www.last.fm/music/The+Undertones/_/Wednesday+Week'
+  - title: Malibu People
+    album: Ciao! Manhattan
+    artist: John Phillips
+    timestamp: '13 Apr 2023, 16:54'
+    link: 'https://www.last.fm/music/John+Phillips/_/Malibu+People'
   - title: Malibu People
     album: Ciao! Manhattan
     artist: John Phillips
@@ -7,13 +22,28 @@ items:
   - title: Out On The Side
     album: The Fantastic Expedition of Dillard & Clark
     artist: Dillard & Clark
+    timestamp: '13 Apr 2023, 16:50'
+    link: 'https://www.last.fm/music/Dillard+&+Clark/_/Out+On+The+Side'
+  - title: Out On The Side
+    album: The Fantastic Expedition of Dillard & Clark
+    artist: Dillard & Clark
     timestamp: '13 Apr 2023, 16:46'
     link: 'https://www.last.fm/music/Dillard+&+Clark/_/Out+On+The+Side'
   - title: Are 'Friends' Electric?
     album: Replicas
     artist: Tubeway Army
+    timestamp: '13 Apr 2023, 16:46'
+    link: 'https://www.last.fm/music/Tubeway+Army/_/Are+%27Friends%27+Electric%3F'
+  - title: Are 'Friends' Electric?
+    album: Replicas
+    artist: Tubeway Army
     timestamp: '13 Apr 2023, 16:41'
     link: 'https://www.last.fm/music/Tubeway+Army/_/Are+%27Friends%27+Electric%3F'
+  - title: Firecracker
+    album: The Big Cover-Up
+    artist: Todd Terje & The Olsens
+    timestamp: '13 Apr 2023, 16:41'
+    link: 'https://www.last.fm/music/Todd+Terje+&+The+Olsens/_/Firecracker'
   - title: Firecracker
     album: The Big Cover-Up
     artist: Todd Terje & The Olsens
