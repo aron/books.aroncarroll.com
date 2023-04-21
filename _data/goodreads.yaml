@@ -155,7 +155,7 @@ items:
     pages: '441'
     queued_at: '2022-10-23'
     started_at: '2022-10-23'
-  - title: The Dispossessed (S.F. MASTERWORKS)
+  - title: The Dispossessed
     subtitle: ''
     authors:
       - Ursula K. Le Guin
@@ -202,7 +202,7 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
-  - title: The Dispossessed
+  - title: The Dispossessed (S.F. MASTERWORKS)
     subtitle: ''
     authors:
       - Ursula K. Le Guin
