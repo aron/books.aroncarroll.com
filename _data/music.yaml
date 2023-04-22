@@ -1,9 +1,30 @@
 items:
+  - title: Are You With Me Now?
+    album: Mug Museum
+    artist: Cate Le Bon
+    timestamp: '22 Apr 2023, 10:31'
+    link: 'https://www.last.fm/music/Cate+Le+Bon/_/Are+You+With+Me+Now%3F'
+  - title: Walk on By
+    album: Black And White
+    artist: The Stranglers
+    timestamp: '15 Apr 2023, 14:50'
+    link: 'https://www.last.fm/music/The+Stranglers/_/Walk+on+By'
+  - title: Where Were You
+    album: Heaven & Hell
+    artist: Mekons
+    timestamp: '15 Apr 2023, 14:49'
+    link: 'https://www.last.fm/music/Mekons/_/Where+Were+You'
   - title: Where Were You
     album: Heaven & Hell
     artist: Mekons
     timestamp: '15 Apr 2023, 14:46'
     link: 'https://www.last.fm/music/Mekons/_/Where+Were+You'
+  - title: She Loves the Way They Love Her
+    album: One Year
+    artist: Colin Blunstone
+    timestamp: '15 Apr 2023, 14:46'
+    link: >-
+      https://www.last.fm/music/Colin+Blunstone/_/She+Loves+the+Way+They+Love+Her
   - title: She Loves the Way They Love Her
     album: One Year
     artist: Colin Blunstone
@@ -13,8 +34,18 @@ items:
   - title: 'Archie, Marry Me'
     album: Alvvays
     artist: Alvvays
+    timestamp: '15 Apr 2023, 14:43'
+    link: 'https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me'
+  - title: 'Archie, Marry Me'
+    album: Alvvays
+    artist: Alvvays
     timestamp: '15 Apr 2023, 14:40'
     link: 'https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me'
+  - title: Wednesday Week
+    album: The Anthology
+    artist: The Undertones
+    timestamp: '15 Apr 2023, 14:40'
+    link: 'https://www.last.fm/music/The+Undertones/_/Wednesday+Week'
   - title: Wednesday Week
     album: The Anthology
     artist: The Undertones
