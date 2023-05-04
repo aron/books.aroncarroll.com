@@ -1,4 +1,19 @@
 items:
+  - title: You Said Something
+    album: 'Stories From the City, Stories From the Sea'
+    artist: PJ Harvey
+    timestamp: '04 May 2023, 19:16'
+    link: 'https://www.last.fm/music/PJ+Harvey/_/You+Said+Something'
+  - title: Your Good Times Are Just Beginning
+    album: Good Luck And Do Your Best
+    artist: Gold Panda
+    timestamp: '30 Apr 2023, 19:37'
+    link: 'https://www.last.fm/music/Gold+Panda/_/Your+Good+Times+Are+Just+Beginning'
+  - title: The Corner
+    album: The Work
+    artist: Gold Panda
+    timestamp: '30 Apr 2023, 19:30'
+    link: 'https://www.last.fm/music/Gold+Panda/_/The+Corner'
   - title: The Corner
     album: The Work
     artist: Gold Panda
@@ -7,13 +22,28 @@ items:
   - title: Transactional Relationship
     album: Transactional Relationship
     artist: Gold Panda
+    timestamp: '30 Apr 2023, 19:26'
+    link: 'https://www.last.fm/music/Gold+Panda/_/Transactional+Relationship'
+  - title: Transactional Relationship
+    album: Transactional Relationship
+    artist: Gold Panda
     timestamp: '30 Apr 2023, 19:23'
     link: 'https://www.last.fm/music/Gold+Panda/_/Transactional+Relationship'
   - title: In My Car
     album: Good Luck And Do Your Best
     artist: Gold Panda
+    timestamp: '30 Apr 2023, 19:22'
+    link: 'https://www.last.fm/music/Gold+Panda/_/In+My+Car'
+  - title: In My Car
+    album: Good Luck And Do Your Best
+    artist: Gold Panda
     timestamp: '30 Apr 2023, 19:17'
     link: 'https://www.last.fm/music/Gold+Panda/_/In+My+Car'
+  - title: You
+    album: Lucky Shiner
+    artist: Gold Panda
+    timestamp: '30 Apr 2023, 19:17'
+    link: 'https://www.last.fm/music/Gold+Panda/_/You'
   - title: You
     album: Lucky Shiner
     artist: Gold Panda
