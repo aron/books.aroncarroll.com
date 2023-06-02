@@ -558,6 +558,18 @@ items:
     isbn: ''
     type: kindle
     state: started
+    pages: '421'
+    queued_at: '2020-10-30'
+    started_at: '2020-10-30'
+  - title: Understanding Power
+    subtitle: The Indispensable Chomsky
+    authors:
+      - Noam Chomsky
+    url: 'https://www.goodreads.com/book/show/41049047'
+    goodreads_url: 'https://www.goodreads.com/review/show/3621346399'
+    isbn: ''
+    type: kindle
+    state: started
     pages: '432'
     queued_at: '2020-10-30'
     started_at: '2020-10-30'
