@@ -1,9 +1,35 @@
 items:
+  - title: Karakul
+    album: Crush
+    artist: Floating Points
+    timestamp: '03 Jun 2023, 13:49'
+    link: 'https://www.last.fm/music/Floating+Points/_/Karakul'
+  - title: Requiem for CS70 and Strings
+    album: Crush
+    artist: Floating Points
+    timestamp: '03 Jun 2023, 13:47'
+    link: 'https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings'
+  - title: Anasickmodular
+    album: Crush
+    artist: Floating Points
+    timestamp: '03 Jun 2023, 13:43'
+    link: 'https://www.last.fm/music/Floating+Points/_/Anasickmodular'
+  - title: Last Bloom
+    album: Crush
+    artist: Floating Points
+    timestamp: '03 Jun 2023, 13:37'
+    link: 'https://www.last.fm/music/Floating+Points/_/Last+Bloom'
   - title: Falaise
     album: Crush
     artist: Floating Points
     timestamp: '03 Jun 2023, 13:34'
     link: 'https://www.last.fm/music/Floating+Points/_/Falaise'
+  - title: Vanishing Girl - 2001 Mix
+    album: Chips From The Chocolate Fireball
+    artist: The Dukes Of Stratosphear
+    timestamp: '02 Jun 2023, 07:40'
+    link: >-
+      https://www.last.fm/music/The+Dukes+Of+Stratosphear/_/Vanishing+Girl+-+2001+Mix
   - title: I Am Pentagon
     album: Save Yourself
     artist: The Make-up
