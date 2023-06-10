@@ -1,4 +1,19 @@
 items:
+  - title: Default
+    album: AMOK
+    artist: Atoms for Peace
+    timestamp: '10 Jun 2023, 08:41'
+    link: 'https://www.last.fm/music/Atoms+for+Peace/_/Default'
+  - title: Metronomic Underground
+    album: Emperor Tomato Ketchup (Expanded Edition)
+    artist: Stereolab
+    timestamp: '10 Jun 2023, 08:41'
+    link: 'https://www.last.fm/music/Stereolab/_/Metronomic+Underground'
+  - title: New Grass
+    album: Laughing Stock
+    artist: Talk Talk
+    timestamp: '10 Jun 2023, 08:23'
+    link: 'https://www.last.fm/music/Talk+Talk/_/New+Grass'
   - title: The Free Design
     album: Cobra and Phases Group Play Voltage In the Milky Night (Expanded Edition)
     artist: Stereolab
