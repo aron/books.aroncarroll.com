@@ -1,4 +1,15 @@
 items:
+  - title: Sweet Child o' Mine
+    album: Appetite for Destruction
+    artist: Guns N' Roses
+    timestamp: '25 Jun 2023, 11:22'
+    link: 'https://www.last.fm/music/Guns+N%27+Roses/_/Sweet+Child+o%27+Mine'
+  - title: 'Rocket Man (I Think It''s Going to Be a Long, Long Time)'
+    album: Honky Chateau
+    artist: Elton John
+    timestamp: '25 Jun 2023, 11:17'
+    link: >-
+      https://www.last.fm/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long,+Long+Time)
   - title: Spaced Cowboy
     album: There's a Riot Goin' On
     artist: Sly & The Family Stone
