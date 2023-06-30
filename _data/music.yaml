@@ -1,4 +1,19 @@
 items:
+  - title: Enough Space
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 07:02'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Enough+Space'
+  - title: See You
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 07:00'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/See+You'
+  - title: My Hero
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 06:56'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/My+Hero'
   - title: Up in Arms
     album: The Colour and the Shape
     artist: Foo Fighters
