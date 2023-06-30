@@ -1,4 +1,14 @@
 items:
+  - title: Up in Arms
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 06:53'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Up+in+Arms'
+  - title: Wind Up
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 06:51'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Wind+Up'
   - title: My Poor Brain
     album: The Colour and the Shape
     artist: Foo Fighters
