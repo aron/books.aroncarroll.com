@@ -1,4 +1,19 @@
 items:
+  - title: Doll
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '30 Jun 2023, 06:38'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Doll'
+  - title: A Big Day in the North
+    album: It's Great When You're Straight... Yeah
+    artist: Black Grape
+    timestamp: '28 Jun 2023, 08:22'
+    link: 'https://www.last.fm/music/Black+Grape/_/A+Big+Day+in+the+North'
+  - title: Slip
+    album: Amber
+    artist: Autechre
+    timestamp: '28 Jun 2023, 08:19'
+    link: 'https://www.last.fm/music/Autechre/_/Slip'
   - title: Slip
     album: Amber
     artist: Autechre
@@ -7,13 +22,29 @@ items:
   - title: 3 Kilos
     album: Music for the Jilted Generation
     artist: The Prodigy
+    timestamp: '28 Jun 2023, 08:04'
+    link: 'https://www.last.fm/music/The+Prodigy/_/3+Kilos'
+  - title: 3 Kilos
+    album: Music for the Jilted Generation
+    artist: The Prodigy
     timestamp: '28 Jun 2023, 07:33'
     link: 'https://www.last.fm/music/The+Prodigy/_/3+Kilos'
   - title: Can't Be Sure
     album: Reading Writing And Arithmetic
     artist: The Sundays
+    timestamp: '28 Jun 2023, 07:33'
+    link: 'https://www.last.fm/music/The+Sundays/_/Can%27t+Be+Sure'
+  - title: Can't Be Sure
+    album: Reading Writing And Arithmetic
+    artist: The Sundays
     timestamp: '28 Jun 2023, 07:30'
     link: 'https://www.last.fm/music/The+Sundays/_/Can%27t+Be+Sure'
+  - title: The Sexual Loneliness of Jesus Christ
+    album: Creatures Of Light & Darkness
+    artist: Jackie Leven
+    timestamp: '28 Jun 2023, 07:30'
+    link: >-
+      https://www.last.fm/music/Jackie+Leven/_/The+Sexual+Loneliness+of+Jesus+Christ
   - title: The Sexual Loneliness of Jesus Christ
     album: Creatures Of Light & Darkness
     artist: Jackie Leven
