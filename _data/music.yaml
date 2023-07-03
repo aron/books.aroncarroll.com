@@ -1,4 +1,56 @@
 items:
+  - title: I Need A Man
+    album: Island Life
+    artist: Grace Jones
+    timestamp: '01 Jul 2023, 20:52'
+    link: 'https://www.last.fm/music/Grace+Jones/_/I+Need+A+Man'
+  - title: La Vie En Rose
+    album: Island Life
+    artist: Grace Jones
+    timestamp: '01 Jul 2023, 20:50'
+    link: 'https://www.last.fm/music/Grace+Jones/_/La+Vie+En+Rose'
+  - title: Send In The Clowns
+    album: Portfolio
+    artist: Grace Jones
+    timestamp: '01 Jul 2023, 20:39'
+    link: 'https://www.last.fm/music/Grace+Jones/_/Send+In+The+Clowns'
+  - title: CIAO
+    album: Overload
+    artist: Georgia Anne Muldrow
+    timestamp: '01 Jul 2023, 20:32'
+    link: 'https://www.last.fm/music/Georgia+Anne+Muldrow/_/CIAO'
+  - title: Oooh La La (feat. Grace Jones)
+    album: The Age of Pleasure
+    artist: Janelle Monáe
+    timestamp: '01 Jul 2023, 20:31'
+    link: >-
+      https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Oooh+La+La+(feat.+Grace+Jones)
+  - title: Oooh La La (feat. Grace Jones)
+    album: Ooh La La (feat. Grace Jones)
+    artist: Janelle Monáe
+    timestamp: '01 Jul 2023, 20:30'
+    link: >-
+      https://www.last.fm/music/Janelle+Mon%C3%A1e/_/Oooh+La+La+(feat.+Grace+Jones)
+  - title: Angel
+    album: NO THANK YOU
+    artist: Little Simz
+    timestamp: '01 Jul 2023, 20:27'
+    link: 'https://www.last.fm/music/Little+Simz/_/Angel'
+  - title: Woman
+    album: Sometimes I Might Be Introvert
+    artist: Little Simz
+    timestamp: '01 Jul 2023, 20:18'
+    link: 'https://www.last.fm/music/Little+Simz/_/Woman'
+  - title: Gorilla
+    album: NO THANK YOU
+    artist: Little Simz
+    timestamp: '01 Jul 2023, 20:11'
+    link: 'https://www.last.fm/music/Little+Simz/_/Gorilla'
+  - title: Venom
+    album: GREY Area
+    artist: Little Simz
+    timestamp: '01 Jul 2023, 20:07'
+    link: 'https://www.last.fm/music/Little+Simz/_/Venom'
   - title: Loveless Love
     album: Crazy Rhythms
     artist: The Feelies
