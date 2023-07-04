@@ -1,4 +1,24 @@
 items:
+  - title: Rose Quartz
+    album: Anything in Return
+    artist: Toro y Moi
+    timestamp: '04 Jul 2023, 13:19'
+    link: 'https://www.last.fm/music/Toro+y+Moi/_/Rose+Quartz'
+  - title: Heartbeats
+    album: Deep Cuts
+    artist: The Knife
+    timestamp: '04 Jul 2023, 13:15'
+    link: 'https://www.last.fm/music/The+Knife/_/Heartbeats'
+  - title: Memory Boy
+    album: Halcyon Digest
+    artist: Deerhunter
+    timestamp: '04 Jul 2023, 13:13'
+    link: 'https://www.last.fm/music/Deerhunter/_/Memory+Boy'
+  - title: You Can Have It All
+    album: And Then Nothing Turned Itself Inside-Out
+    artist: Yo La Tengo
+    timestamp: '04 Jul 2023, 13:08'
+    link: 'https://www.last.fm/music/Yo+La+Tengo/_/You+Can+Have+It+All'
   - title: Tenderness
     album: Wide Awake!
     artist: Parquet Courts
