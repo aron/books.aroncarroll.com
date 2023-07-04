@@ -1,4 +1,25 @@
 items:
+  - title: Oslo In The Summertime
+    album: The Sunlandic Twins
+    artist: of Montreal
+    timestamp: '04 Jul 2023, 17:10'
+    link: 'https://www.last.fm/music/of+Montreal/_/Oslo+In+The+Summertime'
+  - title: Gamma Ray
+    album: Modern Guilt
+    artist: Beck
+    timestamp: '04 Jul 2023, 17:07'
+    link: 'https://www.last.fm/music/Beck/_/Gamma+Ray'
+  - title: Let the Cool Goddess Rust Away
+    album: Clap Your Hands Say Yeah
+    artist: Clap Your Hands Say Yeah
+    timestamp: '04 Jul 2023, 17:04'
+    link: >-
+      https://www.last.fm/music/Clap+Your+Hands+Say+Yeah/_/Let+the+Cool+Goddess+Rust+Away
+  - title: Obstacle 1
+    album: Turn on the Bright Lights
+    artist: Interpol
+    timestamp: '04 Jul 2023, 17:00'
+    link: 'https://www.last.fm/music/Interpol/_/Obstacle+1'
   - title: Surfing on a Rocket
     album: Talkie Walkie
     artist: Air
