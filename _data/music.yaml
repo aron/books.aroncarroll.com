@@ -1,4 +1,19 @@
 items:
+  - title: Banquet
+    album: Silent Alarm
+    artist: Bloc Party
+    timestamp: '04 Jul 2023, 12:12'
+    link: 'https://www.last.fm/music/Bloc+Party/_/Banquet'
+  - title: If I Was A Folkstar
+    album: Wildflower
+    artist: The Avalanches
+    timestamp: '04 Jul 2023, 12:07'
+    link: 'https://www.last.fm/music/The+Avalanches/_/If+I+Was+A+Folkstar'
+  - title: Burning
+    album: Dreams
+    artist: The Whitest Boy Alive
+    timestamp: '04 Jul 2023, 12:04'
+    link: 'https://www.last.fm/music/The+Whitest+Boy+Alive/_/Burning'
   - title: North American Scum
     album: Sound of Silver
     artist: LCD Soundsystem
