@@ -1,4 +1,34 @@
 items:
+  - title: The Mountain
+    album: Cape Town Revisited
+    artist: Abdullah Ibrahim
+    timestamp: '06 Jul 2023, 12:21'
+    link: 'https://www.last.fm/music/Abdullah+Ibrahim/_/The+Mountain'
+  - title: Requiem for CS70 and Strings
+    album: Crush
+    artist: Floating Points
+    timestamp: '06 Jul 2023, 12:19'
+    link: 'https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings'
+  - title: Mother's Love
+    album: 'Ethiopiques, vol. 21: Emahoy (Piano Solo)'
+    artist: Emahoy Tsege Mariam Gebru
+    timestamp: '06 Jul 2023, 12:15'
+    link: 'https://www.last.fm/music/Emahoy+Tsege+Mariam+Gebru/_/Mother%27s+Love'
+  - title: Inner Flight
+    album: Universal Beings
+    artist: Makaya McCraven
+    timestamp: '06 Jul 2023, 12:12'
+    link: 'https://www.last.fm/music/Makaya+McCraven/_/Inner+Flight'
+  - title: Tone Bone Kone
+    album: World of Echo
+    artist: Arthur Russell
+    timestamp: '06 Jul 2023, 12:11'
+    link: 'https://www.last.fm/music/Arthur+Russell/_/Tone+Bone+Kone'
+  - title: Shagu
+    album: Afro-Latin Soul
+    artist: Mulatu Astatke
+    timestamp: '06 Jul 2023, 12:08'
+    link: 'https://www.last.fm/music/Mulatu+Astatke/_/Shagu'
   - title: Wisdom Eye
     album: Eternity
     artist: Alice Coltrane
