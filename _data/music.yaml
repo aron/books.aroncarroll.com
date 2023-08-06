@@ -1,4 +1,14 @@
 items:
+  - title: Rock And Roll
+    album: Beauty & The Beat
+    artist: Edan
+    timestamp: '06 Aug 2023, 09:56'
+    link: 'https://www.last.fm/music/Edan/_/Rock+And+Roll'
+  - title: Angel
+    album: Timeless
+    artist: Goldie
+    timestamp: '06 Aug 2023, 09:44'
+    link: 'https://www.last.fm/music/Goldie/_/Angel'
   - title: Wasted Days
     album: Attack on Memory
     artist: Cloud Nothings
