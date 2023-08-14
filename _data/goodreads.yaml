@@ -531,6 +531,18 @@ items:
       - Will Larson
     url: 'https://www.goodreads.com/book/show/45303387'
     goodreads_url: 'https://www.goodreads.com/review/show/3720010723'
+    isbn: '1953953336'
+    type: kindle
+    state: finished
+    pages: '289'
+    queued_at: '2020-12-27'
+    finished_at: '2020-12-27'
+  - title: An Elegant Puzzle
+    subtitle: Systems of Engineering Management
+    authors:
+      - Will Larson
+    url: 'https://www.goodreads.com/book/show/45303387'
+    goodreads_url: 'https://www.goodreads.com/review/show/3720010723'
     isbn: ''
     type: kindle
     state: finished
