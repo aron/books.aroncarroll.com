@@ -483,6 +483,18 @@ items:
       - Susan Scott
     url: 'https://www.goodreads.com/book/show/19285484'
     goodreads_url: 'https://www.goodreads.com/review/show/3971471930'
+    isbn: '1405511133'
+    type: kindle
+    state: finished
+    pages: '280'
+    queued_at: '2021-04-28'
+    finished_at: '2021-04-28'
+  - title: Fierce Conversations
+    subtitle: 'Achieving success in work and in life, one conversation at a time'
+    authors:
+      - Susan Scott
+    url: 'https://www.goodreads.com/book/show/19285484'
+    goodreads_url: 'https://www.goodreads.com/review/show/3971471930'
     isbn: ''
     type: kindle
     state: finished
