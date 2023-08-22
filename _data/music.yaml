@@ -1,4 +1,25 @@
 items:
+  - title: C.Rock
+    album: Chinese Restaurant
+    artist: Krisma
+    timestamp: '22 Aug 2023, 07:52'
+    link: 'https://www.last.fm/music/+noredirect/Krisma/_/C.Rock'
+  - title: It Was There That I Saw You
+    album: Source Tags & Codes
+    artist: ...And You Will Know Us by the Trail of Dead
+    timestamp: '22 Aug 2023, 07:48'
+    link: >-
+      https://www.last.fm/music/...And+You+Will+Know+Us+by+the+Trail+of+Dead/_/It+Was+There+That+I+Saw+You
+  - title: Stratford-On-Guy - 2018 Remaster
+    album: Exile in Guyville (2018 Remaster)
+    artist: Liz Phair
+    timestamp: '22 Aug 2023, 07:45'
+    link: 'https://www.last.fm/music/Liz+Phair/_/Stratford-On-Guy+-+2018+Remaster'
+  - title: The Killing Moon
+    album: Ocean Rain (Expanded; 2007 Remaster)
+    artist: Echo & the Bunnymen
+    timestamp: '22 Aug 2023, 07:39'
+    link: 'https://www.last.fm/music/Echo+&+the+Bunnymen/_/The+Killing+Moon'
   - title: One Hot Afternoon
     album: Afternooners
     artist: Patrick Cowley
