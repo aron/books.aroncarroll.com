@@ -1,4 +1,29 @@
 items:
+  - title: The Killing Moon
+    album: Ocean Rain (Expanded; 2007 Remaster)
+    artist: Echo & the Bunnymen
+    timestamp: '23 Aug 2023, 14:59'
+    link: 'https://www.last.fm/music/Echo+&+the+Bunnymen/_/The+Killing+Moon'
+  - title: One Hot Afternoon
+    album: Afternooners
+    artist: Patrick Cowley
+    timestamp: '23 Aug 2023, 14:54'
+    link: 'https://www.last.fm/music/Patrick+Cowley/_/One+Hot+Afternoon'
+  - title: Ducter
+    album: Schlagenheim
+    artist: black midi
+    timestamp: '23 Aug 2023, 14:49'
+    link: 'https://www.last.fm/music/black+midi/_/Ducter'
+  - title: John Henry Split My Heart
+    album: Magnolia Electric Co. (Deluxe Edition)
+    artist: 'Songs: Ohia'
+    timestamp: '22 Aug 2023, 08:50'
+    link: 'https://www.last.fm/music/Songs:+Ohia/_/John+Henry+Split+My+Heart'
+  - title: Cursed Sleep
+    album: Cursed Sleep
+    artist: Bonnie Prince Billy
+    timestamp: '22 Aug 2023, 08:48'
+    link: 'https://www.last.fm/music/+noredirect/Bonnie+Prince+Billy/_/Cursed+Sleep'
   - title: Cursed Sleep
     album: Cursed Sleep
     artist: Bonnie Prince Billy
@@ -12,8 +37,18 @@ items:
   - title: Sebastiana
     album: Gal Costa
     artist: Gilberto Gil
+    timestamp: '22 Aug 2023, 08:35'
+    link: 'https://www.last.fm/music/Gilberto+Gil/_/Sebastiana'
+  - title: Sebastiana
+    album: Gal Costa
+    artist: Gilberto Gil
     timestamp: '22 Aug 2023, 08:33'
     link: 'https://www.last.fm/music/Gilberto+Gil/_/Sebastiana'
+  - title: 'Love, Love, Love'
+    album: Ja Dä Ä Dä
+    artist: Pugh Rogefeldt
+    timestamp: '22 Aug 2023, 08:33'
+    link: 'https://www.last.fm/music/Pugh+Rogefeldt/_/Love,+Love,+Love'
   - title: Bamboo Houses - Remix
     album: A Victim of Stars 1982-2012
     artist: Ryuichi Sakamoto
