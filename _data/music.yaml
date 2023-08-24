@@ -1,4 +1,9 @@
 items:
+  - title: Invalid Litter Dept.
+    album: Relationship of Command
+    artist: At the Drive-In
+    timestamp: '24 Aug 2023, 17:56'
+    link: 'https://www.last.fm/music/At+the+Drive-In/_/Invalid+Litter+Dept.'
   - title: Secret Meeting
     album: Alligator
     artist: The National
@@ -9,6 +14,12 @@ items:
     artist: This Heat
     timestamp: '24 Aug 2023, 17:50'
     link: 'https://www.last.fm/music/This+Heat/_/Sleep'
+  - title: Hang On St. Christopher - 2023 Remaster
+    album: Frank’s Wild Years (2023 Remaster)
+    artist: Tom Waits
+    timestamp: '24 Aug 2023, 17:50'
+    link: >-
+      https://www.last.fm/music/Tom+Waits/_/Hang+On+St.+Christopher+-+2023+Remaster
   - title: Siphon Song
     album: O Monolith
     artist: Squid
