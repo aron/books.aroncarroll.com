@@ -1,4 +1,20 @@
 items:
+  - title: Speed Trials
+    album: Either/Or
+    artist: Elliott Smith
+    timestamp: '29 Aug 2023, 06:29'
+    link: 'https://www.last.fm/music/Elliott+Smith/_/Speed+Trials'
+  - title: Born in the U.S.A.
+    album: Advance Base Battery Life
+    artist: Casiotone for the Painfully Alone
+    timestamp: '28 Aug 2023, 14:58'
+    link: >-
+      https://www.last.fm/music/Casiotone+for+the+Painfully+Alone/_/Born+in+the+U.S.A.
+  - title: hot boyz
+    album: Advance Base Battery Life
+    artist: Casiotone for the Painfully Alone
+    timestamp: '28 Aug 2023, 14:54'
+    link: 'https://www.last.fm/music/Casiotone+for+the+Painfully+Alone/_/hot+boyz'
   - title: Into The Groovey
     album: The Whitey Album
     artist: Sonic Youth
@@ -14,6 +30,11 @@ items:
     artist: The Go! Team
     timestamp: '28 Aug 2023, 14:45'
     link: 'https://www.last.fm/music/The+Go!+Team/_/Bull+In+The+Heather'
+  - title: Im Licht
+    album: Bright Magic
+    artist: Public Service Broadcasting
+    timestamp: '28 Aug 2023, 14:45'
+    link: 'https://www.last.fm/music/Public+Service+Broadcasting/_/Im+Licht'
   - title: Der Sumpf (Sinfonie der Großstadt)
     album: Bright Magic
     artist: Public Service Broadcasting
