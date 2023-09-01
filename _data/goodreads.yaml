@@ -185,7 +185,7 @@ items:
       - Kim Stanley Robinson
     url: 'https://www.goodreads.com/book/show/55533938'
     goodreads_url: 'https://www.goodreads.com/review/show/5062867573'
-    isbn: ''
+    isbn: 0356508854
     type: kindle
     state: finished
     pages: '600'
@@ -202,6 +202,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: The Ministry for the Future
+    subtitle: ''
+    authors:
+      - Kim Stanley Robinson
+    url: 'https://www.goodreads.com/book/show/55533938'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867573'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '600'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
   - title: The Cutter Incident
     subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
     authors:
