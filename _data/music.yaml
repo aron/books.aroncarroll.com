@@ -1,4 +1,24 @@
 items:
+  - title: Blue Mountain
+    album: First Songs
+    artist: Michael Hurley
+    timestamp: '07 Sep 2023, 14:53'
+    link: 'https://www.last.fm/music/Michael+Hurley/_/Blue+Mountain'
+  - title: Parallelograms
+    album: Parallelograms
+    artist: Linda Perhacs
+    timestamp: '06 Sep 2023, 15:19'
+    link: 'https://www.last.fm/music/Linda+Perhacs/_/Parallelograms'
+  - title: Orca
+    album: Contrepoint
+    artist: Nicolas Godin
+    timestamp: '05 Sep 2023, 15:22'
+    link: 'https://www.last.fm/music/Nicolas+Godin/_/Orca'
+  - title: Philadelphia Raga
+    album: Liberation!
+    artist: Peter Matthew Bauer
+    timestamp: '05 Sep 2023, 15:13'
+    link: 'https://www.last.fm/music/Peter+Matthew+Bauer/_/Philadelphia+Raga'
   - title: Philadelphia Raga
     album: Liberation!
     artist: Peter Matthew Bauer
@@ -7,13 +27,28 @@ items:
   - title: Mockingbirds
     album: Mighty Joe Moon
     artist: Grant Lee Buffalo
+    timestamp: '05 Sep 2023, 15:08'
+    link: 'https://www.last.fm/music/Grant+Lee+Buffalo/_/Mockingbirds'
+  - title: Mockingbirds
+    album: Mighty Joe Moon
+    artist: Grant Lee Buffalo
     timestamp: '05 Sep 2023, 15:03'
     link: 'https://www.last.fm/music/Grant+Lee+Buffalo/_/Mockingbirds'
   - title: Boom! - Re-Issue
     album: Light Green Leaves
     artist: Little Wings
+    timestamp: '05 Sep 2023, 15:03'
+    link: 'https://www.last.fm/music/Little+Wings/_/Boom!+-+Re-Issue'
+  - title: Boom! - Re-Issue
+    album: Light Green Leaves
+    artist: Little Wings
     timestamp: '05 Sep 2023, 15:00'
     link: 'https://www.last.fm/music/Little+Wings/_/Boom!+-+Re-Issue'
+  - title: Freedom of '76
+    album: Chocolate & Cheese
+    artist: Ween
+    timestamp: '05 Sep 2023, 15:00'
+    link: 'https://www.last.fm/music/Ween/_/Freedom+of+%2776'
   - title: Freedom of '76
     album: Chocolate and Cheese
     artist: Ween
