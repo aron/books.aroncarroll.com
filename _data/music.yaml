@@ -1,4 +1,55 @@
 items:
+  - title: The Lovecats
+    album: Japanese Whispers
+    artist: The Cure
+    timestamp: '11 Sep 2023, 06:22'
+    link: 'https://www.last.fm/music/The+Cure/_/The+Lovecats'
+  - title: Shake It - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:39'
+    link: 'https://www.last.fm/music/David+Bowie/_/Shake+It+-+2018+Remaster'
+  - title: Criminal World - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:33'
+    link: 'https://www.last.fm/music/David+Bowie/_/Criminal+World+-+2018+Remaster'
+  - title: Ricochet - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:29'
+    link: 'https://www.last.fm/music/David+Bowie/_/Ricochet+-+2018+Remaster'
+  - title: Let's Dance - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:22'
+    link: 'https://www.last.fm/music/David+Bowie/_/Let%27s+Dance+-+2018+Remaster'
+  - title: China Girl - 2018 remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:14'
+    link: 'https://www.last.fm/music/David+Bowie/_/China+Girl+-+2018+remaster'
+  - title: Modern Love - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:08'
+    link: 'https://www.last.fm/music/David+Bowie/_/Modern+Love+-+2018+Remaster'
+  - title: Shake It - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 11:59'
+    link: 'https://www.last.fm/music/David+Bowie/_/Shake+It+-+2018+Remaster'
+  - title: Cat People (Putting out Fire) - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 11:55'
+    link: >-
+      https://www.last.fm/music/David+Bowie/_/Cat+People+(Putting+out+Fire)+-+2018+Remaster
+  - title: Criminal World - 2018 Remaster
+    album: Let's Dance (2018 remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 11:50'
+    link: 'https://www.last.fm/music/David+Bowie/_/Criminal+World+-+2018+Remaster'
   - title: Alberto Balsalm
     album: ...I Care Because You Do
     artist: Aphex Twin
