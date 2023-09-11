@@ -1,4 +1,14 @@
 items:
+  - title: Right Said Fred
+    album: The Very Best of Bernard Cribbins
+    artist: Bernard Cribbins
+    timestamp: '11 Sep 2023, 18:15'
+    link: 'https://www.last.fm/music/Bernard+Cribbins/_/Right+Said+Fred'
+  - title: Burning Down the House
+    album: Burning Down the House / I Get Wild / Wild Gravity
+    artist: Talking Heads
+    timestamp: '11 Sep 2023, 07:05'
+    link: 'https://www.last.fm/music/Talking+Heads/_/Burning+Down+the+House'
   - title: Jumping Someone Else's Train
     album: Three Imaginary Boys
     artist: The Cure
@@ -34,6 +44,11 @@ items:
     artist: The Cure
     timestamp: '11 Sep 2023, 06:22'
     link: 'https://www.last.fm/music/The+Cure/_/The+Lovecats'
+  - title: Young Americans - 2016 Remaster
+    album: Young Americans (2016 Remaster)
+    artist: David Bowie
+    timestamp: '10 Sep 2023, 12:44'
+    link: 'https://www.last.fm/music/David+Bowie/_/Young+Americans+-+2016+Remaster'
   - title: Shake It - 2018 Remaster
     album: Let's Dance (2018 remaster)
     artist: David Bowie
