@@ -1,4 +1,24 @@
 items:
+  - title: I'm Gonna Be (500 Miles)
+    album: Sunshine On Leith
+    artist: The Proclaimers
+    timestamp: '11 Sep 2023, 19:06'
+    link: 'https://www.last.fm/music/The+Proclaimers/_/I%27m+Gonna+Be+(500+Miles)'
+  - title: Fortunate Son
+    album: Willy And The Poor Boys (Expanded Edition)
+    artist: Creedence Clearwater Revival
+    timestamp: '11 Sep 2023, 19:04'
+    link: 'https://www.last.fm/music/Creedence+Clearwater+Revival/_/Fortunate+Son'
+  - title: For What It's Worth
+    album: Buffalo Springfield
+    artist: Buffalo Springfield
+    timestamp: '11 Sep 2023, 19:01'
+    link: 'https://www.last.fm/music/Buffalo+Springfield/_/For+What+It%27s+Worth'
+  - title: Cosmic Dancer
+    album: Electric Warrior
+    artist: T. Rex
+    timestamp: '11 Sep 2023, 18:57'
+    link: 'https://www.last.fm/music/T.+Rex/_/Cosmic+Dancer'
   - title: Friday I'm in Love
     album: Wish
     artist: The Cure
