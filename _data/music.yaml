@@ -1,4 +1,19 @@
 items:
+  - title: Bamboleo
+    album: Todos Ole'
+    artist: Los Reyes
+    timestamp: '11 Sep 2023, 19:15'
+    link: 'https://www.last.fm/music/Los+Reyes/_/Bamboleo'
+  - title: Vladimirskii Rojok
+    album: 'Russia''s Most Beautiful Tunes: The Stars of St. Petersburg'
+    artist: Stars of St. Petersburg
+    timestamp: '11 Sep 2023, 19:14'
+    link: 'https://www.last.fm/music/Stars+of+St.+Petersburg/_/Vladimirskii+Rojok'
+  - title: Bella ciao
+    album: '25 aprile: Festa della Liberazione'
+    artist: Fonola Band
+    timestamp: '11 Sep 2023, 19:11'
+    link: 'https://www.last.fm/music/Fonola+Band/_/Bella+ciao'
   - title: I'm Gonna Be (500 Miles)
     album: Sunshine On Leith
     artist: The Proclaimers
