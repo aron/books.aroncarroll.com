@@ -1,4 +1,19 @@
 items:
+  - title: Road
+    album: Pink Moon
+    artist: Nick Drake
+    timestamp: '12 Sep 2023, 08:01'
+    link: 'https://www.last.fm/music/Nick+Drake/_/Road'
+  - title: Fantastic Cat
+    album: Roomic Cube
+    artist: Takako Minekawa
+    timestamp: '12 Sep 2023, 07:57'
+    link: 'https://www.last.fm/music/Takako+Minekawa/_/Fantastic+Cat'
+  - title: O bella ciao
+    album: 'Il meglio del folklore italiano, vol. 2'
+    artist: Salvatore Ida'
+    timestamp: '11 Sep 2023, 20:46'
+    link: 'https://www.last.fm/music/Salvatore+Ida%27/_/O+bella+ciao'
   - title: Mambo Italiano
     album: 'Dino: The Essential Dean Martin'
     artist: Dean Martin
