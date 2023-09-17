@@ -1,4 +1,19 @@
 items:
+  - title: Call Me
+    album: Atomic/Atomix
+    artist: Blondie
+    timestamp: '17 Sep 2023, 10:32'
+    link: 'https://www.last.fm/music/Blondie/_/Call+Me'
+  - title: Don't You Want Me
+    album: Dare!
+    artist: The Human League
+    timestamp: '17 Sep 2023, 10:28'
+    link: 'https://www.last.fm/music/The+Human+League/_/Don%27t+You+Want+Me'
+  - title: Crocodile Rock
+    album: Don't Shoot Me I'm Only The Piano Player
+    artist: Elton John
+    timestamp: '17 Sep 2023, 10:24'
+    link: 'https://www.last.fm/music/Elton+John/_/Crocodile+Rock'
   - title: Friday I'm in Love
     album: Wish
     artist: The Cure
