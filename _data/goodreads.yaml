@@ -43,10 +43,10 @@ items:
     goodreads_url: 'https://www.goodreads.com/review/show/5062918711'
     isbn: ''
     type: kindle
-    state: finished
+    state: started
     pages: '931'
     queued_at: '2022-10-23'
-    finished_at: '2022-11-15'
+    started_at: '2023-01-07'
   - title: 'House of Many Ways (Howl''s Moving Castle, #3)'
     subtitle: ''
     authors:
@@ -70,7 +70,7 @@ items:
     state: finished
     pages: '195'
     queued_at: '2022-10-23'
-    finished_at: '2022-11-15'
+    finished_at: '2022-08-21'
   - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
     subtitle: ''
     authors:
@@ -82,7 +82,7 @@ items:
     state: finished
     pages: '404'
     queued_at: '2022-10-23'
-    finished_at: '2022-10-23'
+    finished_at: '2022-08-15'
   - title: The Cutter Incident
     subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
     authors:
@@ -91,10 +91,9 @@ items:
     goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
     isbn: ''
     type: kindle
-    state: finished
+    state: queued
     pages: '307'
     queued_at: '2022-10-23'
-    finished_at: '2022-11-15'
   - title: Team Topologies
     subtitle: Organizing Business and Technology Teams for Fast Flow
     authors:
@@ -202,6 +201,54 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: Cryptonomicon
+    subtitle: ''
+    authors:
+      - Neal Stephenson
+    url: 'https://www.goodreads.com/book/show/14761514'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062918711'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '931'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
+  - title: The All New Don't Think of an Elephant!
+    subtitle: Know Your Values and Frame the Debate
+    authors:
+      - George Lakoff
+    url: 'https://www.goodreads.com/book/show/23392815'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '195'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
+  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157443'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
+    isbn: 0007369085
+    type: kindle
+    state: finished
+    pages: '404'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
+  - title: The Cutter Incident
+    subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
+    authors:
+      - Paul A. Offit
+    url: 'https://www.goodreads.com/book/show/19642511'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '307'
+    queued_at: '2022-10-23'
+    finished_at: '2022-11-15'
   - title: The Ministry for the Future
     subtitle: ''
     authors:
