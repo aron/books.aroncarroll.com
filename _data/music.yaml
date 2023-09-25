@@ -1,4 +1,31 @@
 items:
+  - title: Amber
+    album: Commercial Album
+    artist: The Residents
+    timestamp: '25 Sep 2023, 15:52'
+    link: 'https://www.last.fm/music/The+Residents/_/Amber'
+  - title: Johnny - 2019 - Remaster
+    album: Suicide (2019 - Remaster)
+    artist: Suicide
+    timestamp: '25 Sep 2023, 15:50'
+    link: 'https://www.last.fm/music/Suicide/_/Johnny+-+2019+-+Remaster'
+  - title: Feeling Called Love - 2006 Remastered Version
+    album: Pink Flag (2006 Remastered Version)
+    artist: Wire
+    timestamp: '25 Sep 2023, 15:48'
+    link: >-
+      https://www.last.fm/music/Wire/_/Feeling+Called+Love+-+2006+Remastered+Version
+  - title: Apes-Ma
+    album: Shiny Beast (Bat Chain Puller)
+    artist: Captain Beefheart & His Magic Band
+    timestamp: '25 Sep 2023, 15:48'
+    link: 'https://www.last.fm/music/Captain+Beefheart+&+His+Magic+Band/_/Apes-Ma'
+  - title: Suction Prints
+    album: Shiny Beast (Bat Chain Puller)
+    artist: Captain Beefheart & His Magic Band
+    timestamp: '25 Sep 2023, 15:43'
+    link: >-
+      https://www.last.fm/music/Captain+Beefheart+&+His+Magic+Band/_/Suction+Prints
   - title: Love Lies
     album: Shiny Beast (Bat Chain Puller)
     artist: Captain Beefheart & His Magic Band
