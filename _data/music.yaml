@@ -1,4 +1,54 @@
 items:
+  - title: Cavaquiñho
+    album: Just Us
+    artist: Faust
+    timestamp: '30 Sep 2023, 16:59'
+    link: 'https://www.last.fm/music/Faust/_/Cavaqui%C3%B1ho'
+  - title: Ode to a Rainy Day
+    album: 'Ode To A Rainy Day: Archives 1972-1975'
+    artist: Robert Lester Folsom
+    timestamp: '29 Sep 2023, 09:15'
+    link: 'https://www.last.fm/music/Robert+Lester+Folsom/_/Ode+to+a+Rainy+Day'
+  - title: Djurkel
+    album: Notes With Attachments
+    artist: Pino Palladino
+    timestamp: '29 Sep 2023, 09:14'
+    link: 'https://www.last.fm/music/Pino+Palladino/_/Djurkel'
+  - title: Practice Twice
+    album: Sam Prekop
+    artist: Sam Prekop
+    timestamp: '29 Sep 2023, 09:08'
+    link: 'https://www.last.fm/music/Sam+Prekop/_/Practice+Twice'
+  - title: Carla
+    album: Belladonna
+    artist: Daniel Lanois
+    timestamp: '29 Sep 2023, 09:04'
+    link: 'https://www.last.fm/music/Daniel+Lanois/_/Carla'
+  - title: Cavaquiñho
+    album: Just Us
+    artist: Faust
+    timestamp: '29 Sep 2023, 08:41'
+    link: 'https://www.last.fm/music/Faust/_/Cavaqui%C3%B1ho'
+  - title: Seamonkey
+    album: Moderat
+    artist: Moderat
+    timestamp: '28 Sep 2023, 13:44'
+    link: 'https://www.last.fm/music/Moderat/_/Seamonkey'
+  - title: Rusty Nails
+    album: Moderat
+    artist: Moderat
+    timestamp: '28 Sep 2023, 13:38'
+    link: 'https://www.last.fm/music/Moderat/_/Rusty+Nails'
+  - title: A New Error
+    album: Moderat
+    artist: Moderat
+    timestamp: '28 Sep 2023, 13:33'
+    link: 'https://www.last.fm/music/Moderat/_/A+New+Error'
+  - title: Heart - Demo Version
+    album: Raw Like Sushi
+    artist: Neneh Cherry
+    timestamp: '28 Sep 2023, 13:25'
+    link: 'https://www.last.fm/music/Neneh+Cherry/_/Heart+-+Demo+Version'
   - title: Midnight Cowboy
     album: 1992 - 2001
     artist: Acetone
