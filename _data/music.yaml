@@ -1,9 +1,19 @@
 items:
+  - title: Practice Twice
+    album: Sam Prekop
+    artist: Sam Prekop
+    timestamp: '30 Sep 2023, 17:02'
+    link: 'https://www.last.fm/music/Sam+Prekop/_/Practice+Twice'
   - title: Cavaquiñho
     album: Just Us
     artist: Faust
     timestamp: '30 Sep 2023, 16:59'
     link: 'https://www.last.fm/music/Faust/_/Cavaqui%C3%B1ho'
+  - title: Carla
+    album: Belladonna
+    artist: Daniel Lanois
+    timestamp: '30 Sep 2023, 16:59'
+    link: 'https://www.last.fm/music/Daniel+Lanois/_/Carla'
   - title: Ode to a Rainy Day
     album: 'Ode To A Rainy Day: Archives 1972-1975'
     artist: Robert Lester Folsom
