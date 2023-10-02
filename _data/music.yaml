@@ -1,9 +1,20 @@
 items:
+  - title: Dancing in the Dark
+    album: Born in the U.S.A.
+    artist: Bruce Springsteen
+    timestamp: '30 Sep 2023, 18:02'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Dancing+in+the+Dark'
   - title: I Can't Keep You
     album: 'Ex:Re'
     artist: 'Ex:Re'
     timestamp: '30 Sep 2023, 17:55'
     link: 'https://www.last.fm/music/Ex:Re/_/I+Can%27t+Keep+You'
+  - title: True Love Will Find You In The End
+    album: The Silence of Love
+    artist: Headless Heroes
+    timestamp: '30 Sep 2023, 17:55'
+    link: >-
+      https://www.last.fm/music/Headless+Heroes/_/True+Love+Will+Find+You+In+The+End
   - title: True Love Will Find You In The End
     album: The Silence of Love
     artist: Headless Heroes
@@ -13,8 +24,19 @@ items:
   - title: Nurse!
     album: Tracey Denim
     artist: Bar Italia
+    timestamp: '30 Sep 2023, 17:51'
+    link: 'https://www.last.fm/music/Bar+Italia/_/Nurse!'
+  - title: Nurse!
+    album: Tracey Denim
+    artist: Bar Italia
     timestamp: '30 Sep 2023, 17:47'
     link: 'https://www.last.fm/music/Bar+Italia/_/Nurse!'
+  - title: One Mile From Heaven - Short Version
+    album: Iron Curtain Innocence
+    artist: Bobb Trimble
+    timestamp: '30 Sep 2023, 17:47'
+    link: >-
+      https://www.last.fm/music/Bobb+Trimble/_/One+Mile+From+Heaven+-+Short+Version
   - title: One Mile From Heaven - Short Version
     album: Iron Curtain Innocence
     artist: Bobb Trimble
@@ -24,9 +46,20 @@ items:
   - title: This World Couldn’t See Us
     album: DREAMER
     artist: Nabihah Iqbal
+    timestamp: '30 Sep 2023, 17:43'
+    link: >-
+      https://www.last.fm/music/Nabihah+Iqbal/_/This+World+Couldn%E2%80%99t+See+Us
+  - title: This World Couldn’t See Us
+    album: DREAMER
+    artist: Nabihah Iqbal
     timestamp: '30 Sep 2023, 17:40'
     link: >-
       https://www.last.fm/music/Nabihah+Iqbal/_/This+World+Couldn%E2%80%99t+See+Us
+  - title: Joyful Grass and Grape
+    album: The Rubáiyát of Dorothy Ashby
+    artist: Dorothy Ashby
+    timestamp: '30 Sep 2023, 17:40'
+    link: 'https://www.last.fm/music/Dorothy+Ashby/_/Joyful+Grass+and+Grape'
   - title: Joyful Grass and Grape
     album: The Rubáiyát of Dorothy Ashby
     artist: Dorothy Ashby
