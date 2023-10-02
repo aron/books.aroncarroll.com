@@ -1,9 +1,24 @@
 items:
+  - title: September
+    album: 'The Best of Earth, Wind & Fire Vol. 1'
+    artist: 'Earth, Wind & Fire'
+    timestamp: '02 Oct 2023, 18:35'
+    link: 'https://www.last.fm/music/Earth,+Wind+&+Fire/_/September'
+  - title: Buffalo Stance
+    album: Raw Like Sushi
+    artist: Neneh Cherry
+    timestamp: '02 Oct 2023, 18:29'
+    link: 'https://www.last.fm/music/Neneh+Cherry/_/Buffalo+Stance'
   - title: This Is The Day
     album: Soul Mining
     artist: The The
     timestamp: '02 Oct 2023, 18:21'
     link: 'https://www.last.fm/music/The+The/_/This+Is+The+Day'
+  - title: I'm on Fire
+    album: Born in the U.S.A.
+    artist: Bruce Springsteen
+    timestamp: '02 Oct 2023, 18:21'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire'
   - title: This Is The Day
     album: Soul Mining
     artist: The The
