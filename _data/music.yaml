@@ -1,4 +1,14 @@
 items:
+  - title: This Is The Day
+    album: Soul Mining
+    artist: The The
+    timestamp: '03 Oct 2023, 18:45'
+    link: 'https://www.last.fm/music/The+The/_/This+Is+The+Day'
+  - title: One Night of Love
+    album: In My Own Time
+    artist: Karen Dalton
+    timestamp: '03 Oct 2023, 13:33'
+    link: 'https://www.last.fm/music/Karen+Dalton/_/One+Night+of+Love'
   - title: Same Old Man
     album: In My Own Time
     artist: Karen Dalton
