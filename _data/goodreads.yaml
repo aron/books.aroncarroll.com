@@ -148,7 +148,7 @@ items:
       - Charles Stross
     url: 'https://www.goodreads.com/book/show/11672721'
     goodreads_url: 'https://www.goodreads.com/review/show/5062920443'
-    isbn: ''
+    isbn: 0748124128
     type: kindle
     state: started
     pages: '441'
@@ -201,6 +201,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: Accelerando
+    subtitle: ''
+    authors:
+      - Charles Stross
+    url: 'https://www.goodreads.com/book/show/11672721'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062920443'
+    isbn: ''
+    type: kindle
+    state: started
+    pages: '441'
+    queued_at: '2022-10-23'
+    started_at: '2022-10-23'
   - title: Cryptonomicon
     subtitle: ''
     authors:
