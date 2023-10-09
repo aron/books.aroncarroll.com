@@ -1,4 +1,24 @@
 items:
+  - title: a day
+    album: telepatie and dreams
+    artist: Sue Music Inc
+    timestamp: '09 Oct 2023, 09:59'
+    link: 'https://www.last.fm/music/Sue+Music+Inc/_/a+day'
+  - title: The Prequel of the Fantasy (The Four)
+    album: Prequel of the New Album
+    artist: Tybux
+    timestamp: '09 Oct 2023, 09:57'
+    link: 'https://www.last.fm/music/Tybux/_/The+Prequel+of+the+Fantasy+(The+Four)'
+  - title: vanuatu
+    album: vanuatu
+    artist: SH/\WN
+    timestamp: '09 Oct 2023, 09:56'
+    link: 'https://www.last.fm/music/SH%2F%5CWN/_/vanuatu'
+  - title: Dingdingdong
+    album: Dingdingdong
+    artist: Jay Santana
+    timestamp: '06 Oct 2023, 11:52'
+    link: 'https://www.last.fm/music/Jay+Santana/_/Dingdingdong'
   - title: Dingdingdong
     album: Dingdingdong
     artist: Jay Santana
@@ -7,13 +27,28 @@ items:
   - title: Hard Times
     album: Drugstore
     artist: 4 Nasty Wolves
+    timestamp: '06 Oct 2023, 11:51'
+    link: 'https://www.last.fm/music/4+Nasty+Wolves/_/Hard+Times'
+  - title: Hard Times
+    album: Drugstore
+    artist: 4 Nasty Wolves
     timestamp: '06 Oct 2023, 11:49'
     link: 'https://www.last.fm/music/4+Nasty+Wolves/_/Hard+Times'
   - title: Flash
     album: Flash
     artist: CNBrak
+    timestamp: '06 Oct 2023, 11:49'
+    link: 'https://www.last.fm/music/CNBrak/_/Flash'
+  - title: Flash
+    album: Flash
+    artist: CNBrak
     timestamp: '06 Oct 2023, 11:48'
     link: 'https://www.last.fm/music/CNBrak/_/Flash'
+  - title: Coconut Lovelymello
+    album: Coconut Lovelymello
+    artist: Oceanchant
+    timestamp: '06 Oct 2023, 11:48'
+    link: 'https://www.last.fm/music/Oceanchant/_/Coconut+Lovelymello'
   - title: Coconut Lovelymello
     album: Coconut Lovelymello
     artist: Oceanchant
