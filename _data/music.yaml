@@ -1,4 +1,15 @@
 items:
+  - title: Hot Pink Orleans
+    album: Patches
+    artist: DJ / Rupture
+    timestamp: '10 Oct 2023, 14:45'
+    link: 'https://www.last.fm/music/+noredirect/DJ+%2F+Rupture/_/Hot+Pink+Orleans'
+  - title: Notes Underground 地下日記
+    album: Phantom Rhythm 幽靈節奏
+    artist: GONG GONG GONG 工工工
+    timestamp: '10 Oct 2023, 08:25'
+    link: >-
+      https://www.last.fm/music/GONG+GONG+GONG+%E5%B7%A5%E5%B7%A5%E5%B7%A5/_/Notes+Underground+%E5%9C%B0%E4%B8%8B%E6%97%A5%E8%A8%98
   - title: A Song About Holding Hands
     album: Silver Drop
     artist: Gregor
@@ -9,6 +20,11 @@ items:
     artist: Kate Fagan
     timestamp: '10 Oct 2023, 08:19'
     link: 'https://www.last.fm/music/Kate+Fagan/_/I+Don%27t+Wanna+Be+Too+Cool'
+  - title: The Surface Of The Water
+    album: Circus Underwater
+    artist: CIRCUS UNDERWATER
+    timestamp: '10 Oct 2023, 08:19'
+    link: 'https://www.last.fm/music/CIRCUS+UNDERWATER/_/The+Surface+Of+The+Water'
   - title: Paint a Lady
     album: Paint a Lady
     artist: Susan Christie
