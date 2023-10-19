@@ -1,4 +1,29 @@
 items:
+  - title: Falling
+    album: Cherry
+    artist: Daphni
+    timestamp: '19 Oct 2023, 01:34'
+    link: 'https://www.last.fm/music/Daphni/_/Falling'
+  - title: Ratio - Edit
+    album: Ratio
+    artist: Floating Points
+    timestamp: '19 Oct 2023, 01:31'
+    link: 'https://www.last.fm/music/Floating+Points/_/Ratio+-+Edit'
+  - title: Problems
+    album: Birth4000
+    artist: Floating Points
+    timestamp: '19 Oct 2023, 01:26'
+    link: 'https://www.last.fm/music/Floating+Points/_/Problems'
+  - title: Birth4000
+    album: Birth4000
+    artist: Floating Points
+    timestamp: '19 Oct 2023, 01:22'
+    link: 'https://www.last.fm/music/Floating+Points/_/Birth4000'
+  - title: White Pepper Ice Cream
+    album: Viva! La Woman
+    artist: Cibo Matto
+    timestamp: '16 Oct 2023, 11:49'
+    link: 'https://www.last.fm/music/Cibo+Matto/_/White+Pepper+Ice+Cream'
   - title: Pastoral II - Remastered 2000
     album: Moondog 2 (Extended Version - Remastered 2000)
     artist: Moondog
@@ -13,8 +38,18 @@ items:
   - title: The Age Of Self
     album: Old Rottenhat
     artist: Robert Wyatt
+    timestamp: '16 Oct 2023, 11:37'
+    link: 'https://www.last.fm/music/Robert+Wyatt/_/The+Age+Of+Self'
+  - title: The Age Of Self
+    album: Old Rottenhat
+    artist: Robert Wyatt
     timestamp: '16 Oct 2023, 11:34'
     link: 'https://www.last.fm/music/Robert+Wyatt/_/The+Age+Of+Self'
+  - title: I Kiss The Flowers In Bloom
+    album: Foxheads Stalk This Land
+    artist: Close Lobsters
+    timestamp: '16 Oct 2023, 11:34'
+    link: 'https://www.last.fm/music/Close+Lobsters/_/I+Kiss+The+Flowers+In+Bloom'
   - title: I Kiss The Flowers In Bloom
     album: Foxheads Stalk This Land
     artist: Close Lobsters
