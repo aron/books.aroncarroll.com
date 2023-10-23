@@ -1,4 +1,19 @@
 items:
+  - title: Love Is A Jungle
+    album: Nirvana Peter
+    artist: Peter Ivers
+    timestamp: '23 Oct 2023, 14:17'
+    link: 'https://www.last.fm/music/Peter+Ivers/_/Love+Is+A+Jungle'
+  - title: Sever
+    album: Unsolved
+    artist: Karate
+    timestamp: '23 Oct 2023, 14:11'
+    link: 'https://www.last.fm/music/Karate/_/Sever'
+  - title: It's So Different Here
+    album: Fool Around
+    artist: Rachel Sweet
+    timestamp: '23 Oct 2023, 14:08'
+    link: 'https://www.last.fm/music/Rachel+Sweet/_/It%27s+So+Different+Here'
   - title: Mourning Dove
     album: Bobby Joe Hope
     artist: Jon McKiel
@@ -19,6 +34,11 @@ items:
     artist: Slapp Happy
     timestamp: '23 Oct 2023, 13:53'
     link: 'https://www.last.fm/music/Slapp+Happy/_/The+Drum'
+  - title: 'sister, brother'
+    album: Spirit Of The Golden Juice
+    artist: F. J. McMahon
+    timestamp: '23 Oct 2023, 13:53'
+    link: 'https://www.last.fm/music/F.+J.+McMahon/_/sister,+brother'
   - title: Tripoli
     album: Pinback
     artist: Pinback
