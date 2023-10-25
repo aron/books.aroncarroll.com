@@ -1,4 +1,9 @@
 items:
+  - title: The Musical
+    album: 7s
+    artist: Avey Tare
+    timestamp: '25 Oct 2023, 16:41'
+    link: 'https://www.last.fm/music/Avey+Tare/_/The+Musical'
   - title: Lips at Night
     album: 7s
     artist: Avey Tare
@@ -14,6 +19,12 @@ items:
     artist: Caribou
     timestamp: '25 Oct 2023, 16:19'
     link: 'https://www.last.fm/music/Caribou/_/The+Spiritually+Immature+Mansion'
+  - title: pretext (for a troubled world)
+    album: little kingdoms
+    artist: Arms and Sleepers
+    timestamp: '25 Oct 2023, 16:19'
+    link: >-
+      https://www.last.fm/music/Arms+and+Sleepers/_/pretext+(for+a+troubled+world)
   - title: Brush
     album: I Could Be Your Dog / I Could Be Your Moon
     artist: Kaitlyn Aurelia Smith
