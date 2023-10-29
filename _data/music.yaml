@@ -1,4 +1,34 @@
 items:
+  - title: Stranger Things
+    album: 'Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)'
+    artist: Kyle Dixon & Michael Stein
+    timestamp: '29 Oct 2023, 12:21'
+    link: 'https://www.last.fm/music/Kyle+Dixon+&+Michael+Stein/_/Stranger+Things'
+  - title: Ghost Town
+    album: 'Stereo-Typical: A''s, B''s & Rarities'
+    artist: The Specials
+    timestamp: '29 Oct 2023, 12:17'
+    link: 'https://www.last.fm/music/The+Specials/_/Ghost+Town'
+  - title: The Lovecats
+    album: Japanese Whispers
+    artist: The Cure
+    timestamp: '29 Oct 2023, 12:13'
+    link: 'https://www.last.fm/music/The+Cure/_/The+Lovecats'
+  - title: Human Fly
+    album: Off The Bone
+    artist: The Cramps
+    timestamp: '29 Oct 2023, 12:12'
+    link: 'https://www.last.fm/music/The+Cramps/_/Human+Fly'
+  - title: Surfin' Spooks
+    album: A-Haunting We Will Go-Go
+    artist: The Ghastly Ones
+    timestamp: '29 Oct 2023, 12:10'
+    link: 'https://www.last.fm/music/The+Ghastly+Ones/_/Surfin%27+Spooks'
+  - title: People Are Strange
+    album: Strange Days
+    artist: The Doors
+    timestamp: '29 Oct 2023, 12:08'
+    link: 'https://www.last.fm/music/The+Doors/_/People+Are+Strange'
   - title: Whip It
     album: Oh No It's Devo / Freedom of Choice
     artist: Devo
