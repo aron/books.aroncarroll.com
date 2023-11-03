@@ -1,4 +1,9 @@
 items:
+  - title: Ohio
+    album: OH (Ohio)
+    artist: Lambchop
+    timestamp: '03 Nov 2023, 15:35'
+    link: 'https://www.last.fm/music/Lambchop/_/Ohio'
   - title: Ego Tripping at the Gates of Hell
     album: Yoshimi Battles the Pink Robots
     artist: The Flaming Lips
@@ -21,6 +26,11 @@ items:
     artist: Autolux
     timestamp: '03 Nov 2023, 14:51'
     link: 'https://www.last.fm/music/Autolux/_/Highchair'
+  - title: I Dream In Neon
+    album: Drifters / Love is The Devil
+    artist: Dirty Beaches
+    timestamp: '03 Nov 2023, 14:51'
+    link: 'https://www.last.fm/music/Dirty+Beaches/_/I+Dream+In+Neon'
   - title: Almost Sleeping
     album: Sounds Of The Satellites
     artist: Laika
