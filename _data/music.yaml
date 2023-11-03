@@ -1,4 +1,14 @@
 items:
+  - title: I Think of You
+    album: Short And Sweet
+    artist: Little Annie
+    timestamp: '03 Nov 2023, 15:54'
+    link: 'https://www.last.fm/music/Little+Annie/_/I+Think+of+You'
+  - title: Pony
+    album: I'm the One
+    artist: Annette Peacock
+    timestamp: '03 Nov 2023, 15:48'
+    link: 'https://www.last.fm/music/Annette+Peacock/_/Pony'
   - title: Coffee in the Pot
     album: Road to Rouen
     artist: Supergrass
@@ -24,6 +34,11 @@ items:
     artist: Lambchop
     timestamp: '03 Nov 2023, 15:35'
     link: 'https://www.last.fm/music/Lambchop/_/Ohio'
+  - title: Emp. Man's Blues
+    album: The For Carnation
+    artist: The For Carnation
+    timestamp: '03 Nov 2023, 15:35'
+    link: 'https://www.last.fm/music/The+For+Carnation/_/Emp.+Man%27s+Blues'
   - title: Ego Tripping at the Gates of Hell
     album: Yoshimi Battles the Pink Robots
     artist: The Flaming Lips
