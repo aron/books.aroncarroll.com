@@ -1,4 +1,14 @@
 items:
+  - title: The Garden
+    album: The Garden
+    artist: Carla dal Forno
+    timestamp: '06 Nov 2023, 09:59'
+    link: 'https://www.last.fm/music/Carla+dal+Forno/_/The+Garden'
+  - title: Before I Move Off
+    album: Crooks & Lovers
+    artist: Mount Kimbie
+    timestamp: '03 Nov 2023, 16:57'
+    link: 'https://www.last.fm/music/Mount+Kimbie/_/Before+I+Move+Off'
   - title: Before I Move Off
     album: Crooks & Lovers
     artist: Mount Kimbie
@@ -12,8 +22,18 @@ items:
   - title: I Think of You
     album: Short And Sweet
     artist: Little Annie
+    timestamp: '03 Nov 2023, 15:59'
+    link: 'https://www.last.fm/music/Little+Annie/_/I+Think+of+You'
+  - title: I Think of You
+    album: Short And Sweet
+    artist: Little Annie
     timestamp: '03 Nov 2023, 15:54'
     link: 'https://www.last.fm/music/Little+Annie/_/I+Think+of+You'
+  - title: Pony
+    album: I'm the One
+    artist: Annette Peacock
+    timestamp: '03 Nov 2023, 15:54'
+    link: 'https://www.last.fm/music/Annette+Peacock/_/Pony'
   - title: Pony
     album: I'm the One
     artist: Annette Peacock
@@ -22,8 +42,18 @@ items:
   - title: Coffee in the Pot
     album: Road to Rouen
     artist: Supergrass
+    timestamp: '03 Nov 2023, 15:48'
+    link: 'https://www.last.fm/music/Supergrass/_/Coffee+in+the+Pot'
+  - title: Coffee in the Pot
+    album: Road to Rouen
+    artist: Supergrass
     timestamp: '03 Nov 2023, 15:46'
     link: 'https://www.last.fm/music/Supergrass/_/Coffee+in+the+Pot'
+  - title: Painbirds
+    album: Good Morning Spider
+    artist: Sparklehorse
+    timestamp: '03 Nov 2023, 15:46'
+    link: 'https://www.last.fm/music/Sparklehorse/_/Painbirds'
   - title: Painbirds
     album: Good Morning Spider
     artist: Sparklehorse
