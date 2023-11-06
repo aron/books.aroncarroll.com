@@ -1,4 +1,24 @@
 items:
+  - title: Bodega Birth
+    album: Endless Scroll
+    artist: Bodega
+    timestamp: '06 Nov 2023, 10:23'
+    link: 'https://www.last.fm/music/Bodega/_/Bodega+Birth'
+  - title: Molly's Lips
+    album: Enter the Vaselines (Deluxe Edition)
+    artist: The Vaselines
+    timestamp: '06 Nov 2023, 10:21'
+    link: 'https://www.last.fm/music/The+Vaselines/_/Molly%27s+Lips'
+  - title: Terry
+    album: Anika
+    artist: Anika
+    timestamp: '06 Nov 2023, 10:16'
+    link: 'https://www.last.fm/music/Anika/_/Terry'
+  - title: I Don't Belong
+    album: A Hero's Death
+    artist: Fontaines D.C.
+    timestamp: '06 Nov 2023, 10:11'
+    link: 'https://www.last.fm/music/Fontaines+D.C./_/I+Don%27t+Belong'
   - title: I'm Only Sleeping - Remastered 2009
     album: Revolver (Remastered)
     artist: The Beatles
@@ -20,6 +40,11 @@ items:
     artist: Carla dal Forno
     timestamp: '06 Nov 2023, 09:59'
     link: 'https://www.last.fm/music/Carla+dal+Forno/_/The+Garden'
+  - title: Happy Cycling
+    album: Music Has the Right to Children
+    artist: Boards of Canada
+    timestamp: '03 Nov 2023, 19:42'
+    link: 'https://www.last.fm/music/Boards+of+Canada/_/Happy+Cycling'
   - title: Before I Move Off
     album: Crooks & Lovers
     artist: Mount Kimbie
