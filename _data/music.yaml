@@ -1,4 +1,19 @@
 items:
+  - title: Green Apple
+    album: Africa
+    artist: Amanaz
+    timestamp: '08 Nov 2023, 14:19'
+    link: 'https://www.last.fm/music/Amanaz/_/Green+Apple'
+  - title: Get It On Time
+    album: Sing In A World That's Falling Apart
+    artist: Black Lips
+    timestamp: '08 Nov 2023, 14:16'
+    link: 'https://www.last.fm/music/Black+Lips/_/Get+It+On+Time'
+  - title: Brute Fury
+    album: Fanfare in the Garden
+    artist: Essential Logic
+    timestamp: '08 Nov 2023, 14:12'
+    link: 'https://www.last.fm/music/Essential+Logic/_/Brute+Fury'
   - title: Bodega Birth
     album: Endless Scroll
     artist: Bodega
