@@ -1,9 +1,30 @@
 items:
+  - title: Dooyo
+    album: Volume 5
+    artist: Dur-Dur Band
+    timestamp: '17 Nov 2023, 12:50'
+    link: 'https://www.last.fm/music/Dur-Dur+Band/_/Dooyo'
+  - title: I Am Stretched on Your Grave
+    album: I Do Not Want What I Haven't Got
+    artist: Sinéad O'Connor
+    timestamp: '17 Nov 2023, 12:45'
+    link: >-
+      https://www.last.fm/music/Sin%C3%A9ad+O%27Connor/_/I+Am+Stretched+on+Your+Grave
+  - title: Another Time
+    album: One Nation Underground (Expanded Edition)
+    artist: Pearls Before Swine
+    timestamp: '17 Nov 2023, 12:41'
+    link: 'https://www.last.fm/music/Pearls+Before+Swine/_/Another+Time'
   - title: Balsha's Dream
     album: Ain't Givin' Up
     artist: Blues Company
     timestamp: '14 Nov 2023, 15:32'
     link: 'https://www.last.fm/music/Blues+Company/_/Balsha%27s+Dream'
+  - title: Camp Washington Chili
+    album: Second Sight
+    artist: Lonnie Mack
+    timestamp: '14 Nov 2023, 15:32'
+    link: 'https://www.last.fm/music/Lonnie+Mack/_/Camp+Washington+Chili'
   - title: Balsha's Dream
     album: Ain't Givin' Up
     artist: Blues Company
