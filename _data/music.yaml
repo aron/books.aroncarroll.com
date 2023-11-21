@@ -1,4 +1,19 @@
 items:
+  - title: Anasickmodular
+    album: Crush
+    artist: Floating Points
+    timestamp: '21 Nov 2023, 20:25'
+    link: 'https://www.last.fm/music/Floating+Points/_/Anasickmodular'
+  - title: Another Time
+    album: One Nation Underground (Expanded Edition)
+    artist: Pearls Before Swine
+    timestamp: '19 Nov 2023, 10:52'
+    link: 'https://www.last.fm/music/Pearls+Before+Swine/_/Another+Time'
+  - title: Deep In The Heart Of Texas
+    album: 'Best Of Bob Wills, Volume 1'
+    artist: Bob Wills
+    timestamp: '18 Nov 2023, 20:31'
+    link: 'https://www.last.fm/music/Bob+Wills/_/Deep+In+The+Heart+Of+Texas'
   - title: Deep In The Heart Of Texas
     album: 'Best Of Bob Wills, Volume 1'
     artist: Bob Wills
@@ -7,8 +22,18 @@ items:
   - title: Second Fiddle (To An Old Guitar)
     album: 'Honky Tonk Heroine: Classic Capitol Recordings 1952-1964'
     artist: Jean Shepard
+    timestamp: '18 Nov 2023, 20:30'
+    link: 'https://www.last.fm/music/Jean+Shepard/_/Second+Fiddle+(To+An+Old+Guitar)'
+  - title: Second Fiddle (To An Old Guitar)
+    album: 'Honky Tonk Heroine: Classic Capitol Recordings 1952-1964'
+    artist: Jean Shepard
     timestamp: '18 Nov 2023, 20:13'
     link: 'https://www.last.fm/music/Jean+Shepard/_/Second+Fiddle+(To+An+Old+Guitar)'
+  - title: Light The Fuse
+    album: Presenting Johnny Western
+    artist: Johnny Western
+    timestamp: '18 Nov 2023, 20:13'
+    link: 'https://www.last.fm/music/Johnny+Western/_/Light+The+Fuse'
   - title: Light The Fuse
     album: Presenting Johnny Western
     artist: Johnny Western
@@ -17,9 +42,20 @@ items:
   - title: 'My Rifle, My Pony And Me - Remastered'
     album: Legacy
     artist: Ricky Nelson
+    timestamp: '18 Nov 2023, 20:11'
+    link: >-
+      https://www.last.fm/music/Ricky+Nelson/_/My+Rifle,+My+Pony+And+Me+-+Remastered
+  - title: 'My Rifle, My Pony And Me - Remastered'
+    album: Legacy
+    artist: Ricky Nelson
     timestamp: '18 Nov 2023, 20:03'
     link: >-
       https://www.last.fm/music/Ricky+Nelson/_/My+Rifle,+My+Pony+And+Me+-+Remastered
+  - title: The Cowboy Song
+    album: Ukulele Jim's Jumping Flea Circus
+    artist: Ukulele Jim
+    timestamp: '18 Nov 2023, 20:03'
+    link: 'https://www.last.fm/music/Ukulele+Jim/_/The+Cowboy+Song'
   - title: The Cowboy Song
     album: Ukulele Jim's Jumping Flea Circus
     artist: Ukulele Jim
