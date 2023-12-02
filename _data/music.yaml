@@ -1,4 +1,14 @@
 items:
+  - title: Rudolph The Red-Nosed Reindeer
+    album: Christmas Album
+    artist: The Jackson 5
+    timestamp: '02 Dec 2023, 19:53'
+    link: 'https://www.last.fm/music/The+Jackson+5/_/Rudolph+The+Red-Nosed+Reindeer'
+  - title: Christmas (Baby Please Come Home)
+    album: A Christmas Gift for You From Phil Spector
+    artist: Darlene Love
+    timestamp: '02 Dec 2023, 19:50'
+    link: 'https://www.last.fm/music/Darlene+Love/_/Christmas+(Baby+Please+Come+Home)'
   - title: We Wish You A Merry Christmas
     album: Christmas With Weezer
     artist: Weezer
