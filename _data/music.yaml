@@ -1,4 +1,19 @@
 items:
+  - title: In The Square
+    album: Parachute
+    artist: The Pretty Things
+    timestamp: '08 Dec 2023, 10:34'
+    link: 'https://www.last.fm/music/The+Pretty+Things/_/In+The+Square'
+  - title: Black Venom
+    album: The Budos Band III
+    artist: The Budos Band
+    timestamp: '08 Dec 2023, 10:30'
+    link: 'https://www.last.fm/music/The+Budos+Band/_/Black+Venom'
+  - title: Djurkel
+    album: Notes With Attachments
+    artist: Pino Palladino
+    timestamp: '05 Dec 2023, 22:02'
+    link: 'https://www.last.fm/music/Pino+Palladino/_/Djurkel'
   - title: Djurkel
     album: Notes With Attachments
     artist: Pino Palladino
@@ -7,13 +22,28 @@ items:
   - title: Funicular
     album: Tape 1
     artist: Felbm
+    timestamp: '05 Dec 2023, 21:56'
+    link: 'https://www.last.fm/music/Felbm/_/Funicular'
+  - title: Funicular
+    album: Tape 1
+    artist: Felbm
     timestamp: '05 Dec 2023, 21:54'
     link: 'https://www.last.fm/music/Felbm/_/Funicular'
   - title: Dream Puppy
     album: Marshmallow
     artist: The Sweet Enoughs
+    timestamp: '05 Dec 2023, 21:54'
+    link: 'https://www.last.fm/music/The+Sweet+Enoughs/_/Dream+Puppy'
+  - title: Dream Puppy
+    album: Marshmallow
+    artist: The Sweet Enoughs
     timestamp: '05 Dec 2023, 21:48'
     link: 'https://www.last.fm/music/The+Sweet+Enoughs/_/Dream+Puppy'
+  - title: Filatelie
+    album: Tape 3
+    artist: Felbm
+    timestamp: '05 Dec 2023, 21:48'
+    link: 'https://www.last.fm/music/Felbm/_/Filatelie'
   - title: Filatelie
     album: Tape 3
     artist: Felbm
