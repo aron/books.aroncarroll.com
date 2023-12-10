@@ -1,4 +1,24 @@
 items:
+  - title: Burning Lights
+    album: Joe Strummer 001
+    artist: Joe Strummer
+    timestamp: '10 Dec 2023, 12:48'
+    link: 'https://www.last.fm/music/Joe+Strummer/_/Burning+Lights'
+  - title: The Lonely Surfer
+    album: The Lonely Surfer
+    artist: Jack Nitzsche
+    timestamp: '10 Dec 2023, 12:45'
+    link: 'https://www.last.fm/music/Jack+Nitzsche/_/The+Lonely+Surfer'
+  - title: Something Big
+    album: Living Together
+    artist: Burt Bacharach
+    timestamp: '10 Dec 2023, 12:42'
+    link: 'https://www.last.fm/music/Burt+Bacharach/_/Something+Big'
+  - title: Love At First Sight
+    album: 'The Indie Years : 1982'
+    artist: The Gist
+    timestamp: '10 Dec 2023, 12:38'
+    link: 'https://www.last.fm/music/The+Gist/_/Love+At+First+Sight'
   - title: Ataypura!
     album: Voice Of The Xtaby
     artist: Yma Sumac
