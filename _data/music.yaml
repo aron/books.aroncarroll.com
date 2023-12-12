@@ -1,4 +1,14 @@
 items:
+  - title: Black Venom
+    album: The Budos Band III
+    artist: The Budos Band
+    timestamp: '12 Dec 2023, 13:19'
+    link: 'https://www.last.fm/music/The+Budos+Band/_/Black+Venom'
+  - title: The Hurdy Gurdy Man
+    album: Pioughd + Widowermaker!
+    artist: Butthole Surfers
+    timestamp: '10 Dec 2023, 13:48'
+    link: 'https://www.last.fm/music/Butthole+Surfers/_/The+Hurdy+Gurdy+Man'
   - title: The Hurdy Gurdy Man
     album: Pioughd + Widowermaker!
     artist: Butthole Surfers
@@ -7,8 +17,18 @@ items:
   - title: Change for the World
     album: Changes
     artist: Charles Bradley
+    timestamp: '10 Dec 2023, 13:44'
+    link: 'https://www.last.fm/music/Charles+Bradley/_/Change+for+the+World'
+  - title: Change for the World
+    album: Changes
+    artist: Charles Bradley
     timestamp: '10 Dec 2023, 13:40'
     link: 'https://www.last.fm/music/Charles+Bradley/_/Change+for+the+World'
+  - title: symbol
+    album: abysskiss
+    artist: Adrianne Lenker
+    timestamp: '10 Dec 2023, 13:40'
+    link: 'https://www.last.fm/music/Adrianne+Lenker/_/symbol'
   - title: symbol
     album: abysskiss
     artist: Adrianne Lenker
@@ -17,9 +37,20 @@ items:
   - title: Coconut Grove - 2003 Remaster
     album: Hums Of The Lovin' Spoonful
     artist: The Lovin' Spoonful
+    timestamp: '10 Dec 2023, 13:36'
+    link: >-
+      https://www.last.fm/music/The+Lovin%27+Spoonful/_/Coconut+Grove+-+2003+Remaster
+  - title: Coconut Grove - 2003 Remaster
+    album: Hums Of The Lovin' Spoonful
+    artist: The Lovin' Spoonful
     timestamp: '10 Dec 2023, 13:05'
     link: >-
       https://www.last.fm/music/The+Lovin%27+Spoonful/_/Coconut+Grove+-+2003+Remaster
+  - title: No One's Little Girl
+    album: Moving
+    artist: The Raincoats
+    timestamp: '10 Dec 2023, 13:05'
+    link: 'https://www.last.fm/music/The+Raincoats/_/No+One%27s+Little+Girl'
   - title: No One's Little Girl
     album: Moving
     artist: The Raincoats
