@@ -1,4 +1,9 @@
 items:
+  - title: The Holly and the Ivy
+    album: Cambridge Singers Christmas Album
+    artist: Traditional
+    timestamp: '12 Dec 2023, 18:49'
+    link: 'https://www.last.fm/music/Traditional/_/The+Holly+and+the+Ivy'
   - title: Can I Stay With You
     album: The Nightmare of J.B. Stanislas (Bonus Version)
     artist: Nick Garrie
@@ -34,6 +39,11 @@ items:
     artist: The Budos Band
     timestamp: '12 Dec 2023, 13:19'
     link: 'https://www.last.fm/music/The+Budos+Band/_/Black+Venom'
+  - title: You Never Come Closer
+    album: Did You Give The World Some Love Today Baby
+    artist: Doris
+    timestamp: '10 Dec 2023, 13:56'
+    link: 'https://www.last.fm/music/Doris/_/You+Never+Come+Closer'
   - title: The Hurdy Gurdy Man
     album: Pioughd + Widowermaker!
     artist: Butthole Surfers
