@@ -1,4 +1,29 @@
 items:
+  - title: Where Am I
+    album: The Marquis Sessions
+    artist: Duffy Power
+    timestamp: '20 Dec 2023, 12:23'
+    link: 'https://www.last.fm/music/Duffy+Power/_/Where+Am+I'
+  - title: Boylife in America
+    album: The Headphone Masterpiece
+    artist: Cody ChesnuTT
+    timestamp: '20 Dec 2023, 12:20'
+    link: 'https://www.last.fm/music/Cody+ChesnuTT/_/Boylife+in+America'
+  - title: Give Me Back My Loving
+    album: Another Side
+    artist: Leo Nocentelli
+    timestamp: '20 Dec 2023, 12:17'
+    link: 'https://www.last.fm/music/Leo+Nocentelli/_/Give+Me+Back+My+Loving'
+  - title: Our Love Will Still Be There
+    album: From Nowhere
+    artist: The Troggs
+    timestamp: '20 Dec 2023, 12:14'
+    link: 'https://www.last.fm/music/The+Troggs/_/Our+Love+Will+Still+Be+There'
+  - title: It Must Change
+    album: My Back Was a Bridge For You To Cross
+    artist: ANOHNI
+    timestamp: '18 Dec 2023, 19:17'
+    link: 'https://www.last.fm/music/ANOHNI/_/It+Must+Change'
   - title: It Must Change
     album: My Back Was a Bridge For You To Cross
     artist: ANOHNI
@@ -7,13 +32,28 @@ items:
   - title: Carbon Dioxide
     album: Radical Romantics
     artist: Fever Ray
+    timestamp: '18 Dec 2023, 19:12'
+    link: 'https://www.last.fm/music/Fever+Ray/_/Carbon+Dioxide'
+  - title: Carbon Dioxide
+    album: Radical Romantics
+    artist: Fever Ray
     timestamp: '18 Dec 2023, 19:07'
     link: 'https://www.last.fm/music/Fever+Ray/_/Carbon+Dioxide'
   - title: Kandy
     album: Radical Romantics
     artist: Fever Ray
+    timestamp: '18 Dec 2023, 19:07'
+    link: 'https://www.last.fm/music/Fever+Ray/_/Kandy'
+  - title: Kandy
+    album: Radical Romantics
+    artist: Fever Ray
     timestamp: '18 Dec 2023, 19:03'
     link: 'https://www.last.fm/music/Fever+Ray/_/Kandy'
+  - title: Shiver
+    album: Radical Romantics
+    artist: Fever Ray
+    timestamp: '18 Dec 2023, 19:03'
+    link: 'https://www.last.fm/music/Fever+Ray/_/Shiver'
   - title: Shiver
     album: Radical Romantics
     artist: Fever Ray
