@@ -1,4 +1,19 @@
 items:
+  - title: Dancing in the Dark
+    album: Born in the U.S.A.
+    artist: Bruce Springsteen
+    timestamp: '22 Dec 2023, 11:06'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Dancing+in+the+Dark'
+  - title: Over And Done With
+    album: This Is The Story
+    artist: The Proclaimers
+    timestamp: '20 Dec 2023, 16:08'
+    link: 'https://www.last.fm/music/The+Proclaimers/_/Over+And+Done+With'
+  - title: Pacific 202
+    album: Acid Brass
+    artist: Williams-Fairey Engineering Band
+    timestamp: '20 Dec 2023, 16:08'
+    link: 'https://www.last.fm/music/Williams-Fairey+Engineering+Band/_/Pacific+202'
   - title: Pacific 202
     album: Acid Brass
     artist: Williams Fairey Brass Band
@@ -8,13 +23,30 @@ items:
   - title: Winter's Going
     album: Bonnie Dobson
     artist: Bonnie Dobson
+    timestamp: '20 Dec 2023, 16:02'
+    link: 'https://www.last.fm/music/Bonnie+Dobson/_/Winter%27s+Going'
+  - title: Winter's Going
+    album: Bonnie Dobson
+    artist: Bonnie Dobson
     timestamp: '20 Dec 2023, 15:59'
     link: 'https://www.last.fm/music/Bonnie+Dobson/_/Winter%27s+Going'
   - title: At Pace
     album: Deep in View
     artist: Cola
+    timestamp: '20 Dec 2023, 15:59'
+    link: 'https://www.last.fm/music/Cola/_/At+Pace'
+  - title: At Pace
+    album: Deep in View
+    artist: Cola
     timestamp: '20 Dec 2023, 15:55'
     link: 'https://www.last.fm/music/Cola/_/At+Pace'
+  - title: I Pity The Country
+    album: >-
+      Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country
+      1966-1985
+    artist: Willie Dunn
+    timestamp: '20 Dec 2023, 15:55'
+    link: 'https://www.last.fm/music/Willie+Dunn/_/I+Pity+The+Country'
   - title: I Pity The Country
     album: >-
       Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country
