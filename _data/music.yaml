@@ -1,4 +1,14 @@
 items:
+  - title: Working Class Hero
+    album: Working Class Hero
+    artist: Cat Power
+    timestamp: '22 Dec 2023, 22:30'
+    link: 'https://www.last.fm/music/Cat+Power/_/Working+Class+Hero'
+  - title: Second Thoughts
+    album: The End Of All Songs
+    artist: Spirits Burning
+    timestamp: '22 Dec 2023, 21:43'
+    link: 'https://www.last.fm/music/Spirits+Burning/_/Second+Thoughts'
   - title: Grace
     album: Grace
     artist: IDLES
