@@ -1,4 +1,31 @@
 items:
+  - title: Feliz Navidad
+    album: Feliz Navidad
+    artist: José Feliciano
+    timestamp: '24 Dec 2023, 10:19'
+    link: 'https://www.last.fm/music/Jos%C3%A9+Feliciano/_/Feliz+Navidad'
+  - title: Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)
+    album: Christmas Songs by Sinatra
+    artist: Frank Sinatra
+    timestamp: '24 Dec 2023, 10:16'
+    link: >-
+      https://www.last.fm/music/Frank+Sinatra/_/Let+It+Snow!+Let+It+Snow!+Let+It+Snow!+(with+The+B.+Swanson+Quartet)
+  - title: White Christmas
+    album: 'Holiday Masters: Swingin'' Christmas'
+    artist: Glenn Miller Orchestra
+    timestamp: '24 Dec 2023, 10:14'
+    link: 'https://www.last.fm/music/Glenn+Miller+Orchestra/_/White+Christmas'
+  - title: Isn't It Now? - Moor Mother Collage
+    album: Isn’t It Now? (Moor Mother Collage)
+    artist: Animal Collective
+    timestamp: '22 Dec 2023, 23:39'
+    link: >-
+      https://www.last.fm/music/Animal+Collective/_/Isn%27t+It+Now%3F+-+Moor+Mother+Collage
+  - title: The Fight
+    album: The Fight
+    artist: Future Islands
+    timestamp: '22 Dec 2023, 23:37'
+    link: 'https://www.last.fm/music/Future+Islands/_/The+Fight'
   - title: The Fight
     album: The Fight
     artist: Future Islands
@@ -7,13 +34,28 @@ items:
   - title: Force One - Nathan Fake Remix
     album: Force One
     artist: Paradigm Shift
+    timestamp: '22 Dec 2023, 23:31'
+    link: 'https://www.last.fm/music/Paradigm+Shift/_/Force+One+-+Nathan+Fake+Remix'
+  - title: Force One - Nathan Fake Remix
+    album: Force One
+    artist: Paradigm Shift
     timestamp: '22 Dec 2023, 23:24'
     link: 'https://www.last.fm/music/Paradigm+Shift/_/Force+One+-+Nathan+Fake+Remix'
   - title: Mond Vogel
     album: Garden Gaia Remixes
     artist: Pantha du Prince
+    timestamp: '22 Dec 2023, 23:24'
+    link: 'https://www.last.fm/music/Pantha+du+Prince/_/Mond+Vogel'
+  - title: Mond Vogel
+    album: Garden Gaia Remixes
+    artist: Pantha du Prince
     timestamp: '22 Dec 2023, 23:18'
     link: 'https://www.last.fm/music/Pantha+du+Prince/_/Mond+Vogel'
+  - title: Water Underground
+    album: Water Underground
+    artist: Real Estate
+    timestamp: '22 Dec 2023, 23:18'
+    link: 'https://www.last.fm/music/Real+Estate/_/Water+Underground'
   - title: Water Underground
     album: Water Underground
     artist: Real Estate
