@@ -1,4 +1,14 @@
 items:
+  - title: My Favorite Things
+    album: Soul For Christmas
+    artist: The Supremes
+    timestamp: '24 Dec 2023, 10:36'
+    link: 'https://www.last.fm/music/The+Supremes/_/My+Favorite+Things'
+  - title: Christmas Wrapping
+    album: 'NO HO HO: Alternative Indie Christmas Holiday Anthems, Vol. 1'
+    artist: The Waitresses
+    timestamp: '24 Dec 2023, 10:31'
+    link: 'https://www.last.fm/music/The+Waitresses/_/Christmas+Wrapping'
   - title: Step Into Christmas - Remastered 1995
     album: Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)
     artist: Elton John
