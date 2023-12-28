@@ -1,4 +1,14 @@
 items:
+  - title: Blue From The Dark
+    album: Hippo Lite
+    artist: Drinks
+    timestamp: '28 Dec 2023, 17:03'
+    link: 'https://www.last.fm/music/Drinks/_/Blue+From+The+Dark'
+  - title: Steller Waffle
+    album: Fortune Goodies
+    artist: Minami Deutsch
+    timestamp: '28 Dec 2023, 16:59'
+    link: 'https://www.last.fm/music/Minami+Deutsch/_/Steller+Waffle'
   - title: My Favorite Things
     album: Soul For Christmas
     artist: The Supremes
@@ -7,8 +17,19 @@ items:
   - title: Christmas Wrapping
     album: 'NO HO HO: Alternative Indie Christmas Holiday Anthems, Vol. 1'
     artist: The Waitresses
+    timestamp: '24 Dec 2023, 10:36'
+    link: 'https://www.last.fm/music/The+Waitresses/_/Christmas+Wrapping'
+  - title: Christmas Wrapping
+    album: 'NO HO HO: Alternative Indie Christmas Holiday Anthems, Vol. 1'
+    artist: The Waitresses
     timestamp: '24 Dec 2023, 10:31'
     link: 'https://www.last.fm/music/The+Waitresses/_/Christmas+Wrapping'
+  - title: Step Into Christmas - Remastered 1995
+    album: Caribou (Remastered 1995)
+    artist: Elton John
+    timestamp: '24 Dec 2023, 10:31'
+    link: >-
+      https://www.last.fm/music/Elton+John/_/Step+Into+Christmas+-+Remastered+1995
   - title: Step Into Christmas - Remastered 1995
     album: Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)
     artist: Elton John
@@ -22,9 +43,24 @@ items:
       Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY -
       December 1975)
     artist: Bruce Springsteen
+    timestamp: '24 Dec 2023, 10:26'
+    link: >-
+      https://www.last.fm/music/Bruce+Springsteen/_/Santa+Claus+Is+Comin%27+to+Town+-+Live+at+C.W.+Post+College,+Greenvale,+NY+-+December+1975
+  - title: >-
+      Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY -
+      December 1975
+    album: >-
+      Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY -
+      December 1975)
+    artist: Bruce Springsteen
     timestamp: '24 Dec 2023, 10:22'
     link: >-
       https://www.last.fm/music/Bruce+Springsteen/_/Santa+Claus+Is+Comin%27+to+Town+-+Live+at+C.W.+Post+College,+Greenvale,+NY+-+December+1975
+  - title: Feliz Navidad
+    album: Feliz Navidad
+    artist: José Feliciano
+    timestamp: '24 Dec 2023, 10:22'
+    link: 'https://www.last.fm/music/Jos%C3%A9+Feliciano/_/Feliz+Navidad'
   - title: Feliz Navidad
     album: Feliz Navidad
     artist: José Feliciano
