@@ -1,4 +1,14 @@
 items:
+  - title: Blue Angel
+    album: The World On My Plates Bis
+    artist: Hermine
+    timestamp: '28 Dec 2023, 17:11'
+    link: 'https://www.last.fm/music/Hermine/_/Blue+Angel'
+  - title: Something blue
+    album: Surround
+    artist: Hiroshi Yoshimura
+    timestamp: '28 Dec 2023, 17:06'
+    link: 'https://www.last.fm/music/Hiroshi+Yoshimura/_/Something+blue'
   - title: Blue From The Dark
     album: Hippo Lite
     artist: Drinks
@@ -9,6 +19,12 @@ items:
     artist: Minami Deutsch
     timestamp: '28 Dec 2023, 16:59'
     link: 'https://www.last.fm/music/Minami+Deutsch/_/Steller+Waffle'
+  - title: Carol of the Bells
+    album: 'Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]'
+    artist: Mykola Dmytrovych Leontovych
+    timestamp: '24 Dec 2023, 10:39'
+    link: >-
+      https://www.last.fm/music/Mykola+Dmytrovych+Leontovych/_/Carol+of+the+Bells
   - title: My Favorite Things
     album: Soul For Christmas
     artist: The Supremes
