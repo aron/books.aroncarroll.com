@@ -1,4 +1,14 @@
 items:
+  - title: Hole Away
+    album: Changing Channels
+    artist: Pangaea
+    timestamp: '17 Jan 2024, 11:20'
+    link: 'https://www.last.fm/music/Pangaea/_/Hole+Away'
+  - title: Installation
+    album: Changing Channels
+    artist: Pangaea
+    timestamp: '17 Jan 2024, 11:16'
+    link: 'https://www.last.fm/music/Pangaea/_/Installation'
   - title: Wonderful
     album: Damned Devotion
     artist: Joan as Police Woman
@@ -7,8 +17,18 @@ items:
   - title: Ringleader Man
     album: Cover
     artist: Joan as Police Woman
+    timestamp: '15 Jan 2024, 16:00'
+    link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Ringleader+Man'
+  - title: Ringleader Man
+    album: Cover
+    artist: Joan as Police Woman
     timestamp: '15 Jan 2024, 15:57'
     link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Ringleader+Man'
+  - title: Furious
+    album: To Survive
+    artist: Joan as Police Woman
+    timestamp: '15 Jan 2024, 15:57'
+    link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Furious'
   - title: Furious
     album: To Survive
     artist: Joan as Police Woman
@@ -17,8 +37,18 @@ items:
   - title: Chemmie
     album: The Deep Field
     artist: Joan as Police Woman
+    timestamp: '15 Jan 2024, 15:53'
+    link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Chemmie'
+  - title: Chemmie
+    album: The Deep Field
+    artist: Joan as Police Woman
     timestamp: '15 Jan 2024, 15:49'
     link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Chemmie'
+  - title: Damned Devotion
+    album: Damned Devotion
+    artist: Joan as Police Woman
+    timestamp: '15 Jan 2024, 15:49'
+    link: 'https://www.last.fm/music/Joan+as+Police+Woman/_/Damned+Devotion'
   - title: Damned Devotion
     album: Damned Devotion
     artist: Joan as Police Woman
