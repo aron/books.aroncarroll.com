@@ -1,4 +1,15 @@
 items:
+  - title: What Are We Going To Tell Guy?
+    album: What Are We Going To Tell Guy?
+    artist: The American Analog Set
+    timestamp: '20 Jan 2024, 12:06'
+    link: >-
+      https://www.last.fm/music/The+American+Analog+Set/_/What+Are+We+Going+To+Tell+Guy%3F
+  - title: Everybody Here They Come
+    album: Assorted Marvels
+    artist: My Glass World
+    timestamp: '20 Jan 2024, 12:06'
+    link: 'https://www.last.fm/music/My+Glass+World/_/Everybody+Here+They+Come'
   - title: Everybody Here They Come
     album: Assorted Marvels
     artist: My Glass World
@@ -7,8 +18,18 @@ items:
   - title: Brazen Bull
     album: Brazen Bull
     artist: Teeth
+    timestamp: '20 Jan 2024, 12:00'
+    link: 'https://www.last.fm/music/Teeth/_/Brazen+Bull'
+  - title: Brazen Bull
+    album: Brazen Bull
+    artist: Teeth
     timestamp: '20 Jan 2024, 11:56'
     link: 'https://www.last.fm/music/Teeth/_/Brazen+Bull'
+  - title: abandoned houses
+    album: Gate 23
+    artist: Keep It Together
+    timestamp: '20 Jan 2024, 11:56'
+    link: 'https://www.last.fm/music/Keep+It+Together/_/abandoned+houses'
   - title: abandoned houses
     album: Gate 23
     artist: Keep It Together
@@ -19,6 +40,11 @@ items:
     artist: Silly Salamander
     timestamp: '20 Jan 2024, 11:44'
     link: 'https://www.last.fm/music/Silly+Salamander/_/Fool+in+Love'
+  - title: flight fm
+    album: flight fm
+    artist: Joy Orbison
+    timestamp: '20 Jan 2024, 11:44'
+    link: 'https://www.last.fm/music/Joy+Orbison/_/flight+fm'
   - title: flight fm
     album: flight fm
     artist: Joy Orbison
