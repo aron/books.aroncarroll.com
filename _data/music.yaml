@@ -1,4 +1,24 @@
 items:
+  - title: Surprise
+    album: Royal Headache
+    artist: Royal Headache
+    timestamp: '31 Jan 2024, 13:45'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Surprise'
+  - title: Porcupine
+    album: 'Beets, Limes and Rice'
+    artist: Japanther
+    timestamp: '31 Jan 2024, 13:43'
+    link: 'https://www.last.fm/music/Japanther/_/Porcupine'
+  - title: Sovereignty
+    album: Post-Nothing
+    artist: Japandroids
+    timestamp: '31 Jan 2024, 13:39'
+    link: 'https://www.last.fm/music/Japandroids/_/Sovereignty'
+  - title: Abra Cadaver
+    album: Tyrannosaurus Hives
+    artist: The Hives
+    timestamp: '31 Jan 2024, 13:38'
+    link: 'https://www.last.fm/music/The+Hives/_/Abra+Cadaver'
   - title: Get Off
     album: Metz
     artist: METZ
