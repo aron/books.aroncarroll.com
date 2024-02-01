@@ -1,4 +1,19 @@
 items:
+  - title: Modern Dance
+    album: The Modern Dance
+    artist: Pere Ubu
+    timestamp: '01 Feb 2024, 11:05'
+    link: 'https://www.last.fm/music/Pere+Ubu/_/Modern+Dance'
+  - title: Indian Summer
+    album: Jamboree
+    artist: Beat Happening
+    timestamp: '01 Feb 2024, 11:02'
+    link: 'https://www.last.fm/music/Beat+Happening/_/Indian+Summer'
+  - title: Come on Let's Go
+    album: The Noise Made by People
+    artist: Broadcast
+    timestamp: '01 Feb 2024, 10:59'
+    link: 'https://www.last.fm/music/Broadcast/_/Come+on+Let%27s+Go'
   - title: Outdoor Miner
     album: Outdoor Miner
     artist: Wire
