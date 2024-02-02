@@ -1,4 +1,20 @@
 items:
+  - title: Expecting To Fly
+    album: Buffalo Springfield Again
+    artist: Buffalo Springfield
+    timestamp: '02 Feb 2024, 15:55'
+    link: 'https://www.last.fm/music/Buffalo+Springfield/_/Expecting+To+Fly'
+  - title: You And Your Sister - Single Version
+    album: I Am the Cosmos
+    artist: Chris Bell
+    timestamp: '02 Feb 2024, 15:52'
+    link: >-
+      https://www.last.fm/music/Chris+Bell/_/You+And+Your+Sister+-+Single+Version
+  - title: Nightclubbing
+    album: Nightclubbing
+    artist: Grace Jones
+    timestamp: '02 Feb 2024, 15:47'
+    link: 'https://www.last.fm/music/Grace+Jones/_/Nightclubbing'
   - title: Smoke you right out of here
     album: Bobbie's a Girl
     artist: David Kilgour
@@ -35,6 +51,11 @@ items:
     timestamp: '02 Feb 2024, 14:56'
     link: >-
       https://www.last.fm/music/The+Replacements/_/Nightclub+Jitters+-+2008+Remaster
+  - title: Kaputt
+    album: Kaputt
+    artist: Destroyer
+    timestamp: '02 Feb 2024, 14:56'
+    link: 'https://www.last.fm/music/Destroyer/_/Kaputt'
   - title: La La Love You
     album: Doolittle
     artist: Pixies
