@@ -2,8 +2,18 @@ items:
   - title: La La Love You
     album: Doolittle
     artist: Pixies
+    timestamp: '01 Feb 2024, 12:27'
+    link: 'https://www.last.fm/music/Pixies/_/La+La+Love+You'
+  - title: La La Love You
+    album: Doolittle
+    artist: Pixies
     timestamp: '01 Feb 2024, 12:24'
     link: 'https://www.last.fm/music/Pixies/_/La+La+Love+You'
+  - title: White Elephant
+    album: CARNAGE
+    artist: Nick Cave
+    timestamp: '01 Feb 2024, 12:24'
+    link: 'https://www.last.fm/music/Nick+Cave/_/White+Elephant'
   - title: White Elephant
     album: CARNAGE
     artist: Nick Cave
@@ -12,13 +22,28 @@ items:
   - title: Not Even Stevie Nicks...
     album: Feast of Wire
     artist: Calexico
+    timestamp: '01 Feb 2024, 12:02'
+    link: 'https://www.last.fm/music/Calexico/_/Not+Even+Stevie+Nicks...'
+  - title: Not Even Stevie Nicks...
+    album: Feast of Wire
+    artist: Calexico
     timestamp: '01 Feb 2024, 11:59'
     link: 'https://www.last.fm/music/Calexico/_/Not+Even+Stevie+Nicks...'
   - title: Too Many Creeps
     album: 'Rhythm and Paranoia: The Best of Bush Tetras'
     artist: Bush Tetras
+    timestamp: '01 Feb 2024, 11:59'
+    link: 'https://www.last.fm/music/Bush+Tetras/_/Too+Many+Creeps'
+  - title: Too Many Creeps
+    album: 'Rhythm and Paranoia: The Best of Bush Tetras'
+    artist: Bush Tetras
     timestamp: '01 Feb 2024, 11:55'
     link: 'https://www.last.fm/music/Bush+Tetras/_/Too+Many+Creeps'
+  - title: Leave Them All Behind
+    album: Going Blank Again (Remastered)
+    artist: Ride
+    timestamp: '01 Feb 2024, 11:55'
+    link: 'https://www.last.fm/music/Ride/_/Leave+Them+All+Behind'
   - title: Leave Them All Behind
     album: Going Blank Again (Expanded)
     artist: Ride
