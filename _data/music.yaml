@@ -1,4 +1,14 @@
 items:
+  - title: Times
+    album: LOGGERHEAD
+    artist: Wu-Lu
+    timestamp: '05 Feb 2024, 10:56'
+    link: 'https://www.last.fm/music/Wu-Lu/_/Times'
+  - title: Waiting For Another Moon
+    album: Weird Moons
+    artist: Jack Name
+    timestamp: '05 Feb 2024, 10:54'
+    link: 'https://www.last.fm/music/Jack+Name/_/Waiting+For+Another+Moon'
   - title: Ida Mae
     album: Keesh Mountain
     artist: Wombo
