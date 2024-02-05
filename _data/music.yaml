@@ -2,8 +2,18 @@ items:
   - title: Blueprint
     album: Repeater + 3 Songs
     artist: Fugazi
+    timestamp: '02 Feb 2024, 22:11'
+    link: 'https://www.last.fm/music/Fugazi/_/Blueprint'
+  - title: Blueprint
+    album: Repeater + 3 Songs
+    artist: Fugazi
     timestamp: '02 Feb 2024, 22:07'
     link: 'https://www.last.fm/music/Fugazi/_/Blueprint'
+  - title: Merchandise
+    album: Repeater + 3 Songs
+    artist: Fugazi
+    timestamp: '02 Feb 2024, 22:07'
+    link: 'https://www.last.fm/music/Fugazi/_/Merchandise'
   - title: Merchandise
     album: Repeater + 3 Songs
     artist: Fugazi
@@ -12,13 +22,28 @@ items:
   - title: 'Brendan #1'
     album: Repeater + 3 Songs
     artist: Fugazi
+    timestamp: '02 Feb 2024, 22:04'
+    link: 'https://www.last.fm/music/Fugazi/_/Brendan+%231'
+  - title: 'Brendan #1'
+    album: Repeater + 3 Songs
+    artist: Fugazi
     timestamp: '02 Feb 2024, 22:02'
     link: 'https://www.last.fm/music/Fugazi/_/Brendan+%231'
   - title: Repeater
     album: Repeater + 3 Songs
     artist: Fugazi
+    timestamp: '02 Feb 2024, 22:02'
+    link: 'https://www.last.fm/music/Fugazi/_/Repeater'
+  - title: Repeater
+    album: Repeater + 3 Songs
+    artist: Fugazi
     timestamp: '02 Feb 2024, 21:58'
     link: 'https://www.last.fm/music/Fugazi/_/Repeater'
+  - title: Turnover
+    album: Repeater + 3 Songs
+    artist: Fugazi
+    timestamp: '02 Feb 2024, 21:58'
+    link: 'https://www.last.fm/music/Fugazi/_/Turnover'
   - title: Turnover
     album: Repeater + 3 Songs
     artist: Fugazi
