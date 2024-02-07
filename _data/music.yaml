@@ -1,4 +1,19 @@
 items:
+  - title: Crossbow
+    album: All Bets Are Off
+    artist: Tamar Aphek
+    timestamp: '07 Feb 2024, 14:59'
+    link: 'https://www.last.fm/music/Tamar+Aphek/_/Crossbow'
+  - title: If My Mother Thinks I'm Happy
+    album: Pure Particles
+    artist: The Bug Club
+    timestamp: '07 Feb 2024, 14:56'
+    link: 'https://www.last.fm/music/The+Bug+Club/_/If+My+Mother+Thinks+I%27m+Happy'
+  - title: Sea Life Sandwich Boy
+    album: Sea Life Sandwich Boy
+    artist: Horsegirl
+    timestamp: '05 Feb 2024, 11:13'
+    link: 'https://www.last.fm/music/Horsegirl/_/Sea+Life+Sandwich+Boy'
   - title: Sea Life Sandwich Boy
     album: Sea Life Sandwich Boy
     artist: Horsegirl
@@ -7,8 +22,18 @@ items:
   - title: 'It''s Alright, Baby'
     album: What Makes It Go?
     artist: Komeda
+    timestamp: '05 Feb 2024, 11:08'
+    link: 'https://www.last.fm/music/Komeda/_/It%27s+Alright,+Baby'
+  - title: 'It''s Alright, Baby'
+    album: What Makes It Go?
+    artist: Komeda
     timestamp: '05 Feb 2024, 11:06'
     link: 'https://www.last.fm/music/Komeda/_/It%27s+Alright,+Baby'
+  - title: Oh God
+    album: Winterreise
+    artist: Jerskin Fendrix
+    timestamp: '05 Feb 2024, 11:06'
+    link: 'https://www.last.fm/music/Jerskin+Fendrix/_/Oh+God'
   - title: Oh God
     album: Winterreise
     artist: Jerskin Fendrix
@@ -17,8 +42,18 @@ items:
   - title: Times
     album: LOGGERHEAD
     artist: Wu-Lu
+    timestamp: '05 Feb 2024, 11:02'
+    link: 'https://www.last.fm/music/Wu-Lu/_/Times'
+  - title: Times
+    album: LOGGERHEAD
+    artist: Wu-Lu
     timestamp: '05 Feb 2024, 10:56'
     link: 'https://www.last.fm/music/Wu-Lu/_/Times'
+  - title: Waiting For Another Moon
+    album: Weird Moons
+    artist: Jack Name
+    timestamp: '05 Feb 2024, 10:56'
+    link: 'https://www.last.fm/music/Jack+Name/_/Waiting+For+Another+Moon'
   - title: Waiting For Another Moon
     album: Weird Moons
     artist: Jack Name
