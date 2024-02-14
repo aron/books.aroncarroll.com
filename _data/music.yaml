@@ -1,4 +1,19 @@
 items:
+  - title: Chicago New York
+    album: The Last Match
+    artist: The Aislers Set
+    timestamp: '14 Feb 2024, 23:41'
+    link: 'https://www.last.fm/music/The+Aislers+Set/_/Chicago+New+York'
+  - title: Nice
+    album: Nice
+    artist: Habibi
+    timestamp: '14 Feb 2024, 23:39'
+    link: 'https://www.last.fm/music/Habibi/_/Nice'
+  - title: The Spectre
+    album: Cats and Dogs
+    artist: Royal Trux
+    timestamp: '14 Feb 2024, 23:37'
+    link: 'https://www.last.fm/music/Royal+Trux/_/The+Spectre'
   - title: Say It Like You Mean It
     album: Little Rope
     artist: Sleater-Kinney
