@@ -1,6 +1,11 @@
 items:
   - title: Welcome
     album: Tracks And Traces
+    artist: Harmonia
+    timestamp: '15 Feb 2024, 01:04'
+    link: 'https://www.last.fm/music/Harmonia/_/Welcome'
+  - title: Welcome
+    album: Tracks And Traces
     artist: Harmonia & Eno '76
     timestamp: '15 Feb 2024, 01:01'
     link: 'https://www.last.fm/music/Harmonia+&+Eno+%2776/_/Welcome'
