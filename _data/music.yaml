@@ -1,4 +1,24 @@
 items:
+  - title: Simple Pleasures
+    album: Simple Pleasures
+    artist: Bobby McFerrin
+    timestamp: '17 Feb 2024, 18:08'
+    link: 'https://www.last.fm/music/Bobby+McFerrin/_/Simple+Pleasures'
+  - title: Son of a Preacher Man
+    album: Dusty In Memphis
+    artist: Dusty Springfield
+    timestamp: '17 Feb 2024, 18:06'
+    link: 'https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man'
+  - title: Pata Pata - Stereo Version
+    album: Pata Pata
+    artist: Miriam Makeba
+    timestamp: '17 Feb 2024, 18:03'
+    link: 'https://www.last.fm/music/Miriam+Makeba/_/Pata+Pata+-+Stereo+Version'
+  - title: Don't Worry Be Happy
+    album: Simple Pleasures
+    artist: Bobby McFerrin
+    timestamp: '17 Feb 2024, 17:54'
+    link: 'https://www.last.fm/music/Bobby+McFerrin/_/Don%27t+Worry+Be+Happy'
   - title: Fleshless Hand
     album: Suntub
     artist: ML Buch
