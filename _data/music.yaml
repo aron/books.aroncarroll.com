@@ -1,9 +1,29 @@
 items:
+  - title: Marbles
+    album: Afternoon X
+    artist: Vanishing Twin
+    timestamp: '27 Feb 2024, 11:28'
+    link: 'https://www.last.fm/music/Vanishing+Twin/_/Marbles'
   - title: Lotus Eater
     album: Afternoon X
     artist: Vanishing Twin
     timestamp: '27 Feb 2024, 11:23'
     link: 'https://www.last.fm/music/Vanishing+Twin/_/Lotus+Eater'
+  - title: Brain Weather
+    album: Afternoon X
+    artist: Vanishing Twin
+    timestamp: '27 Feb 2024, 11:23'
+    link: 'https://www.last.fm/music/Vanishing+Twin/_/Brain+Weather'
+  - title: Afternoon X
+    album: Afternoon X
+    artist: Vanishing Twin
+    timestamp: '27 Feb 2024, 11:20'
+    link: 'https://www.last.fm/music/Vanishing+Twin/_/Afternoon+X'
+  - title: Melty
+    album: Afternoon X
+    artist: Vanishing Twin
+    timestamp: '27 Feb 2024, 11:16'
+    link: 'https://www.last.fm/music/Vanishing+Twin/_/Melty'
   - title: Line In The Sand
     album: Line In The Sand
     artist: Hot Chip
