@@ -1,4 +1,19 @@
 items:
+  - title: Never Again
+    album: Royal Headache
+    artist: Royal Headache
+    timestamp: '27 Feb 2024, 20:16'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Never+Again'
+  - title: Answer To Yourself
+    album: The Soft Pack
+    artist: The Soft Pack
+    timestamp: '27 Feb 2024, 20:12'
+    link: 'https://www.last.fm/music/The+Soft+Pack/_/Answer+To+Yourself'
+  - title: Venus in Furs
+    album: The Velvet Underground & Nico 45th Anniversary
+    artist: The Velvet Underground
+    timestamp: '27 Feb 2024, 20:05'
+    link: 'https://www.last.fm/music/The+Velvet+Underground/_/Venus+in+Furs'
   - title: Femme Fatale
     album: The Velvet Underground & Nico 45th Anniversary
     artist: The Velvet Underground
@@ -20,6 +35,11 @@ items:
     artist: Joyce Heath
     timestamp: '27 Feb 2024, 19:13'
     link: 'https://www.last.fm/music/Joyce+Heath/_/I+Wouldn%27t+Dream+Of+It'
+  - title: Song About Love
+    album: Song About Love
+    artist: English Teacher
+    timestamp: '27 Feb 2024, 19:10'
+    link: 'https://www.last.fm/music/English+Teacher/_/Song+About+Love'
   - title: Before It All Went Wrong
     album: She Haunts My Dreams
     artist: Spain
