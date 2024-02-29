@@ -1,4 +1,19 @@
 items:
+  - title: Book
+    album: Audio Drag For Ego Slobs
+    artist: Gustaf
+    timestamp: '29 Feb 2024, 11:29'
+    link: 'https://www.last.fm/music/Gustaf/_/Book'
+  - title: Do You
+    album: Ghost Woman
+    artist: Ghostwoman
+    timestamp: '27 Feb 2024, 20:45'
+    link: 'https://www.last.fm/music/Ghostwoman/_/Do+You'
+  - title: Get Off My Reservations
+    album: Can't Get Past the Lips
+    artist: Broncho
+    timestamp: '27 Feb 2024, 20:42'
+    link: 'https://www.last.fm/music/Broncho/_/Get+Off+My+Reservations'
   - title: Get Off My Reservations
     album: Can't Get Past the Lips
     artist: Broncho
@@ -7,8 +22,18 @@ items:
   - title: More Or Less
     album: The Soft Pack
     artist: The Soft Pack
+    timestamp: '27 Feb 2024, 20:41'
+    link: 'https://www.last.fm/music/The+Soft+Pack/_/More+Or+Less'
+  - title: More Or Less
+    album: The Soft Pack
+    artist: The Soft Pack
     timestamp: '27 Feb 2024, 20:37'
     link: 'https://www.last.fm/music/The+Soft+Pack/_/More+Or+Less'
+  - title: Down the Lane
+    album: Royal Headache
+    artist: Royal Headache
+    timestamp: '27 Feb 2024, 20:37'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Down+the+Lane'
   - title: Down the Lane
     album: Royal Headache
     artist: Royal Headache
@@ -17,8 +42,18 @@ items:
   - title: C'mon
     album: The Soft Pack
     artist: The Soft Pack
+    timestamp: '27 Feb 2024, 20:34'
+    link: 'https://www.last.fm/music/The+Soft+Pack/_/C%27mon'
+  - title: C'mon
+    album: The Soft Pack
+    artist: The Soft Pack
     timestamp: '27 Feb 2024, 20:32'
     link: 'https://www.last.fm/music/The+Soft+Pack/_/C%27mon'
+  - title: Surprise
+    album: Royal Headache
+    artist: Royal Headache
+    timestamp: '27 Feb 2024, 20:32'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Surprise'
   - title: Surprise
     album: Royal Headache
     artist: Royal Headache
