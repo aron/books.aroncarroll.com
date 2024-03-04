@@ -1,9 +1,24 @@
 items:
+  - title: Air BnB
+    album: No Home Record
+    artist: Kim Gordon
+    timestamp: '04 Mar 2024, 13:53'
+    link: 'https://www.last.fm/music/Kim+Gordon/_/Air+BnB'
+  - title: The Bully
+    album: Ground Trouble Jaw
+    artist: Richard Swift
+    timestamp: '29 Feb 2024, 14:50'
+    link: 'https://www.last.fm/music/Richard+Swift/_/The+Bully'
   - title: The Bully
     album: Ground Trouble Jaw
     artist: Richard Swift
     timestamp: '29 Feb 2024, 14:48'
     link: 'https://www.last.fm/music/Richard+Swift/_/The+Bully'
+  - title: G.S.K.
+    album: Bright Green Field
+    artist: Squid
+    timestamp: '29 Feb 2024, 14:48'
+    link: 'https://www.last.fm/music/Squid/_/G.S.K.'
   - title: G.S.K.
     album: Bright Green Field
     artist: Squid
@@ -17,8 +32,18 @@ items:
   - title: Dunkirk
     album: Fad
     artist: Silverbacks
+    timestamp: '29 Feb 2024, 14:43'
+    link: 'https://www.last.fm/music/Silverbacks/_/Dunkirk'
+  - title: Dunkirk
+    album: Fad
+    artist: Silverbacks
     timestamp: '29 Feb 2024, 14:40'
     link: 'https://www.last.fm/music/Silverbacks/_/Dunkirk'
+  - title: True Love - Pt. 2
+    album: More Fun in the New World
+    artist: X
+    timestamp: '29 Feb 2024, 14:40'
+    link: 'https://www.last.fm/music/X/_/True+Love+-+Pt.+2'
   - title: True Love - Pt. 2
     album: More Fun in the New World
     artist: X
