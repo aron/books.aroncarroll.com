@@ -1,4 +1,19 @@
 items:
+  - title: Magical Colors
+    album: Acme
+    artist: The Jon Spencer Blues Explosion
+    timestamp: '05 Mar 2024, 11:44'
+    link: 'https://www.last.fm/music/The+Jon+Spencer+Blues+Explosion/_/Magical+Colors'
+  - title: Web in Front
+    album: Icky Mettle (Deluxe Reissue)
+    artist: Archers of Loaf
+    timestamp: '05 Mar 2024, 11:42'
+    link: 'https://www.last.fm/music/Archers+of+Loaf/_/Web+in+Front'
+  - title: The Universe
+    album: Under the Spell of Joy
+    artist: Death Valley Girls
+    timestamp: '05 Mar 2024, 11:38'
+    link: 'https://www.last.fm/music/Death+Valley+Girls/_/The+Universe'
   - title: Pinball
     album: Pinball
     artist: Brian Protheroe
