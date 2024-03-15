@@ -1,4 +1,24 @@
 items:
+  - title: Something About You
+    album: Killing Time
+    artist: Terry Malts
+    timestamp: '15 Mar 2024, 13:57'
+    link: 'https://www.last.fm/music/Terry+Malts/_/Something+About+You'
+  - title: Electric Shock
+    album: High
+    artist: Royal Headache
+    timestamp: '15 Mar 2024, 13:56'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Electric+Shock'
+  - title: Little Star
+    album: High
+    artist: Royal Headache
+    timestamp: '15 Mar 2024, 13:53'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Little+Star'
+  - title: Carolina
+    album: High
+    artist: Royal Headache
+    timestamp: '15 Mar 2024, 13:50'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Carolina'
   - title: Love Her If I Tried
     album: High
     artist: Royal Headache
