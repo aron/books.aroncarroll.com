@@ -1,4 +1,25 @@
 items:
+  - title: Every Moment
+    album: Out of the Shadow
+    artist: Rogue Wave
+    timestamp: '20 Mar 2024, 07:10'
+    link: 'https://www.last.fm/music/Rogue+Wave/_/Every+Moment'
+  - title: Don't Haunt This Place
+    album: Hometowns
+    artist: The Rural Alberta Advantage
+    timestamp: '20 Mar 2024, 07:08'
+    link: >-
+      https://www.last.fm/music/The+Rural+Alberta+Advantage/_/Don%27t+Haunt+This+Place
+  - title: Walking
+    album: Visiter
+    artist: The Dodos
+    timestamp: '20 Mar 2024, 07:06'
+    link: 'https://www.last.fm/music/The+Dodos/_/Walking'
+  - title: Furr
+    album: Furr
+    artist: Blitzen Trapper
+    timestamp: '20 Mar 2024, 07:02'
+    link: 'https://www.last.fm/music/Blitzen+Trapper/_/Furr'
   - title: Fake Palindromes
     album: The Mysterious Production of Eggs
     artist: Andrew Bird
