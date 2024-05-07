@@ -1,4 +1,19 @@
 items:
+  - title: Loved
+    album: Three
+    artist: Four Tet
+    timestamp: '07 May 2024, 09:41'
+    link: 'https://www.last.fm/music/Four+Tet/_/Loved'
+  - title: Low Sun
+    album: Low Sun
+    artist: Hermanos Gutiérrez
+    timestamp: '04 May 2024, 12:44'
+    link: 'https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Low+Sun'
+  - title: Eloise - Live at Empty Bottle
+    album: Eloise / So Low (Live at Empty Bottle)
+    artist: Royal Headache
+    timestamp: '04 May 2024, 12:34'
+    link: 'https://www.last.fm/music/Royal+Headache/_/Eloise+-+Live+at+Empty+Bottle'
   - title: Off The Oil
     album: Infra
     artist: Patrick Holland
