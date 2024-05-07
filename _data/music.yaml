@@ -1,4 +1,24 @@
 items:
+  - title: Fried
+    album: Infra
+    artist: Patrick Holland
+    timestamp: '07 May 2024, 12:01'
+    link: 'https://www.last.fm/music/Patrick+Holland/_/Fried'
+  - title: Belleville
+    album: Atlas
+    artist: Laurel Halo
+    timestamp: '07 May 2024, 11:58'
+    link: 'https://www.last.fm/music/Laurel+Halo/_/Belleville'
+  - title: Elseware
+    album: Again
+    artist: Oneohtrix Point Never
+    timestamp: '07 May 2024, 11:56'
+    link: 'https://www.last.fm/music/Oneohtrix+Point+Never/_/Elseware'
+  - title: Orb Two
+    album: Orbs
+    artist: Anthony Naples
+    timestamp: '07 May 2024, 11:53'
+    link: 'https://www.last.fm/music/Anthony+Naples/_/Orb+Two'
   - title: Twenty Three
     album: Pause
     artist: Four Tet
