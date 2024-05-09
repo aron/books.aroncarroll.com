@@ -1,4 +1,14 @@
 items:
+  - title: Hook
+    album: Rid of Me
+    artist: PJ Harvey
+    timestamp: '09 May 2024, 09:48'
+    link: 'https://www.last.fm/music/PJ+Harvey/_/Hook'
+  - title: Rub 'til It Bleeds
+    album: Rid of Me
+    artist: PJ Harvey
+    timestamp: '09 May 2024, 09:43'
+    link: 'https://www.last.fm/music/PJ+Harvey/_/Rub+%27til+It+Bleeds'
   - title: Legs
     album: Rid of Me
     artist: PJ Harvey
@@ -34,6 +44,11 @@ items:
     artist: mclusky
     timestamp: '08 May 2024, 20:37'
     link: 'https://www.last.fm/music/mclusky/_/To+Hell+With+Good+Intentions'
+  - title: 'Best, Newton, Dylan, Rasputin'
+    album: appendix
+    artist: Iris
+    timestamp: '08 May 2024, 20:37'
+    link: 'https://www.last.fm/music/Iris/_/Best,+Newton,+Dylan,+Rasputin'
   - title: Ron
     album: Tweez
     artist: Slint
