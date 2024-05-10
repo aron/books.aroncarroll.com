@@ -1,4 +1,25 @@
 items:
+  - title: He Needs Me
+    album: Fruit
+    artist: The A's
+    timestamp: '10 May 2024, 10:15'
+    link: 'https://www.last.fm/music/The+A%27s/_/He+Needs+Me'
+  - title: Treat Me Right
+    album: Walkin' My Cat Named Dog
+    artist: Norma Tanega
+    timestamp: '10 May 2024, 10:13'
+    link: 'https://www.last.fm/music/Norma+Tanega/_/Treat+Me+Right'
+  - title: To B Without A Hitch
+    album: Dandelion Albums and BBC Collection
+    artist: Bridget St John
+    timestamp: '10 May 2024, 10:09'
+    link: >-
+      https://www.last.fm/music/+noredirect/Bridget+St+John/_/To+B+Without+A+Hitch
+  - title: Lo Slung
+    album: The Technicolour Liquid Audio Machine
+    artist: Black Market Karma
+    timestamp: '10 May 2024, 10:07'
+    link: 'https://www.last.fm/music/Black+Market+Karma/_/Lo+Slung'
   - title: Eat My Words
     album: Eat My Words
     artist: Divorce
