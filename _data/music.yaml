@@ -1,9 +1,24 @@
 items:
+  - title: Lesson No.1
+    album: The Heat Can Melt Your Brain
+    artist: Viva Voce
+    timestamp: '17 May 2024, 10:22'
+    link: 'https://www.last.fm/music/Viva+Voce/_/Lesson+No.1'
+  - title: Alive With Pleasure
+    album: The Heat Can Melt Your Brain
+    artist: Viva Voce
+    timestamp: '17 May 2024, 10:18'
+    link: 'https://www.last.fm/music/Viva+Voce/_/Alive+With+Pleasure'
   - title: Vampire Empire
     album: Bright Future
     artist: Adrianne Lenker
     timestamp: '16 May 2024, 21:30'
     link: 'https://www.last.fm/music/Adrianne+Lenker/_/Vampire+Empire'
+  - title: Fur
+    album: Sun Arcs
+    artist: Blue Lake
+    timestamp: '16 May 2024, 21:29'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Fur'
   - title: Free Treasure
     album: Bright Future
     artist: Adrianne Lenker
