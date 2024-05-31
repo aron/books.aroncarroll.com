@@ -136,7 +136,7 @@ items:
       - Ursula K. Le Guin
     url: 'https://www.goodreads.com/book/show/25328608'
     goodreads_url: 'https://www.goodreads.com/review/show/5062926569'
-    isbn: ''
+    isbn: '1473208467'
     type: kindle
     state: finished
     pages: '196'
@@ -201,6 +201,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: 'The Tombs of Atuan (Earthsea Cycle, #2)'
+    subtitle: ''
+    authors:
+      - Ursula K. Le Guin
+    url: 'https://www.goodreads.com/book/show/25328608'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062926569'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '196'
+    queued_at: '2022-10-23'
+    finished_at: '2022-10-23'
   - title: The Cutter Incident
     subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
     authors:
