@@ -1,4 +1,14 @@
 items:
+  - title: This Is The Day
+    album: Soul Mining
+    artist: The The
+    timestamp: '31 May 2024, 14:30'
+    link: 'https://www.last.fm/music/The+The/_/This+Is+The+Day'
+  - title: The Spiritually Immature Mansion
+    album: Yeti
+    artist: Caribou
+    timestamp: '28 May 2024, 15:56'
+    link: 'https://www.last.fm/music/Caribou/_/The+Spiritually+Immature+Mansion'
   - title: Two Thousand And Seventeen
     album: New Energy
     artist: Four Tet
