@@ -1,9 +1,19 @@
 items:
+  - title: Skater
+    album: Three
+    artist: Four Tet
+    timestamp: '20 Jun 2024, 19:08'
+    link: 'https://www.last.fm/music/Four+Tet/_/Skater'
   - title: Storm Crystals
     album: Three
     artist: Four Tet
     timestamp: '20 Jun 2024, 19:02'
     link: 'https://www.last.fm/music/Four+Tet/_/Storm+Crystals'
+  - title: Daydream Repeat
+    album: Three
+    artist: Four Tet
+    timestamp: '20 Jun 2024, 19:02'
+    link: 'https://www.last.fm/music/Four+Tet/_/Daydream+Repeat'
   - title: Gliding Through Everything
     album: Three
     artist: Four Tet
