@@ -1,4 +1,16 @@
 items:
+  - title: Chip War
+    subtitle: The Fight for the World's Most Critical Technology
+    authors:
+      - Chris   Miller
+    url: 'https://www.goodreads.com/book/show/63117942'
+    goodreads_url: 'https://www.goodreads.com/review/show/6703906729'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '463'
+    queued_at: '2024-07-26'
+    finished_at: '2024-07-26'
   - title: Accelerate
     subtitle: Building and Scaling High Performing Technology Organizations
     authors:
