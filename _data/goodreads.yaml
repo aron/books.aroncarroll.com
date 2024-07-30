@@ -101,7 +101,7 @@ items:
       - Paul A. Offit
     url: 'https://www.goodreads.com/book/show/19642511'
     goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
-    isbn: ''
+    isbn: '0300130376'
     type: kindle
     state: queued
     pages: '309'
@@ -212,6 +212,17 @@ items:
     type: kindle
     state: queued
     pages: '464'
+    queued_at: '2022-10-23'
+  - title: The Cutter Incident
+    subtitle: How America's First Polio Vaccine Led to the Growing Vaccine Crisis
+    authors:
+      - Paul A. Offit
+    url: 'https://www.goodreads.com/book/show/19642511'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062867250'
+    isbn: ''
+    type: kindle
+    state: queued
+    pages: '309'
     queued_at: '2022-10-23'
   - title: 'The Tombs of Atuan (Earthsea Cycle, #2)'
     subtitle: ''
