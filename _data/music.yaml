@@ -1,4 +1,20 @@
 items:
+  - title: Glory Days
+    album: Greatest Hits
+    artist: Bruce Springsteen
+    timestamp: '16 Aug 2024, 19:05'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Glory+Days'
+  - title: Dancing in the Dark
+    album: Greatest Hits
+    artist: Bruce Springsteen
+    timestamp: '16 Aug 2024, 19:01'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Dancing+in+the+Dark'
+  - title: Autumn Leaves (feat. James Francies)
+    album: Night Reign
+    artist: Arooj Aftab
+    timestamp: '16 Aug 2024, 19:00'
+    link: >-
+      https://www.last.fm/music/Arooj+Aftab/_/Autumn+Leaves+(feat.+James+Francies)
   - title: Na Gul
     album: Night Reign
     artist: Arooj Aftab
