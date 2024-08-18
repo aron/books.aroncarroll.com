@@ -1,4 +1,19 @@
 items:
+  - title: Seven Nation Army
+    album: Seven Nation Army
+    artist: The White Stripes
+    timestamp: '18 Aug 2024, 19:05'
+    link: 'https://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army'
+  - title: Up the Down Escalator
+    album: 'Late Night Tales: The Flaming Lips (Sampler)'
+    artist: The Chameleons
+    timestamp: '18 Aug 2024, 19:01'
+    link: 'https://www.last.fm/music/The+Chameleons/_/Up+the+Down+Escalator'
+  - title: Galileo
+    album: 'Late Night Tales: The Flaming Lips (Sampler)'
+    artist: Mice Parade
+    timestamp: '18 Aug 2024, 18:55'
+    link: 'https://www.last.fm/music/Mice+Parade/_/Galileo'
   - title: Flim
     album: Come to Daddy
     artist: Aphex Twin
@@ -35,6 +50,11 @@ items:
     artist: Björk
     timestamp: '18 Aug 2024, 18:25'
     link: 'https://www.last.fm/music/Bj%C3%B6rk/_/Unravel'
+  - title: Kaini Industries
+    album: Music Has the Right to Children
+    artist: Boards of Canada
+    timestamp: '18 Aug 2024, 18:25'
+    link: 'https://www.last.fm/music/Boards+of+Canada/_/Kaini+Industries'
   - title: Peacock Tail
     album: The Campfire Headphase
     artist: Boards of Canada
