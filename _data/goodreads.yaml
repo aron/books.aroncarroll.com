@@ -89,7 +89,7 @@ items:
       - Diana Wynne Jones
     url: 'https://www.goodreads.com/book/show/17157443'
     goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
-    isbn: 0007369085
+    isbn: ''
     type: kindle
     state: finished
     pages: '404'
@@ -213,6 +213,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
+    subtitle: ''
+    authors:
+      - Diana Wynne Jones
+    url: 'https://www.goodreads.com/book/show/17157443'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062929554'
+    isbn: 0007369085
+    type: kindle
+    state: finished
+    pages: '404'
+    queued_at: '2022-10-23'
+    finished_at: '2022-08-15'
   - title: 'House of Many Ways (Howl''s Moving Castle, #3)'
     subtitle: ''
     authors:
