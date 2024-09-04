@@ -1,4 +1,15 @@
 items:
+  - title: 'Signed, Sealed, Delivered (I''m Yours)'
+    album: Signed Sealed And Delivered
+    artist: Stevie Wonder
+    timestamp: '04 Sep 2024, 07:48'
+    link: >-
+      https://www.last.fm/music/Stevie+Wonder/_/Signed,+Sealed,+Delivered+(I%27m+Yours)
+  - title: The Last Year
+    album: Here In The Pitch
+    artist: Jessica Pratt
+    timestamp: '03 Sep 2024, 16:59'
+    link: 'https://www.last.fm/music/Jessica+Pratt/_/The+Last+Year'
   - title: zero sum
     album: Foreign Spies / Zero Sum
     artist: The Smile
@@ -26,6 +37,11 @@ items:
     artist: Nick Cave & the Bad Seeds
     timestamp: '03 Sep 2024, 16:44'
     link: 'https://www.last.fm/music/Nick+Cave+&+the+Bad+Seeds/_/Long+Dark+Night'
+  - title: Cinnamon Horses
+    album: Wild God
+    artist: Nick Cave & the Bad Seeds
+    timestamp: '03 Sep 2024, 16:44'
+    link: 'https://www.last.fm/music/Nick+Cave+&+the+Bad+Seeds/_/Cinnamon+Horses'
   - title: Conversion
     album: Wild God
     artist: Nick Cave & the Bad Seeds
