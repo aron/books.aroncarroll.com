@@ -77,10 +77,10 @@ items:
       - George Lakoff
     url: 'https://www.goodreads.com/book/show/23392815'
     goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
-    isbn: ''
+    isbn: '1603585958'
     type: kindle
     state: finished
-    pages: '195'
+    pages: '189'
     queued_at: '2022-10-23'
     finished_at: '2022-08-21'
   - title: 'Castle in the Air (Howl''s Moving Castle, #2)'
@@ -213,6 +213,18 @@ items:
     state: queued
     pages: '464'
     queued_at: '2022-10-23'
+  - title: The All New Don't Think of an Elephant!
+    subtitle: Know Your Values and Frame the Debate
+    authors:
+      - George Lakoff
+    url: 'https://www.goodreads.com/book/show/23392815'
+    goodreads_url: 'https://www.goodreads.com/review/show/5062925429'
+    isbn: ''
+    type: kindle
+    state: finished
+    pages: '195'
+    queued_at: '2022-10-23'
+    finished_at: '2022-08-21'
   - title: Team Topologies
     subtitle: Organizing Business and Technology Teams for Fast Flow
     authors:
