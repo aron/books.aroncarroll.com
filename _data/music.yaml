@@ -1,4 +1,14 @@
 items:
+  - title: Square Wave
+    album: Like All Before You
+    artist: The Voidz
+    timestamp: '23 Oct 2024, 16:56'
+    link: 'https://www.last.fm/music/The+Voidz/_/Square+Wave'
+  - title: Boiler Room
+    album: Think Differently
+    artist: Callahan & Witscher
+    timestamp: '22 Oct 2024, 08:53'
+    link: 'https://www.last.fm/music/Callahan+&+Witscher/_/Boiler+Room'
   - title: Boiler Room
     album: Think Differently
     artist: Callahan & Witscher
@@ -7,8 +17,18 @@ items:
   - title: Mood To Make Love
     album: 'Lover, Other'
     artist: Rosie Lowe
+    timestamp: '22 Oct 2024, 08:48'
+    link: 'https://www.last.fm/music/Rosie+Lowe/_/Mood+To+Make+Love'
+  - title: Mood To Make Love
+    album: 'Lover, Other'
+    artist: Rosie Lowe
     timestamp: '22 Oct 2024, 08:44'
     link: 'https://www.last.fm/music/Rosie+Lowe/_/Mood+To+Make+Love'
+  - title: I Would Die 4 U
+    album: I Would Die 4 U
+    artist: Lauren Auder
+    timestamp: '22 Oct 2024, 08:44'
+    link: 'https://www.last.fm/music/Lauren+Auder/_/I+Would+Die+4+U'
   - title: I Would Die 4 U
     album: I Would Die 4 U
     artist: Lauren Auder
@@ -17,8 +37,19 @@ items:
   - title: Once A Bunch
     album: Once A Bunch
     artist: Adrianne Lenker
+    timestamp: '22 Oct 2024, 08:41'
+    link: 'https://www.last.fm/music/Adrianne+Lenker/_/Once+A+Bunch'
+  - title: Once A Bunch
+    album: Once A Bunch
+    artist: Adrianne Lenker
     timestamp: '22 Oct 2024, 08:36'
     link: 'https://www.last.fm/music/Adrianne+Lenker/_/Once+A+Bunch'
+  - title: Feelin' Fuzzy (毛绒绒的感觉)
+    album: Feelin' Fuzzy (毛绒绒的感觉)
+    artist: Chinese American Bear
+    timestamp: '22 Oct 2024, 08:36'
+    link: >-
+      https://www.last.fm/music/Chinese+American+Bear/_/Feelin%27+Fuzzy+(%E6%AF%9B%E7%BB%92%E7%BB%92%E7%9A%84%E6%84%9F%E8%A7%89)
   - title: Feelin' Fuzzy (毛绒绒的感觉)
     album: Feelin' Fuzzy (毛绒绒的感觉)
     artist: Chinese American Bear
