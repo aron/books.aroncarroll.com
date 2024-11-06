@@ -1,4 +1,14 @@
 items:
+  - title: Monster Mash
+    album: The Original Monster Mash
+    artist: Bobby "Boris" Pickett
+    timestamp: '06 Nov 2024, 16:16'
+    link: 'https://www.last.fm/music/Bobby+%22Boris%22+Pickett/_/Monster+Mash'
+  - title: As You Sleep By My Feet
+    album: As You Sleep By My Feet
+    artist: Jonnine
+    timestamp: '06 Nov 2024, 16:13'
+    link: 'https://www.last.fm/music/Jonnine/_/As+You+Sleep+By+My+Feet'
   - title: Lamb Man
     album: Won't Let Go
     artist: Nick Weaver
@@ -24,6 +34,12 @@ items:
     album: This Island
     artist: Le Tigre
     timestamp: '04 Nov 2024, 18:08'
+    link: >-
+      https://www.last.fm/music/Le+Tigre/_/Nanny+Nanny+Boo+Boo+-+Arthur+Baker+vs+Coleman+&+spencer+Smashter+Mix
+  - title: Nanny Nanny Boo Boo - Arthur Baker vs Coleman & spencer Smashter Mix
+    album: This Island
+    artist: Le Tigre
+    timestamp: '04 Nov 2024, 09:14'
     link: >-
       https://www.last.fm/music/Le+Tigre/_/Nanny+Nanny+Boo+Boo+-+Arthur+Baker+vs+Coleman+&+spencer+Smashter+Mix
   - title: Punker Plus
