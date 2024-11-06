@@ -1,9 +1,19 @@
 items:
+  - title: Apparition
+    album: Apparition
+    artist: CMJ
+    timestamp: '06 Nov 2024, 16:37'
+    link: 'https://www.last.fm/music/CMJ/_/Apparition'
   - title: Halloween
     album: Collection 2
     artist: Misfits
     timestamp: '06 Nov 2024, 16:35'
     link: 'https://www.last.fm/music/Misfits/_/Halloween'
+  - title: Seconds
+    album: This Island
+    artist: Le Tigre
+    timestamp: '06 Nov 2024, 16:35'
+    link: 'https://www.last.fm/music/Le+Tigre/_/Seconds'
   - title: Halloweentown Theme
     album: This Is Halloween!
     artist: Retrospectre
