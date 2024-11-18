@@ -1,4 +1,20 @@
 items:
+  - title: Rudolph The Red-Nosed Reindeer
+    album: Bing Crosby - Christmas Classics
+    artist: Bing Crosby
+    timestamp: '18 Nov 2024, 19:54'
+    link: 'https://www.last.fm/music/Bing+Crosby/_/Rudolph+The+Red-Nosed+Reindeer'
+  - title: Jingle Bells
+    album: The Dean Martin Christmas Album
+    artist: Dean Martin
+    timestamp: '18 Nov 2024, 19:52'
+    link: 'https://www.last.fm/music/Dean+Martin/_/Jingle+Bells'
+  - title: Winter Wonderland - Spotify Singles Holiday
+    album: Spotify Singles Holiday
+    artist: Laufey
+    timestamp: '18 Nov 2024, 16:18'
+    link: >-
+      https://www.last.fm/music/Laufey/_/Winter+Wonderland+-+Spotify+Singles+Holiday
   - title: Last Christmas
     album: Last Christmas
     artist: Wham!
@@ -14,6 +30,11 @@ items:
     artist: Brenda Lee
     timestamp: '18 Nov 2024, 16:09'
     link: 'https://www.last.fm/music/Brenda+Lee/_/Rockin%27+Around+the+Christmas+Tree'
+  - title: October Language
+    album: October Language
+    artist: Belong
+    timestamp: '18 Nov 2024, 16:09'
+    link: 'https://www.last.fm/music/Belong/_/October+Language'
   - title: part v - evocation
     album: Ritual
     artist: Jon Hopkins
