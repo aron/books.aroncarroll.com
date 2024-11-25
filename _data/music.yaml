@@ -1,4 +1,19 @@
 items:
+  - title: Albatross
+    album: English Rose
+    artist: Fleetwood Mac
+    timestamp: '25 Nov 2024, 21:35'
+    link: 'https://www.last.fm/music/Fleetwood+Mac/_/Albatross'
+  - title: Son of a Preacher Man
+    album: Dusty In Memphis
+    artist: Dusty Springfield
+    timestamp: '25 Nov 2024, 21:32'
+    link: 'https://www.last.fm/music/Dusty+Springfield/_/Son+of+a+Preacher+Man'
+  - title: I'm on Fire
+    album: Born in the U.S.A.
+    artist: Bruce Springsteen
+    timestamp: '25 Nov 2024, 21:30'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire'
   - title: Just Like Heaven
     album: 'Kiss Me, Kiss Me, Kiss Me'
     artist: The Cure
