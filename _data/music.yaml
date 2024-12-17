@@ -1,4 +1,15 @@
 items:
+  - title: It's the Most Wonderful Time of the Year
+    album: The Andy Williams Christmas Album
+    artist: Andy Williams
+    timestamp: '17 Dec 2024, 11:14'
+    link: >-
+      https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year
+  - title: All I Want for Christmas Is You
+    album: Merry Christmas
+    artist: Mariah Carey
+    timestamp: '17 Dec 2024, 11:10'
+    link: 'https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You'
   - title: Jingle Bell Rock
     album: Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)
     artist: Bobby Helms
