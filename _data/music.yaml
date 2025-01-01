@@ -1,4 +1,19 @@
 items:
+  - title: pose
+    album: semiwestern
+    artist: semiwestern
+    timestamp: '01 Jan 2025, 16:30'
+    link: 'https://www.last.fm/music/semiwestern/_/pose'
+  - title: Happy
+    album: Bedroom
+    artist: BDRMM
+    timestamp: '01 Jan 2025, 16:26'
+    link: 'https://www.last.fm/music/BDRMM/_/Happy'
+  - title: Ave En Reversa
+    album: Datura
+    artist: Lorelle Meets The Obsolete
+    timestamp: '01 Jan 2025, 16:22'
+    link: 'https://www.last.fm/music/Lorelle+Meets+The+Obsolete/_/Ave+En+Reversa'
   - title: Way Past Three
     album: Way Past Three
     artist: Nightbus
