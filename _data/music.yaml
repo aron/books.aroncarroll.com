@@ -1,4 +1,25 @@
 items:
+  - title: Chewing Gum
+    album: Chewing Gum
+    artist: Amyl and the Sniffers
+    timestamp: '11 Jan 2025, 23:00'
+    link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Chewing+Gum'
+  - title: Some Mutts (Can't Be Muzzled)
+    album: Some Mutts (Can't Be Muzzled)
+    artist: Amyl and the Sniffers
+    timestamp: '11 Jan 2025, 22:57'
+    link: >-
+      https://www.last.fm/music/Amyl+and+the+Sniffers/_/Some+Mutts+(Can%27t+Be+Muzzled)
+  - title: Tiny Bikini
+    album: Cartoon Darkness
+    artist: Amyl and the Sniffers
+    timestamp: '11 Jan 2025, 22:54'
+    link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Tiny+Bikini'
+  - title: Tiny Bikini
+    album: Cartoon Darkness
+    artist: Amyl and the Sniffers
+    timestamp: '11 Jan 2025, 22:53'
+    link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Tiny+Bikini'
   - title: Ain't Got No / I Got Life
     album: 'Feeling Good: Her Greatest Hits And Remixes'
     artist: Nina Simone
@@ -19,6 +40,11 @@ items:
     artist: Lady Gaga
     timestamp: '11 Jan 2025, 21:15'
     link: 'https://www.last.fm/music/Lady+Gaga/_/Bad+Romance'
+  - title: Hooray
+    album: Kleine Fische
+    artist: Odenwälder Shanty Chor
+    timestamp: '11 Jan 2025, 21:13'
+    link: 'https://www.last.fm/music/Odenw%C3%A4lder+Shanty+Chor/_/Hooray'
   - title: Dreams
     album: 'Everybody Else Is Doing It, So Why Can''t We?'
     artist: The Cranberries
