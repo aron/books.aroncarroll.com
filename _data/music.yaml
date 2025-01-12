@@ -1,4 +1,19 @@
 items:
+  - title: Ex-Con
+    album: Red Apple Falls
+    artist: Smog
+    timestamp: '12 Jan 2025, 19:02'
+    link: 'https://www.last.fm/music/Smog/_/Ex-Con'
+  - title: Cut Open
+    album: Cut Open
+    artist: Pit Pony
+    timestamp: '12 Jan 2025, 18:58'
+    link: 'https://www.last.fm/music/Pit+Pony/_/Cut+Open'
+  - title: Nom Nom Nom
+    album: Nom Nom Nom / Cat Burglar
+    artist: Hot Chip
+    timestamp: '12 Jan 2025, 18:55'
+    link: 'https://www.last.fm/music/Hot+Chip/_/Nom+Nom+Nom'
   - title: Castrato Raw (Fullback)
     album: Castrato Raw (Fullback)
     artist: YHWH Nailgun
