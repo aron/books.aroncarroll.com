@@ -1,4 +1,19 @@
 items:
+  - title: Ex-Con
+    album: Red Apple Falls
+    artist: Smog
+    timestamp: '12 Jan 2025, 17:17'
+    link: 'https://www.last.fm/music/Smog/_/Ex-Con'
+  - title: Tiny Bikini
+    album: Cartoon Darkness
+    artist: Amyl and the Sniffers
+    timestamp: '12 Jan 2025, 17:15'
+    link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Tiny+Bikini'
+  - title: Big Dreams
+    album: Big Dreams
+    artist: Amyl and the Sniffers
+    timestamp: '11 Jan 2025, 23:03'
+    link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Big+Dreams'
   - title: Chewing Gum
     album: Chewing Gum
     artist: Amyl and the Sniffers
@@ -20,6 +35,11 @@ items:
     artist: Amyl and the Sniffers
     timestamp: '11 Jan 2025, 22:53'
     link: 'https://www.last.fm/music/Amyl+and+the+Sniffers/_/Tiny+Bikini'
+  - title: Poker Face
+    album: The Fame
+    artist: Lady Gaga
+    timestamp: '11 Jan 2025, 22:53'
+    link: 'https://www.last.fm/music/Lady+Gaga/_/Poker+Face'
   - title: Ain't Got No / I Got Life
     album: 'Feeling Good: Her Greatest Hits And Remixes'
     artist: Nina Simone
