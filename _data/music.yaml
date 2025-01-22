@@ -1,4 +1,24 @@
 items:
+  - title: Sandman's Song - Remastered
+    album: The Time Has Come
+    artist: Anne Briggs
+    timestamp: '22 Jan 2025, 18:29'
+    link: 'https://www.last.fm/music/Anne+Briggs/_/Sandman%27s+Song+-+Remastered'
+  - title: The Black Swan
+    album: The Black Swan
+    artist: Bert Jansch
+    timestamp: '22 Jan 2025, 18:25'
+    link: 'https://www.last.fm/music/Bert+Jansch/_/The+Black+Swan'
+  - title: How Sweet It Is
+    album: In My Own Time (50th Anniversary Edition)
+    artist: Karen Dalton
+    timestamp: '22 Jan 2025, 18:21'
+    link: 'https://www.last.fm/music/Karen+Dalton/_/How+Sweet+It+Is'
+  - title: Katie Cruel
+    album: In My Own Time (50th Anniversary Edition)
+    artist: Karen Dalton
+    timestamp: '22 Jan 2025, 18:19'
+    link: 'https://www.last.fm/music/Karen+Dalton/_/Katie+Cruel'
   - title: In My Own Dream
     album: In My Own Time (50th Anniversary Edition)
     artist: Karen Dalton
@@ -30,6 +50,11 @@ items:
     artist: Scott Walker
     timestamp: '22 Jan 2025, 18:00'
     link: 'https://www.last.fm/music/Scott+Walker/_/Copenhagen'
+  - title: California
+    album: Blue
+    artist: Joni Mitchell
+    timestamp: '22 Jan 2025, 18:00'
+    link: 'https://www.last.fm/music/Joni+Mitchell/_/California'
   - title: The World's Strongest Man
     album: Scott 4
     artist: Scott Walker
