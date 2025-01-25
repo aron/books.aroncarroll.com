@@ -1,4 +1,14 @@
 items:
+  - title: Point Blank
+    album: The River
+    artist: Bruce Springsteen
+    timestamp: '25 Jan 2025, 22:05'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Point+Blank'
+  - title: The River
+    album: The River
+    artist: Bruce Springsteen
+    timestamp: '25 Jan 2025, 22:00'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/The+River'
   - title: I Wanna Marry You
     album: The River
     artist: Bruce Springsteen
@@ -20,6 +30,11 @@ items:
     artist: Bruce Springsteen
     timestamp: '25 Jan 2025, 21:46'
     link: 'https://www.last.fm/music/Bruce+Springsteen/_/Out+in+the+Street'
+  - title: Holy Smoke
+    album: Heartleap
+    artist: Vashti Bunyan
+    timestamp: '25 Jan 2025, 21:44'
+    link: 'https://www.last.fm/music/Vashti+Bunyan/_/Holy+Smoke'
   - title: Hungry Heart
     album: The River
     artist: Bruce Springsteen
