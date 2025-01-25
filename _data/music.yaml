@@ -1,4 +1,20 @@
 items:
+  - title: The Ties That Bind
+    album: The River
+    artist: Bruce Springsteen
+    timestamp: '25 Jan 2025, 21:24'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/The+Ties+That+Bind'
+  - title: Girl From The North Country
+    album: A Complete Unknown (Original Motion Picture Soundtrack)
+    artist: Timothée Chalamet
+    timestamp: '25 Jan 2025, 21:24'
+    link: >-
+      https://www.last.fm/music/Timoth%C3%A9e+Chalamet/_/Girl+From+The+North+Country
+  - title: Holy Smoke
+    album: Heartleap
+    artist: Vashti Bunyan
+    timestamp: '24 Jan 2025, 17:36'
+    link: 'https://www.last.fm/music/Vashti+Bunyan/_/Holy+Smoke'
   - title: I Don't Know
     album: Copernicus - The Good Book of No
     artist: Alabaster Deplume
