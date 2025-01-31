@@ -29,11 +29,21 @@ items:
     artist: FKA twigs
     timestamp: '28 Jan 2025, 08:59'
     link: 'https://www.last.fm/music/FKA+twigs/_/WANDERLUST'
+  - title: Wanderlust
+    album: EUSEXUA
+    artist: FKA twigs
+    timestamp: '28 Jan 2025, 08:59'
+    link: 'https://www.last.fm/music/FKA+twigs/_/Wanderlust'
   - title: 24hr dog
     album: Eusexua
     artist: FKA twigs
     timestamp: '28 Jan 2025, 08:54'
     link: 'https://www.last.fm/music/FKA+twigs/_/24hr+dog'
+  - title: 24hr Dog
+    album: EUSEXUA
+    artist: FKA twigs
+    timestamp: '28 Jan 2025, 08:54'
+    link: 'https://www.last.fm/music/FKA+twigs/_/24hr+Dog'
   - title: Rambling's Gonna Be the Death of Me (2015 Remaster)
     album: Bert Jansch
     artist: Bert Jansch
