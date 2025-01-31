@@ -1,4 +1,20 @@
 items:
+  - title: 'Hey, That''s No Way to Say Goodbye'
+    album: Songs of Leonard Cohen
+    artist: Leonard Cohen
+    timestamp: '31 Jan 2025, 17:51'
+    link: >-
+      https://www.last.fm/music/Leonard+Cohen/_/Hey,+That%27s+No+Way+to+Say+Goodbye
+  - title: Lullaby
+    album: Attempted Mustache
+    artist: Loudon Wainwright III
+    timestamp: '31 Jan 2025, 17:48'
+    link: 'https://www.last.fm/music/Loudon+Wainwright+III/_/Lullaby'
+  - title: Indian Summer
+    album: Morrison Hotel
+    artist: The Doors
+    timestamp: '31 Jan 2025, 17:45'
+    link: 'https://www.last.fm/music/The+Doors/_/Indian+Summer'
   - title: It Ain't Me Babe
     album: Another Side of Bob Dylan
     artist: Bob Dylan
