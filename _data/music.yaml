@@ -1,4 +1,20 @@
 items:
+  - title: The Boy With a Smile
+    album: Picture of Bunny Rabbit
+    artist: Arthur Russell
+    timestamp: '02 Feb 2025, 04:32'
+    link: 'https://www.last.fm/music/Arthur+Russell/_/The+Boy+With+a+Smile'
+  - title: A Street That Rhymes at 6am
+    album: Walkin' My Cat Named Dog
+    artist: Norma Tanega
+    timestamp: '02 Feb 2025, 04:30'
+    link: 'https://www.last.fm/music/Norma+Tanega/_/A+Street+That+Rhymes+at+6am'
+  - title: I Was Dancing In The Lesbian Bar
+    album: 'I, Jonathan'
+    artist: Jonathan Richman
+    timestamp: '02 Feb 2025, 04:26'
+    link: >-
+      https://www.last.fm/music/Jonathan+Richman/_/I+Was+Dancing+In+The+Lesbian+Bar
   - title: Little Wheel Spin and Spin
     album: Little Wheel Spin And Spin
     artist: Buffy Sainte-Marie
