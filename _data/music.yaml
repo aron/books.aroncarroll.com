@@ -1,4 +1,9 @@
 items:
+  - title: afterlife
+    album: Sharon Van Etten & The Attachment Theory
+    artist: Sharon Van Etten
+    timestamp: '14 Feb 2025, 19:30'
+    link: 'https://www.last.fm/music/Sharon+Van+Etten/_/afterlife'
   - title: Method Actor
     album: My Method Actor
     artist: Nilüfer Yanya
@@ -39,6 +44,11 @@ items:
     artist: Mitski
     timestamp: '14 Feb 2025, 19:01'
     link: 'https://www.last.fm/music/Mitski/_/Buffalo+Replaced'
+  - title: Kaaterskill Trailhead
+    album: Modern Meta Physic (Deluxe Edition)
+    artist: Peel Dream Magazine
+    timestamp: '14 Feb 2025, 19:00'
+    link: 'https://www.last.fm/music/Peel+Dream+Magazine/_/Kaaterskill+Trailhead'
   - title: Fracture
     album: Fracture
     artist: Stephan Moccio
