@@ -1,4 +1,19 @@
 items:
+  - title: Angoisse
+    album: C'est Déjà L'heure
+    artist: Alvilda
+    timestamp: '06 Mar 2025, 09:03'
+    link: 'https://www.last.fm/music/Alvilda/_/Angoisse'
+  - title: Need
+    album: Um
+    artist: Martha Skye Murphy
+    timestamp: '06 Mar 2025, 08:59'
+    link: 'https://www.last.fm/music/Martha+Skye+Murphy/_/Need'
+  - title: Zombie
+    album: goat
+    artist: Goat
+    timestamp: '06 Mar 2025, 08:59'
+    link: 'https://www.last.fm/music/Goat/_/Zombie'
   - title: Sandrail Silhouette
     album: '& the Charm'
     artist: Avalon Emerson
@@ -19,6 +34,21 @@ items:
     artist: Sam Blasucci
     timestamp: '04 Mar 2025, 23:17'
     link: 'https://www.last.fm/music/Sam+Blasucci/_/Witching+Hour'
+  - title: Death Of Samantha
+    album: Approximately Infinite Universe
+    artist: Yoko Ono
+    timestamp: '04 Mar 2025, 23:17'
+    link: 'https://www.last.fm/music/Yoko+Ono/_/Death+Of+Samantha'
+  - title: Paper Fog
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '04 Mar 2025, 23:11'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Paper+Fog'
+  - title: In Parallel
+    album: Brûlée
+    artist: Cabane
+    timestamp: '04 Mar 2025, 23:07'
+    link: 'https://www.last.fm/music/Cabane/_/In+Parallel'
   - title: Pale Blue Dot
     album: Pale Blue Dot
     artist: Moreish Idols
