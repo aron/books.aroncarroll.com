@@ -1,4 +1,14 @@
 items:
+  - title: Something in the Night
+    album: Something in the Night
+    artist: Soltero
+    timestamp: '07 Mar 2025, 08:32'
+    link: 'https://www.last.fm/music/Soltero/_/Something+in+the+Night'
+  - title: Zombie
+    album: goat
+    artist: Goat
+    timestamp: '07 Mar 2025, 08:26'
+    link: 'https://www.last.fm/music/Goat/_/Zombie'
   - title: Angoisse
     album: C'est Déjà L'heure
     artist: Alvilda
