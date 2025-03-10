@@ -1,4 +1,19 @@
 items:
+  - title: Willow
+    album: Willow
+    artist: Brown Horse
+    timestamp: '10 Mar 2025, 22:32'
+    link: 'https://www.last.fm/music/Brown+Horse/_/Willow'
+  - title: I Hear A New World
+    album: 'I Hear a New World: An Outer Space Music Fantasy'
+    artist: Joe Meek & The Blue Men
+    timestamp: '10 Mar 2025, 22:30'
+    link: 'https://www.last.fm/music/Joe+Meek+&+The+Blue+Men/_/I+Hear+A+New+World'
+  - title: Modern Hart
+    album: Billy Nomates
+    artist: Billy Nomates
+    timestamp: '10 Mar 2025, 22:27'
+    link: 'https://www.last.fm/music/Billy+Nomates/_/Modern+Hart'
   - title: Funny
     album: Funny
     artist: Broncho
