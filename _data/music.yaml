@@ -1,4 +1,20 @@
 items:
+  - title: Funny
+    album: Funny
+    artist: Broncho
+    timestamp: '10 Mar 2025, 22:23'
+    link: 'https://www.last.fm/music/Broncho/_/Funny'
+  - title: Tomorrow Never Knows - 2024 Remastered Version
+    album: Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version)
+    artist: Junior Parker
+    timestamp: '10 Mar 2025, 22:20'
+    link: >-
+      https://www.last.fm/music/Junior+Parker/_/Tomorrow+Never+Knows+-+2024+Remastered+Version
+  - title: Slingshot/Hypersleep
+    album: Slingshot/Hypersleep
+    artist: Henge
+    timestamp: '10 Mar 2025, 22:14'
+    link: 'https://www.last.fm/music/Henge/_/Slingshot%2FHypersleep'
   - title: Desire
     album: Room Inside the World
     artist: Ought
