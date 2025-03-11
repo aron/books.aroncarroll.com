@@ -1,4 +1,14 @@
 items:
+  - title: Salome
+    album: Salome
+    artist: The Ophelias
+    timestamp: '11 Mar 2025, 14:53'
+    link: 'https://www.last.fm/music/The+Ophelias/_/Salome'
+  - title: Gravelweed
+    album: Foxes in the Snow
+    artist: Jason Isbell
+    timestamp: '11 Mar 2025, 14:50'
+    link: 'https://www.last.fm/music/Jason+Isbell/_/Gravelweed'
   - title: Saratoga
     album: Strapped
     artist: The Soft Pack
