@@ -1,4 +1,14 @@
 items:
+  - title: Ghost
+    album: In the Aeroplane Over the Sea
+    artist: Neutral Milk Hotel
+    timestamp: '30 Mar 2025, 09:26'
+    link: 'https://www.last.fm/music/Neutral+Milk+Hotel/_/Ghost'
+  - title: Awful
+    album: Celebrity Skin
+    artist: Hole
+    timestamp: '30 Mar 2025, 09:23'
+    link: 'https://www.last.fm/music/Hole/_/Awful'
   - title: In the Garage
     album: Weezer
     artist: Weezer
