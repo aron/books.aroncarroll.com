@@ -1,4 +1,19 @@
 items:
+  - title: Elena
+    album: Son
+    artist: Juana Molina
+    timestamp: '02 Apr 2025, 18:51'
+    link: 'https://www.last.fm/music/Juana+Molina/_/Elena'
+  - title: Desordenado
+    album: Son
+    artist: Juana Molina
+    timestamp: '02 Apr 2025, 18:49'
+    link: 'https://www.last.fm/music/Juana+Molina/_/Desordenado'
+  - title: Malherido
+    album: Son
+    artist: Juana Molina
+    timestamp: '02 Apr 2025, 18:44'
+    link: 'https://www.last.fm/music/Juana+Molina/_/Malherido'
   - title: Las culpas
     album: Son
     artist: Juana Molina
