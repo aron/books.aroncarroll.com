@@ -1,4 +1,14 @@
 items:
+  - title: Zombie
+    album: Anthology 2
+    artist: Fela Kuti
+    timestamp: '17 Apr 2025, 18:12'
+    link: 'https://www.last.fm/music/Fela+Kuti/_/Zombie'
+  - title: Pressure
+    album: Watersports
+    artist: Mi Ami
+    timestamp: '17 Apr 2025, 07:13'
+    link: 'https://www.last.fm/music/Mi+Ami/_/Pressure'
   - title: New Guitar
     album: Watersports
     artist: Mi Ami
