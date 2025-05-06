@@ -1,4 +1,9 @@
 items:
+  - title: The Concept
+    album: Bandwagonesque
+    artist: Teenage Fanclub
+    timestamp: '06 May 2025, 12:31'
+    link: 'https://www.last.fm/music/Teenage+Fanclub/_/The+Concept'
   - title: Ya Malaky
     album: Lw Kan
     artist: El Shab Arab
@@ -9,6 +14,11 @@ items:
     artist: El Shab Arab
     timestamp: '03 May 2025, 11:17'
     link: 'https://www.last.fm/music/El+Shab+Arab/_/Dommeeny'
+  - title: The Daughters of Quiet Minds
+    album: and Their Refinement of the Decline
+    artist: Stars of the Lid
+    timestamp: '03 May 2025, 11:15'
+    link: 'https://www.last.fm/music/Stars+of+the+Lid/_/The+Daughters+of+Quiet+Minds'
   - title: Wain Meaady
     album: Lw Kan
     artist: El Shab Arab
@@ -19,6 +29,11 @@ items:
     artist: El Shab Arab
     timestamp: '03 May 2025, 11:10'
     link: 'https://www.last.fm/music/El+Shab+Arab/_/Lw+Kan'
+  - title: A Little Bit Of Luck
+    album: A Little Bit Of Luck (Original Mix)
+    artist: DJ Luck & MC Neat
+    timestamp: '03 May 2025, 11:10'
+    link: 'https://www.last.fm/music/DJ+Luck+&+MC+Neat/_/A+Little+Bit+Of+Luck'
   - title: Another Ballad for Heavy Lids
     album: and Their Refinement of the Decline
     artist: Stars of the Lid
