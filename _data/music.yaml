@@ -1,4 +1,9 @@
 items:
+  - title: Ice Shelf
+    album: Tall Tales
+    artist: Mark Pritchard
+    timestamp: '10 May 2025, 13:25'
+    link: 'https://www.last.fm/music/Mark+Pritchard/_/Ice+Shelf'
   - title: cops and coppers
     album: the world is still here and so are we
     artist: Mclusky
@@ -9,6 +14,11 @@ items:
     artist: Joe Goddard
     timestamp: '10 May 2025, 10:19'
     link: 'https://www.last.fm/music/Joe+Goddard/_/Image+And+Style'
+  - title: A Saucerful of Secrets
+    album: A Saucerful of Secrets
+    artist: Pink Floyd
+    timestamp: '10 May 2025, 10:19'
+    link: 'https://www.last.fm/music/Pink+Floyd/_/A+Saucerful+of+Secrets'
   - title: Corporal Clegg
     album: A Saucerful of Secrets
     artist: Pink Floyd
