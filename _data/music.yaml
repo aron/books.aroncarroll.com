@@ -1,4 +1,14 @@
 items:
+  - title: My Poor Brain
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '25 May 2025, 19:25'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/My+Poor+Brain'
+  - title: 'Hey, Johnny Park!'
+    album: The Colour and the Shape
+    artist: Foo Fighters
+    timestamp: '25 May 2025, 19:21'
+    link: 'https://www.last.fm/music/Foo+Fighters/_/Hey,+Johnny+Park!'
   - title: Monkey Wrench
     album: The Colour and the Shape
     artist: Foo Fighters
