@@ -1,4 +1,24 @@
 items:
+  - title: The Rat
+    album: Bows + Arrows
+    artist: The Walkmen
+    timestamp: '02 Jun 2025, 10:17'
+    link: 'https://www.last.fm/music/The+Walkmen/_/The+Rat'
+  - title: Ghostride
+    album: Jinx
+    artist: Crumb
+    timestamp: '02 Jun 2025, 10:15'
+    link: 'https://www.last.fm/music/Crumb/_/Ghostride'
+  - title: San Francisco
+    album: We Are the 21st Century Ambassadors of Peace & Magic
+    artist: Foxygen
+    timestamp: '02 Jun 2025, 10:11'
+    link: 'https://www.last.fm/music/Foxygen/_/San+Francisco'
+  - title: Jabberwocky
+    album: Crosswords
+    artist: Panda Bear
+    timestamp: '02 Jun 2025, 10:07'
+    link: 'https://www.last.fm/music/Panda+Bear/_/Jabberwocky'
   - title: One More Year
     album: The Slow Rush
     artist: Tame Impala
