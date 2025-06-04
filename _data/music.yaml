@@ -1,4 +1,25 @@
 items:
+  - title: The Rat
+    album: Bows + Arrows
+    artist: The Walkmen
+    timestamp: '04 Jun 2025, 13:25'
+    link: 'https://www.last.fm/music/The+Walkmen/_/The+Rat'
+  - title: Lemon Glow
+    album: '7'
+    artist: Beach House
+    timestamp: '04 Jun 2025, 13:21'
+    link: 'https://www.last.fm/music/Beach+House/_/Lemon+Glow'
+  - title: Approaching Pavonis Mons by Balloon (Utopia Planitia)
+    album: Yoshimi Battles the Pink Robots
+    artist: The Flaming Lips
+    timestamp: '04 Jun 2025, 13:18'
+    link: >-
+      https://www.last.fm/music/The+Flaming+Lips/_/Approaching+Pavonis+Mons+by+Balloon+(Utopia+Planitia)
+  - title: Time to Pretend
+    album: Oracular Spectacular
+    artist: MGMT
+    timestamp: '04 Jun 2025, 13:13'
+    link: 'https://www.last.fm/music/MGMT/_/Time+to+Pretend'
   - title: Beverly Laurel
     album: Lonerism B-Sides & Remixes
     artist: Tame Impala
