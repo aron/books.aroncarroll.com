@@ -1,4 +1,25 @@
 items:
+  - title: Curtain
+    album: Curtain
+    artist: Greg Freeman
+    timestamp: '16 Jun 2025, 13:41'
+    link: 'https://www.last.fm/music/Greg+Freeman/_/Curtain'
+  - title: The Grand Old Trout
+    album: SpiderBeetleBee
+    artist: Bill MacKay
+    timestamp: '16 Jun 2025, 13:37'
+    link: 'https://www.last.fm/music/Bill+MacKay/_/The+Grand+Old+Trout'
+  - title: Streethawk I
+    album: 'Streethawk: A Seduction'
+    artist: Destroyer
+    timestamp: '16 Jun 2025, 13:34'
+    link: 'https://www.last.fm/music/Destroyer/_/Streethawk+I'
+  - title: All the Umbrellas in London
+    album: Get Lost
+    artist: The Magnetic Fields
+    timestamp: '16 Jun 2025, 13:31'
+    link: >-
+      https://www.last.fm/music/The+Magnetic+Fields/_/All+the+Umbrellas+in+London
   - title: Kingdom of Jones
     album: Modern Country
     artist: William Tyler
