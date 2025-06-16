@@ -1,4 +1,15 @@
 items:
+  - title: Arrival
+    album: Music from First Cow
+    artist: William Tyler
+    timestamp: '16 Jun 2025, 10:56'
+    link: 'https://www.last.fm/music/William+Tyler/_/Arrival'
+  - title: HOW CAN WE MEND A BROKEN HEART
+    album: Kahil El’Zabar’s America the Beautiful
+    artist: Kahil El'Zabar
+    timestamp: '16 Jun 2025, 10:52'
+    link: >-
+      https://www.last.fm/music/Kahil+El%27Zabar/_/HOW+CAN+WE+MEND+A+BROKEN+HEART
   - title: Cold Brains
     album: Mutations
     artist: Beck
