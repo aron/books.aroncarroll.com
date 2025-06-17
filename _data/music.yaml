@@ -1,4 +1,19 @@
 items:
+  - title: Babylon
+    album: Age Of
+    artist: Oneohtrix Point Never
+    timestamp: '17 Jun 2025, 12:00'
+    link: 'https://www.last.fm/music/Oneohtrix+Point+Never/_/Babylon'
+  - title: 'When I Try, I''m Full'
+    album: EARS
+    artist: Kaitlyn Aurelia Smith
+    timestamp: '17 Jun 2025, 11:56'
+    link: 'https://www.last.fm/music/Kaitlyn+Aurelia+Smith/_/When+I+Try,+I%27m+Full'
+  - title: The Devil Is in the Details
+    album: Geogaddi
+    artist: Boards of Canada
+    timestamp: '17 Jun 2025, 11:52'
+    link: 'https://www.last.fm/music/Boards+of+Canada/_/The+Devil+Is+in+the+Details'
   - title: Simple Homecoming Loop
     album: Kiri Variations
     artist: Clark
