@@ -1,4 +1,25 @@
 items:
+  - title: Arrival
+    album: Music from First Cow
+    artist: William Tyler
+    timestamp: '19 Jun 2025, 09:30'
+    link: 'https://www.last.fm/music/William+Tyler/_/Arrival'
+  - title: HOW CAN WE MEND A BROKEN HEART
+    album: Kahil El’Zabar’s America the Beautiful
+    artist: Kahil El'Zabar
+    timestamp: '19 Jun 2025, 09:26'
+    link: >-
+      https://www.last.fm/music/Kahil+El%27Zabar/_/HOW+CAN+WE+MEND+A+BROKEN+HEART
+  - title: Cold Brains
+    album: Mutations
+    artist: Beck
+    timestamp: '19 Jun 2025, 09:22'
+    link: 'https://www.last.fm/music/Beck/_/Cold+Brains'
+  - title: Wild World
+    album: I’m afraid to be in love with someone who crashes their car that much
+    artist: Fine Food Market
+    timestamp: '19 Jun 2025, 09:19'
+    link: 'https://www.last.fm/music/Fine+Food+Market/_/Wild+World'
   - title: Don't Talk (Put Your Head on My Shoulder)
     album: Pet Sounds
     artist: The Beach Boys
