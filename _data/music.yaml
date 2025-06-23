@@ -1,4 +1,19 @@
 items:
+  - title: Arrival
+    album: Music from First Cow
+    artist: William Tyler
+    timestamp: '23 Jun 2025, 14:47'
+    link: 'https://www.last.fm/music/William+Tyler/_/Arrival'
+  - title: Moderation
+    album: Pompeii
+    artist: Cate Le Bon
+    timestamp: '23 Jun 2025, 14:42'
+    link: 'https://www.last.fm/music/Cate+Le+Bon/_/Moderation'
+  - title: I'll Find A Way (To Carry It All)
+    album: 'Sam Wilkes, Craig Weinrib, and Dylan Day'
+    artist: Sam Wilkes
+    timestamp: '23 Jun 2025, 14:38'
+    link: 'https://www.last.fm/music/Sam+Wilkes/_/I%27ll+Find+A+Way+(To+Carry+It+All)'
   - title: Not My Ask
     album: The Jester
     artist: Alabaster Deplume
