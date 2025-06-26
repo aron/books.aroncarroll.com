@@ -1,4 +1,19 @@
 items:
+  - title: Living in the Future
+    album: Very Human Features
+    artist: The Bug Club
+    timestamp: '26 Jun 2025, 20:48'
+    link: 'https://www.last.fm/music/The+Bug+Club/_/Living+in+the+Future'
+  - title: How to Be a Confidante
+    album: Very Human Features
+    artist: The Bug Club
+    timestamp: '26 Jun 2025, 20:44'
+    link: 'https://www.last.fm/music/The+Bug+Club/_/How+to+Be+a+Confidante'
+  - title: Muck (Very Human Features)
+    album: Very Human Features
+    artist: The Bug Club
+    timestamp: '26 Jun 2025, 20:37'
+    link: 'https://www.last.fm/music/The+Bug+Club/_/Muck+(Very+Human+Features)'
   - title: Beep Boop Computers
     album: Very Human Features
     artist: The Bug Club
@@ -24,6 +39,11 @@ items:
     artist: The Bug Club
     timestamp: '26 Jun 2025, 17:25'
     link: 'https://www.last.fm/music/The+Bug+Club/_/Full+Grown+Man'
+  - title: Curtain
+    album: Gallic Shrug
+    artist: Greg Freeman
+    timestamp: '26 Jun 2025, 17:25'
+    link: 'https://www.last.fm/music/Greg+Freeman/_/Curtain'
   - title: Workhorse
     album: Shock out of Season
     artist: Friendship
