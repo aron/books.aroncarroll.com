@@ -1,4 +1,19 @@
 items:
+  - title: LAUNDRY
+    album: LAUNDRY
+    artist: Les Sons Du Cosmos
+    timestamp: '28 Jun 2025, 21:39'
+    link: 'https://www.last.fm/music/Les+Sons+Du+Cosmos/_/LAUNDRY'
+  - title: Soweto
+    album: Cape Town Revisited
+    artist: Abdullah Ibrahim
+    timestamp: '28 Jun 2025, 21:35'
+    link: 'https://www.last.fm/music/Abdullah+Ibrahim/_/Soweto'
+  - title: Go On
+    album: a.s.o.
+    artist: A.S.O.
+    timestamp: '28 Jun 2025, 21:32'
+    link: 'https://www.last.fm/music/A.S.O./_/Go+On'
   - title: Juvenescence
     album: Urban Driftwood
     artist: Yasmin Williams
@@ -14,6 +29,11 @@ items:
     artist: Helado Negro
     timestamp: '28 Jun 2025, 19:36'
     link: 'https://www.last.fm/music/Helado+Negro/_/Wake+Up+Tomorrow'
+  - title: Stanley Road
+    album: Stanley Road
+    artist: Paul Weller
+    timestamp: '28 Jun 2025, 19:36'
+    link: 'https://www.last.fm/music/Paul+Weller/_/Stanley+Road'
   - title: Homebreakers
     album: Our Favourite Shop
     artist: The Style Council
