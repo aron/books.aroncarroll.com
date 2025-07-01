@@ -1,4 +1,9 @@
 items:
+  - title: Bingo
+    album: 50 Silly Songs
+    artist: The Little Sunshine Kids
+    timestamp: '30 Jun 2025, 17:55'
+    link: 'https://www.last.fm/music/The+Little+Sunshine+Kids/_/Bingo'
   - title: I Love the Mountains
     album: Sing as We Go!
     artist: Charlie Hope
@@ -24,6 +29,11 @@ items:
     artist: Music Together
     timestamp: '30 Jun 2025, 17:43'
     link: 'https://www.last.fm/music/Music+Together/_/Hello+Song'
+  - title: Right Down The Line
+    album: City to City
+    artist: Gerry Rafferty
+    timestamp: '30 Jun 2025, 17:43'
+    link: 'https://www.last.fm/music/Gerry+Rafferty/_/Right+Down+The+Line'
   - title: Nothing Lasts Forever
     album: Zap The Planet
     artist: Freak Heat Waves
