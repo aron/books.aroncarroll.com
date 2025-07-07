@@ -1,4 +1,14 @@
 items:
+  - title: Colorado
+    album: I Looked Out
+    artist: Greg Freeman
+    timestamp: '07 Jul 2025, 11:20'
+    link: 'https://www.last.fm/music/Greg+Freeman/_/Colorado'
+  - title: The Silence That Remains
+    album: Night Life
+    artist: The Horrors
+    timestamp: '05 Jul 2025, 17:51'
+    link: 'https://www.last.fm/music/The+Horrors/_/The+Silence+That+Remains'
   - title: Mountain
     album: Earthstar Mountain
     artist: Hannah Cohen
@@ -29,6 +39,11 @@ items:
     artist: U.S. Girls
     timestamp: '05 Jul 2025, 17:23'
     link: 'https://www.last.fm/music/U.S.+Girls/_/Walking+Song'
+  - title: Stay
+    album: Stay
+    artist: Officer John
+    timestamp: '05 Jul 2025, 17:23'
+    link: 'https://www.last.fm/music/Officer+John/_/Stay'
   - title: The Clearing
     album: Scratch It
     artist: U.S. Girls
