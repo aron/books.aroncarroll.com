@@ -1,4 +1,24 @@
 items:
+  - title: Mint
+    album: Deep in View
+    artist: Cola
+    timestamp: '07 Jul 2025, 14:42'
+    link: 'https://www.last.fm/music/Cola/_/Mint'
+  - title: Perfect (Smashing Pumpkins)
+    album: Mowing the Leaves Instead of Piling 'em Up
+    artist: Wednesday
+    timestamp: '07 Jul 2025, 14:38'
+    link: 'https://www.last.fm/music/Wednesday/_/Perfect+(Smashing+Pumpkins)'
+  - title: What's the Move
+    album: Love the Stranger
+    artist: Friendship
+    timestamp: '07 Jul 2025, 14:35'
+    link: 'https://www.last.fm/music/Friendship/_/What%27s+the+Move'
+  - title: Pretty Merrina
+    album: Double Thriller
+    artist: The Glands
+    timestamp: '07 Jul 2025, 14:31'
+    link: 'https://www.last.fm/music/The+Glands/_/Pretty+Merrina'
   - title: You Turned off the Light
     album: Turtle Rock
     artist: Sharp Pins
