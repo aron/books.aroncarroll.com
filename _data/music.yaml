@@ -1,4 +1,35 @@
 items:
+  - title: yowzers
+    album: yowzers
+    artist: Ben Lamar Gay
+    timestamp: '15 Jul 2025, 10:30'
+    link: 'https://www.last.fm/music/Ben+Lamar+Gay/_/yowzers'
+  - title: Daisy
+    album: If Only There Was A River
+    artist: Anna St. Louis
+    timestamp: '15 Jul 2025, 10:27'
+    link: 'https://www.last.fm/music/Anna+St.+Louis/_/Daisy'
+  - title: Best Looking Strangers in the Cemetery
+    album: On the Intricate Inner Workings of the System
+    artist: The Bug Club
+    timestamp: '15 Jul 2025, 10:25'
+    link: >-
+      https://www.last.fm/music/The+Bug+Club/_/Best+Looking+Strangers+in+the+Cemetery
+  - title: Last War
+    album: Last War
+    artist: Haley Bonar
+    timestamp: '15 Jul 2025, 10:21'
+    link: 'https://www.last.fm/music/Haley+Bonar/_/Last+War'
+  - title: Hollow Home
+    album: City Sun Eater In The River Of Light
+    artist: Woods
+    timestamp: '15 Jul 2025, 10:17'
+    link: 'https://www.last.fm/music/Woods/_/Hollow+Home'
+  - title: A Little Lost
+    album: 'Clarinet & Piano: Selected Works, Vol. 1'
+    artist: Group Listening
+    timestamp: '15 Jul 2025, 10:13'
+    link: 'https://www.last.fm/music/Group+Listening/_/A+Little+Lost'
   - title: ISI
     album: Neu! 75
     artist: NEU!
