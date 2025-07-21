@@ -1,4 +1,20 @@
 items:
+  - title: Rainbow Sign
+    album: Mouthfuls
+    artist: Fruit Bats
+    timestamp: '21 Jul 2025, 15:03'
+    link: 'https://www.last.fm/music/Fruit+Bats/_/Rainbow+Sign'
+  - title: More Of This
+    album: Tight Knit
+    artist: Vetiver
+    timestamp: '21 Jul 2025, 14:59'
+    link: 'https://www.last.fm/music/Vetiver/_/More+Of+This'
+  - title: 'Cello Suite No. 1 in G Major, BWV 1007: I. Prelude (Transcr. for Guitar)'
+    album: 'Bach, J.S.: Suites & Partitas'
+    artist: Johann Sebastian Bach
+    timestamp: '21 Jul 2025, 14:57'
+    link: >-
+      https://www.last.fm/music/Johann+Sebastian+Bach/_/Cello+Suite+No.+1+in+G+Major,+BWV+1007:+I.+Prelude+(Transcr.+for+Guitar)
   - title: Marseille
     album: Divinations
     artist: Oracle Sisters
