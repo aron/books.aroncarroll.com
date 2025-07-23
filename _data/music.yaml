@@ -1,4 +1,9 @@
 items:
+  - title: Hello Song
+    album: Music Together Family Favorites 2
+    artist: Music Together
+    timestamp: '23 Jul 2025, 08:10'
+    link: 'https://www.last.fm/music/Music+Together/_/Hello+Song'
   - title: Dee Da Dum
     album: Music Together Family Favorites 2
     artist: Music Together
@@ -14,6 +19,11 @@ items:
     artist: Music Together
     timestamp: '21 Jul 2025, 17:47'
     link: 'https://www.last.fm/music/Music+Together/_/Hey,+Diddle,+Diddle'
+  - title: Low Sun
+    album: Sonido Cósmico
+    artist: Hermanos Gutiérrez
+    timestamp: '21 Jul 2025, 17:47'
+    link: 'https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Low+Sun'
   - title: Hello Song
     album: Music Together Family Favorites 2
     artist: Music Together
