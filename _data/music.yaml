@@ -1,4 +1,35 @@
 items:
+  - title: Le Feu
+    album: Sería II
+    artist: Skúli Sverrisson
+    timestamp: '25 Jul 2025, 13:14'
+    link: 'https://www.last.fm/music/Sk%C3%BAli+Sverrisson/_/Le+Feu'
+  - title: 54-46 (Was My Number)
+    album: Below The Bassline
+    artist: Ernest Ranglin
+    timestamp: '25 Jul 2025, 13:08'
+    link: 'https://www.last.fm/music/Ernest+Ranglin/_/54-46+(Was+My+Number)'
+  - title: Santee Alley
+    album: La Lom
+    artist: LA LOM
+    timestamp: '25 Jul 2025, 13:05'
+    link: 'https://www.last.fm/music/LA+LOM/_/Santee+Alley'
+  - title: Punkrocker (feat. Iggy Pop) - As featured in Superman
+    album: Soft Machine
+    artist: Teddybears
+    timestamp: '25 Jul 2025, 13:00'
+    link: >-
+      https://www.last.fm/music/Teddybears/_/Punkrocker+(feat.+Iggy+Pop)+-+As+featured+in+Superman
+  - title: Song For Junior - Remastered 2009
+    album: Hello Nasty (Deluxe Edition/Remastered)
+    artist: Beastie Boys
+    timestamp: '25 Jul 2025, 12:57'
+    link: 'https://www.last.fm/music/Beastie+Boys/_/Song+For+Junior+-+Remastered+2009'
+  - title: Hijos Del Sol
+    album: Hijos Del Sol
+    artist: Hermanos Gutiérrez
+    timestamp: '25 Jul 2025, 12:54'
+    link: 'https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Hijos+Del+Sol'
   - title: Pretty stars
     album: Music IS
     artist: Bill Frisell
