@@ -1,4 +1,20 @@
 items:
+  - title: You Can Call Me Al
+    album: Graceland (25th Anniversary Deluxe Edition)
+    artist: Paul Simon
+    timestamp: '01 Aug 2025, 09:20'
+    link: 'https://www.last.fm/music/Paul+Simon/_/You+Can+Call+Me+Al'
+  - title: Born to Run
+    album: Born to Run
+    artist: Bruce Springsteen
+    timestamp: '01 Aug 2025, 09:16'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Born+to+Run'
+  - title: The Whole of the Moon - 2004 Remaster
+    album: This Is the Sea (Deluxe Version)
+    artist: The Waterboys
+    timestamp: '01 Aug 2025, 09:11'
+    link: >-
+      https://www.last.fm/music/The+Waterboys/_/The+Whole+of+the+Moon+-+2004+Remaster
   - title: Dancing in the Dark
     album: Born in the U.S.A.
     artist: Bruce Springsteen
