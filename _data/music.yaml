@@ -1,4 +1,19 @@
 items:
+  - title: Because the Night
+    album: Easter
+    artist: Patti Smith
+    timestamp: '01 Aug 2025, 09:36'
+    link: 'https://www.last.fm/music/Patti+Smith/_/Because+the+Night'
+  - title: Harvest Moon
+    album: Harvest Moon
+    artist: Neil Young
+    timestamp: '01 Aug 2025, 09:31'
+    link: 'https://www.last.fm/music/Neil+Young/_/Harvest+Moon'
+  - title: Like a Rolling Stone
+    album: Highway 61 Revisited
+    artist: Bob Dylan
+    timestamp: '01 Aug 2025, 09:25'
+    link: 'https://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone'
   - title: You Can Call Me Al
     album: Graceland (25th Anniversary Deluxe Edition)
     artist: Paul Simon
