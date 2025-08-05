@@ -1,4 +1,19 @@
 items:
+  - title: A.B.C. Rocksteady
+    album: Glad Sounds
+    artist: Gladstone Anderson
+    timestamp: '05 Aug 2025, 10:52'
+    link: 'https://www.last.fm/music/Gladstone+Anderson/_/A.B.C.+Rocksteady'
+  - title: Dump The Dog
+    album: Fame And Wealth
+    artist: Loudon Wainwright III
+    timestamp: '05 Aug 2025, 10:50'
+    link: 'https://www.last.fm/music/Loudon+Wainwright+III/_/Dump+The+Dog'
+  - title: Guava Jam
+    album: Guava Jam
+    artist: The Sunday Manoa
+    timestamp: '05 Aug 2025, 10:46'
+    link: 'https://www.last.fm/music/The+Sunday+Manoa/_/Guava+Jam'
   - title: EH4-800 Phase Shifter
     album: Early Output 1996-1998
     artist: Fridge
