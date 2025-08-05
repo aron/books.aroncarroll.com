@@ -1,4 +1,9 @@
 items:
+  - title: Get Some Rest
+    album: Soft Power
+    artist: Ezra Feinberg
+    timestamp: '05 Aug 2025, 15:20'
+    link: 'https://www.last.fm/music/Ezra+Feinberg/_/Get+Some+Rest'
   - title: Contour
     album: Contour
     artist: Pino Palladino
@@ -14,6 +19,11 @@ items:
     artist: Surprise Chef
     timestamp: '05 Aug 2025, 15:09'
     link: 'https://www.last.fm/music/Surprise+Chef/_/A1+Bakery+Pledge+of+Allegiance'
+  - title: Rule
+    album: Ghettoville
+    artist: Actress
+    timestamp: '05 Aug 2025, 15:08'
+    link: 'https://www.last.fm/music/Actress/_/Rule'
   - title: Blue Hawaiian Moonlight
     album: 'Gabby Pahinui Hawaiian Band, Vol. 1'
     artist: Gabby Pahinui
@@ -34,6 +44,11 @@ items:
     artist: James Elkington
     timestamp: '05 Aug 2025, 14:56'
     link: 'https://www.last.fm/music/James+Elkington/_/Reel+Around+the+Fountain'
+  - title: Come Down (69 Version)
+    album: Lord Creator
+    artist: Lord Creator
+    timestamp: '05 Aug 2025, 14:56'
+    link: 'https://www.last.fm/music/Lord+Creator/_/Come+Down+(69+Version)'
   - title: Kappsta
     album: Pop Ambient 2007
     artist: The Field
