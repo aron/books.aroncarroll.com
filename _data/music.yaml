@@ -1,4 +1,15 @@
 items:
+  - title: 'One, Two, Three, Lots'
+    album: Axes
+    artist: Electrelane
+    timestamp: '05 Aug 2025, 19:32'
+    link: 'https://www.last.fm/music/Electrelane/_/One,+Two,+Three,+Lots'
+  - title: Hey-Hee-Hi-Ho
+    album: Combustication
+    artist: 'Medeski, Martin & Wood'
+    timestamp: '05 Aug 2025, 15:25'
+    link: >-
+      https://www.last.fm/music/+noredirect/Medeski,+Martin+&+Wood/_/Hey-Hee-Hi-Ho
   - title: Get Some Rest
     album: Soft Power
     artist: Ezra Feinberg
