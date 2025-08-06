@@ -1,4 +1,25 @@
 items:
+  - title: Saro
+    album: The Westerlies
+    artist: The Westerlies
+    timestamp: '06 Aug 2025, 15:04'
+    link: 'https://www.last.fm/music/The+Westerlies/_/Saro'
+  - title: La Javanasise
+    album: History Of Flight
+    artist: Khruangbin
+    timestamp: '06 Aug 2025, 15:02'
+    link: 'https://www.last.fm/music/Khruangbin/_/La+Javanasise'
+  - title: Perpetuum Mobile
+    album: 'Preludes, Airs And Yodels (A Penguin Cafe Primer)'
+    artist: Penguin Cafe Orchestra
+    timestamp: '06 Aug 2025, 14:59'
+    link: 'https://www.last.fm/music/Penguin+Cafe+Orchestra/_/Perpetuum+Mobile'
+  - title: Hey-Hee-Hi-Ho
+    album: Combustication
+    artist: 'Medeski, Martin & Wood'
+    timestamp: '06 Aug 2025, 14:56'
+    link: >-
+      https://www.last.fm/music/+noredirect/Medeski,+Martin+&+Wood/_/Hey-Hee-Hi-Ho
   - title: S Is for Evrysing
     album: The Lemon of Pink (Remastered)
     artist: The Books
@@ -9,6 +30,21 @@ items:
     artist: The Books
     timestamp: '05 Aug 2025, 20:14'
     link: 'https://www.last.fm/music/The+Books/_/Bonanza'
+  - title: the lemon of pink II
+    album: The Lemon of Pink (Remastered)
+    artist: The Books
+    timestamp: '05 Aug 2025, 20:11'
+    link: 'https://www.last.fm/music/The+Books/_/the+lemon+of+pink+II'
+  - title: There Is No There
+    album: The Lemon of Pink (Remastered)
+    artist: The Books
+    timestamp: '05 Aug 2025, 20:11'
+    link: 'https://www.last.fm/music/The+Books/_/There+Is+No+There'
+  - title: The Lemon of Pink I
+    album: The Lemon of Pink (Remastered)
+    artist: The Books
+    timestamp: '05 Aug 2025, 20:11'
+    link: 'https://www.last.fm/music/The+Books/_/The+Lemon+of+Pink+I'
   - title: Tokyo
     album: The Lemon of Pink (Remastered)
     artist: The Books
