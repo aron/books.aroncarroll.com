@@ -1,4 +1,24 @@
 items:
+  - title: Ezra
+    album: Garden of Delete
+    artist: Oneohtrix Point Never
+    timestamp: '07 Aug 2025, 13:51'
+    link: 'https://www.last.fm/music/Oneohtrix+Point+Never/_/Ezra'
+  - title: Void
+    album: Angels & Devils
+    artist: The Bug
+    timestamp: '07 Aug 2025, 13:47'
+    link: 'https://www.last.fm/music/The+Bug/_/Void'
+  - title: The Journey
+    album: Glass
+    artist: Illum Sphere
+    timestamp: '07 Aug 2025, 13:43'
+    link: 'https://www.last.fm/music/Illum+Sphere/_/The+Journey'
+  - title: Chernobyl
+    album: Blanck Mass
+    artist: Blanck Mass
+    timestamp: '07 Aug 2025, 13:39'
+    link: 'https://www.last.fm/music/Blanck+Mass/_/Chernobyl'
   - title: War It
     album: Compassion
     artist: Forest Swords
