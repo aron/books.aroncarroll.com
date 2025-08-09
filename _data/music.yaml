@@ -1,4 +1,19 @@
 items:
+  - title: The Lovecats
+    album: Greatest Hits
+    artist: The Cure
+    timestamp: '09 Aug 2025, 08:14'
+    link: 'https://www.last.fm/music/The+Cure/_/The+Lovecats'
+  - title: This Is The Day
+    album: Soul Mining
+    artist: The The
+    timestamp: '09 Aug 2025, 08:09'
+    link: 'https://www.last.fm/music/The+The/_/This+Is+The+Day'
+  - title: Dancing in the Dark
+    album: Born in the U.S.A.
+    artist: Bruce Springsteen
+    timestamp: '09 Aug 2025, 08:05'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Dancing+in+the+Dark'
   - title: classic love
     album: classic love
     artist: Luke Roberts
