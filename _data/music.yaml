@@ -39,6 +39,11 @@ items:
     artist: The The
     timestamp: '09 Aug 2025, 08:09'
     link: 'https://www.last.fm/music/The+The/_/This+Is+The+Day'
+  - title: classic love
+    album: classic love
+    artist: Luke Roberts
+    timestamp: '09 Aug 2025, 08:07'
+    link: 'https://www.last.fm/music/Luke+Roberts/_/classic+love'
   - title: Dancing in the Dark
     album: Born in the U.S.A.
     artist: Bruce Springsteen
