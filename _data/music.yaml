@@ -1,4 +1,19 @@
 items:
+  - title: Alarm
+    album: Alarm
+    artist: Lifeguard
+    timestamp: '29 Aug 2025, 12:12'
+    link: 'https://www.last.fm/music/Lifeguard/_/Alarm'
+  - title: The Connection Man
+    album: Manipulator
+    artist: Ty Segall
+    timestamp: '29 Aug 2025, 12:10'
+    link: 'https://www.last.fm/music/Ty+Segall/_/The+Connection+Man'
+  - title: Taraval
+    album: Freckle
+    artist: Freckle
+    timestamp: '29 Aug 2025, 12:03'
+    link: 'https://www.last.fm/music/Freckle/_/Taraval'
   - title: Melvin Said This
     album: Expensive Thrills
     artist: C Turtle
