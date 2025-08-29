@@ -1,4 +1,34 @@
 items:
+  - title: Chrome Mess
+    album: The Hard Quartet
+    artist: The Hard Quartet
+    timestamp: '29 Aug 2025, 12:34'
+    link: 'https://www.last.fm/music/The+Hard+Quartet/_/Chrome+Mess'
+  - title: 'Hello, Hi'
+    album: '"Hello, Hi"'
+    artist: Ty Segall
+    timestamp: '29 Aug 2025, 12:32'
+    link: 'https://www.last.fm/music/Ty+Segall/_/Hello,+Hi'
+  - title: Gossamer
+    album: Deep in View
+    artist: Cola
+    timestamp: '29 Aug 2025, 12:28'
+    link: 'https://www.last.fm/music/Cola/_/Gossamer'
+  - title: Who's Sitting on the Moon
+    album: Freckle
+    artist: Freckle
+    timestamp: '29 Aug 2025, 12:24'
+    link: 'https://www.last.fm/music/Freckle/_/Who%27s+Sitting+on+the+Moon'
+  - title: Strange World
+    album: News of the Universe
+    artist: La Luz
+    timestamp: '29 Aug 2025, 12:20'
+    link: 'https://www.last.fm/music/La+Luz/_/Strange+World'
+  - title: North America Endless
+    album: North America Endless
+    artist: FACS
+    timestamp: '29 Aug 2025, 12:16'
+    link: 'https://www.last.fm/music/FACS/_/North+America+Endless'
   - title: Alarm
     album: Alarm
     artist: Lifeguard
