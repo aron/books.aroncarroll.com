@@ -1,4 +1,19 @@
 items:
+  - title: Melvin Said This
+    album: Expensive Thrills
+    artist: C Turtle
+    timestamp: '29 Aug 2025, 12:00'
+    link: 'https://www.last.fm/music/C+Turtle/_/Melvin+Said+This'
+  - title: Different Person
+    album: Food For Worms
+    artist: Shame
+    timestamp: '29 Aug 2025, 11:55'
+    link: 'https://www.last.fm/music/Shame/_/Different+Person'
+  - title: War Movies
+    album: On the Intricate Inner Workings of the System
+    artist: The Bug Club
+    timestamp: '29 Aug 2025, 11:53'
+    link: 'https://www.last.fm/music/The+Bug+Club/_/War+Movies'
   - title: Looking at You
     album: '"Hello, Hi"'
     artist: Ty Segall
