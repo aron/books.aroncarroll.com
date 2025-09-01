@@ -1,4 +1,19 @@
 items:
+  - title: Evil Twin
+    album: Evil Twin
+    artist: Cut Worms
+    timestamp: '01 Sep 2025, 13:03'
+    link: 'https://www.last.fm/music/Cut+Worms/_/Evil+Twin'
+  - title: Lo Hice
+    album: Lo Hice
+    artist: Geckøs
+    timestamp: '01 Sep 2025, 12:59'
+    link: 'https://www.last.fm/music/Geck%C3%B8s/_/Lo+Hice'
+  - title: Tala Tannam
+    album: Afrique Victime
+    artist: Mdou Moctar
+    timestamp: '01 Sep 2025, 12:53'
+    link: 'https://www.last.fm/music/Mdou+Moctar/_/Tala+Tannam'
   - title: Now That I Know
     album: Ted Lucas (Extended)
     artist: Ted Lucas
