@@ -1,4 +1,19 @@
 items:
+  - title: Buffalo
+    album: Appalachia Borealis
+    artist: Phil Cook
+    timestamp: '05 Sep 2025, 12:20'
+    link: 'https://www.last.fm/music/Phil+Cook/_/Buffalo'
+  - title: Somebody Else's Song
+    album: Somebody Else's Song
+    artist: Water From Your Eyes
+    timestamp: '05 Sep 2025, 12:16'
+    link: 'https://www.last.fm/music/Water+From+Your+Eyes/_/Somebody+Else%27s+Song'
+  - title: Hard Drive
+    album: Baby I'm Bored
+    artist: Evan Dando
+    timestamp: '05 Sep 2025, 12:13'
+    link: 'https://www.last.fm/music/Evan+Dando/_/Hard+Drive'
   - title: Piss River
     album: Oh My God
     artist: Kevin Morby
