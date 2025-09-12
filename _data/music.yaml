@@ -1,4 +1,9 @@
 items:
+  - title: 'New Person, Same Old Mistakes'
+    album: Currents
+    artist: Tame Impala
+    timestamp: '11 Sep 2025, 17:20'
+    link: 'https://www.last.fm/music/Tame+Impala/_/New+Person,+Same+Old+Mistakes'
   - title: Let It Happen
     album: Currents
     artist: Tame Impala
@@ -9,6 +14,11 @@ items:
     artist: Tame Impala
     timestamp: '11 Sep 2025, 17:09'
     link: 'https://www.last.fm/music/Tame+Impala/_/Borderline'
+  - title: Screwdriver
+    album: Cutthroat
+    artist: Shame
+    timestamp: '11 Sep 2025, 17:06'
+    link: 'https://www.last.fm/music/Shame/_/Screwdriver'
   - title: The Less I Know the Better
     album: Currents
     artist: Tame Impala
