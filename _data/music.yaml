@@ -1,4 +1,24 @@
 items:
+  - title: Pumpkin
+    album: Sauna
+    artist: Mount Eerie
+    timestamp: '24 Sep 2025, 11:10'
+    link: 'https://www.last.fm/music/Mount+Eerie/_/Pumpkin'
+  - title: Planets
+    album: Sauna
+    artist: Mount Eerie
+    timestamp: '24 Sep 2025, 11:07'
+    link: 'https://www.last.fm/music/Mount+Eerie/_/Planets'
+  - title: Boat
+    album: Sauna
+    artist: Mount Eerie
+    timestamp: '24 Sep 2025, 11:05'
+    link: 'https://www.last.fm/music/Mount+Eerie/_/Boat'
+  - title: (something)
+    album: Sauna
+    artist: Mount Eerie
+    timestamp: '24 Sep 2025, 11:03'
+    link: 'https://www.last.fm/music/Mount+Eerie/_/(something)'
   - title: Emptiness
     album: Sauna
     artist: Mount Eerie
