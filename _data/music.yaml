@@ -1,4 +1,9 @@
 items:
+  - title: Bloody Kisses
+    album: Bloody Kisses - Single
+    artist: Camp Blu
+    timestamp: '07 Oct 2025, 18:42'
+    link: 'https://www.last.fm/music/Camp+Blu/_/Bloody+Kisses'
   - title: Titular
     album: Sasquatch Landslide
     artist: The Dwarfs of East Agouza
@@ -9,16 +14,32 @@ items:
     artist: The Dwarfs of East Agouza
     timestamp: '07 Oct 2025, 15:54'
     link: 'https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Double+Mothers'
+  - title: Double Mothers
+    album: Sasquatch Landslide
+    artist: The Dwarfs of East Agouza
+    timestamp: '07 Oct 2025, 15:51'
+    link: 'https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Double+Mothers'
   - title: Saber Tooth Millipede
     album: Sasquatch Landslide
     artist: The Dwarfs of East Agouza
     timestamp: '07 Oct 2025, 15:48'
     link: >-
       https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Saber+Tooth+Millipede
+  - title: Saber Tooth Millipede
+    album: Sasquatch Landslide
+    artist: The Dwarfs of East Agouza
+    timestamp: '07 Oct 2025, 15:45'
+    link: >-
+      https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Saber+Tooth+Millipede
   - title: Swollen Thankles
     album: Sasquatch Landslide
     artist: The Dwarfs of East Agouza
     timestamp: '07 Oct 2025, 15:43'
+    link: 'https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Swollen+Thankles'
+  - title: Swollen Thankles
+    album: Sasquatch Landslide
+    artist: The Dwarfs of East Agouza
+    timestamp: '07 Oct 2025, 15:41'
     link: 'https://www.last.fm/music/The+Dwarfs+of+East+Agouza/_/Swollen+Thankles'
   - title: Cincinatti Blooms
     album: Orangutang
