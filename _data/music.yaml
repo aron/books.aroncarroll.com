@@ -1,4 +1,19 @@
 items:
+  - title: All I Want
+    album: Weather Diaries
+    artist: Ride
+    timestamp: '13 Oct 2025, 11:22'
+    link: 'https://www.last.fm/music/Ride/_/All+I+Want'
+  - title: Emma
+    album: Tones Of The Sparrow
+    artist: The Asteroid No.4
+    timestamp: '13 Oct 2025, 11:17'
+    link: 'https://www.last.fm/music/The+Asteroid+No.4/_/Emma'
+  - title: Crushin
+    album: Bright To Death
+    artist: Film School
+    timestamp: '13 Oct 2025, 11:13'
+    link: 'https://www.last.fm/music/Film+School/_/Crushin'
   - title: Come Together
     album: Ladies and Gentlemen We Are Floating in Space
     artist: Spiritualized
