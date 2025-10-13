@@ -1,4 +1,19 @@
 items:
+  - title: Berlin
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '13 Oct 2025, 14:30'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Berlin'
+  - title: Cut Paper
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '13 Oct 2025, 14:26'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Cut+Paper'
+  - title: Circles
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '13 Oct 2025, 14:21'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Circles'
   - title: Nothing Ever Happened
     album: Microcastle
     artist: Deerhunter
