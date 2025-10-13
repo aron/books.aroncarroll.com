@@ -1,4 +1,19 @@
 items:
+  - title: First Instrument
+    album: Dali Aint Dead
+    artist: ZelooperZ
+    timestamp: '13 Oct 2025, 14:48'
+    link: 'https://www.last.fm/music/ZelooperZ/_/First+Instrument'
+  - title: Ophelia
+    album: Northern Lights – Southern Cross
+    artist: The Band
+    timestamp: '13 Oct 2025, 14:46'
+    link: 'https://www.last.fm/music/The+Band/_/Ophelia'
+  - title: Hobo Jungle
+    album: Northern Lights – Southern Cross
+    artist: The Band
+    timestamp: '13 Oct 2025, 14:42'
+    link: 'https://www.last.fm/music/The+Band/_/Hobo+Jungle'
   - title: Forbidden Fruit
     album: Northern Lights – Southern Cross
     artist: The Band
