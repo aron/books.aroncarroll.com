@@ -1,4 +1,19 @@
 items:
+  - title: Berlin
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '17 Oct 2025, 14:23'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Berlin'
+  - title: Cut Paper
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '17 Oct 2025, 14:18'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Cut+Paper'
+  - title: Circles
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '17 Oct 2025, 14:14'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Circles'
   - title: Mother
     album: A Thousand Times - EP
     artist: HotWax
