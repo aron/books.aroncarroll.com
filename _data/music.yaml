@@ -1,4 +1,14 @@
 items:
+  - title: The Animal
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '17 Oct 2025, 14:43'
+    link: 'https://www.last.fm/music/Blue+Lake/_/The+Animal'
+  - title: Strand
+    album: The Animal
+    artist: Blue Lake
+    timestamp: '17 Oct 2025, 14:39'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Strand'
   - title: Yarrow
     album: The Animal
     artist: Blue Lake
