@@ -19,6 +19,12 @@ items:
     rating: '3.0'
     watched_at: '2022-10-08'
     link: 'https://letterboxd.com/aron/film/in-bruges/'
+  - title: 'Like a Rolling Stone: The Life & Times of Ben Fong-Torres'
+    year: '2021'
+    rating: ''
+    watched_at: '2022-08-26'
+    link: >-
+      https://letterboxd.com/aron/film/like-a-rolling-stone-the-life-times-of-ben/
   - title: 'Like A Rolling Stone: The Life & Times of Ben Fong-Torres'
     year: '2021'
     rating: ''
