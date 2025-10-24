@@ -1,4 +1,14 @@
 items:
+  - title: Dallas
+    album: Sun Arcs
+    artist: Blue Lake
+    timestamp: '24 Oct 2025, 10:35'
+    link: 'https://www.last.fm/music/Blue+Lake/_/Dallas'
+  - title: Something Inside My Body
+    album: Limitless Frame
+    artist: Ulla
+    timestamp: '24 Oct 2025, 10:28'
+    link: 'https://www.last.fm/music/Ulla/_/Something+Inside+My+Body'
   - title: Paradise Engineering
     album: Utility
     artist: Barker
