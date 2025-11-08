@@ -1,4 +1,9 @@
 items:
+  - title: Whale Rider
+    year: '2002'
+    rating: '3.0'
+    watched_at: '2025-11-07'
+    link: 'https://letterboxd.com/aron/film/whale-rider/'
   - title: 'Capitalism: A Love Story'
     year: '2009'
     rating: ''
