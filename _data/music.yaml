@@ -1,4 +1,20 @@
 items:
+  - title: It's the Most Wonderful Time of the Year
+    album: Christmas Hits
+    artist: Andy Williams
+    timestamp: '08 Dec 2025, 08:08'
+    link: >-
+      https://www.last.fm/music/Andy+Williams/_/It%27s+the+Most+Wonderful+Time+of+the+Year
+  - title: Last Christmas
+    album: Christmas Hits
+    artist: Wham!
+    timestamp: '08 Dec 2025, 08:04'
+    link: 'https://www.last.fm/music/Wham!/_/Last+Christmas'
+  - title: All I Want for Christmas Is You
+    album: Christmas Hits
+    artist: Mariah Carey
+    timestamp: '08 Dec 2025, 08:00'
+    link: 'https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You'
   - title: Sleepyhead
     album: Lullabies
     artist: Music Together
