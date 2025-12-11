@@ -1,4 +1,57 @@
 items:
+  - title: The First Noel
+    album: Plays And Sings
+    artist: Chet Baker
+    timestamp: '10 Dec 2025, 22:14'
+    link: 'https://www.last.fm/music/Chet+Baker/_/The+First+Noel'
+  - title: 'Greensleeves (Take 6 / October 28, 1965)'
+    album: A Charlie Brown Christmas (Deluxe Edition)
+    artist: Vince Guaraldi Trio
+    timestamp: '10 Dec 2025, 22:09'
+    link: >-
+      https://www.last.fm/music/Vince+Guaraldi+Trio/_/Greensleeves+(Take+6+%2F+October+28,+1965)
+  - title: Have Yourself a Merry Little Christmas
+    album: Ella Wishes You A Swinging Christmas (Deluxe Edition)
+    artist: Ella Fitzgerald
+    timestamp: '10 Dec 2025, 22:06'
+    link: >-
+      https://www.last.fm/music/Ella+Fitzgerald/_/Have+Yourself+a+Merry+Little+Christmas
+  - title: Have Yourself A Merry Little Christmas
+    album: Have Yourself a Merry Little Christmas - Single
+    artist: Cat Power
+    timestamp: '10 Dec 2025, 22:04'
+    link: >-
+      https://www.last.fm/music/Cat+Power/_/Have+Yourself+A+Merry+Little+Christmas
+  - title: The Christmas Song
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 22:01'
+    link: 'https://www.last.fm/music/She+&+Him/_/The+Christmas+Song'
+  - title: Little Saint Nick
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 21:59'
+    link: 'https://www.last.fm/music/She+&+Him/_/Little+Saint+Nick'
+  - title: Blue Christmas
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 21:56'
+    link: 'https://www.last.fm/music/She+&+Him/_/Blue+Christmas'
+  - title: 'Baby, It''s Cold Outside'
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 21:53'
+    link: 'https://www.last.fm/music/She+&+Him/_/Baby,+It%27s+Cold+Outside'
+  - title: Silver Bells
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 21:51'
+    link: 'https://www.last.fm/music/She+&+Him/_/Silver+Bells'
+  - title: Rockin' Around the Christmas Tree
+    album: A Very She & Him Christmas
+    artist: She & Him
+    timestamp: '10 Dec 2025, 21:49'
+    link: 'https://www.last.fm/music/She+&+Him/_/Rockin%27+Around+the+Christmas+Tree'
   - title: Hot Rod U.S.A.
     album: The Best Of The Rip Chords
     artist: The Rip Chords
