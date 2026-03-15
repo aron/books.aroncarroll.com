@@ -1,4 +1,55 @@
 items:
+  - title: Lost
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 20:20'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Lost'
+  - title: Pyramids
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 20:10'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Pyramids'
+  - title: Crack Rock
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 20:06'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Crack+Rock'
+  - title: Pilot Jones
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 20:03'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Pilot+Jones'
+  - title: Super Rich Kids (feat. Earl Sweatshirt)
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:58'
+    link: >-
+      https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids+(feat.+Earl+Sweatshirt)
+  - title: Not Just Money
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:57'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Not+Just+Money'
+  - title: Sweet Life
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:52'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Sweet+Life'
+  - title: Sierra Leone
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:50'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Sierra+Leone'
+  - title: Fertilizer
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:49'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Fertilizer'
+  - title: Thinkin Bout You
+    album: channel ORANGE
+    artist: Frank Ocean
+    timestamp: '15 Mar 2026, 19:46'
+    link: 'https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You'
   - title: Try as I May
     album: Heavy Metal
     artist: Cameron Winter
