@@ -1,4 +1,19 @@
 items:
+  - title: Daniel
+    album: Johnny’s Dreamworld
+    artist: Modern Woman
+    timestamp: '10 May 2026, 21:00'
+    link: 'https://www.last.fm/music/Modern+Woman/_/Daniel'
+  - title: Empty of Your Possession
+    album: Blue Gold
+    artist: Al Manfredi
+    timestamp: '10 May 2026, 20:59'
+    link: 'https://www.last.fm/music/Al+Manfredi/_/Empty+of+Your+Possession'
+  - title: Power of the Moon
+    album: Goodbye Small Head
+    artist: Ezra Furman
+    timestamp: '10 May 2026, 20:58'
+    link: 'https://www.last.fm/music/Ezra+Furman/_/Power+of+the+Moon'
   - title: China Girl (2018 Remaster)
     album: Let's Dance (2018 remaster)
     artist: David Bowie
