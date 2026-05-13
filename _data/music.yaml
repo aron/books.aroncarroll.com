@@ -1,4 +1,25 @@
 items:
+  - title: Cobra
+    album: Getting Killed
+    artist: Geese
+    timestamp: '13 May 2026, 13:49'
+    link: 'https://www.last.fm/music/Geese/_/Cobra'
+  - title: Trinidad
+    album: Getting Killed
+    artist: Geese
+    timestamp: '13 May 2026, 13:46'
+    link: 'https://www.last.fm/music/Geese/_/Trinidad'
+  - title: to each their dot
+    album: What of Our Nature
+    artist: 'Haley Heynderickx, Max García Conover'
+    timestamp: '13 May 2026, 13:42'
+    link: >-
+      https://www.last.fm/music/Haley+Heynderickx,+Max+Garc%C3%ADa+Conover/_/to+each+their+dot
+  - title: Sage
+    album: Liquorice
+    artist: Hatchie
+    timestamp: '13 May 2026, 12:58'
+    link: 'https://www.last.fm/music/Hatchie/_/Sage'
   - title: Laying Low
     album: Love and Fortune
     artist: Stella Donnelly
