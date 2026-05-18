@@ -1,4 +1,39 @@
 items:
+  - title: Sur la plage
+    album: Sur la plage
+    artist: 'Laura Cahen, This Is the Kit'
+    timestamp: '18 May 2026, 20:47'
+    link: 'https://www.last.fm/music/Laura+Cahen,+This+Is+the+Kit/_/Sur+la+plage'
+  - title: Scabby Head and Legs
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:43'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Scabby+Head+and+Legs'
+  - title: Stuck In a Room
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:39'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Stuck+In+a+Room'
+  - title: Inside Outside
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:36'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Inside+Outside'
+  - title: Goodbye Bite
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:33'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Goodbye+Bite'
+  - title: Take You To Sleep
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:29'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Take+You+To+Sleep'
+  - title: Slider
+    album: Live at The Minack Theatre
+    artist: This Is the Kit
+    timestamp: '18 May 2026, 20:25'
+    link: 'https://www.last.fm/music/This+Is+the+Kit/_/Slider'
   - title: Found Out
     album: Off Off On
     artist: This Is the Kit
