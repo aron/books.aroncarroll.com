@@ -1,4 +1,50 @@
 items:
+  - title: This I Dig of You
+    album: Soul Station
+    artist: Hank Mobley
+    timestamp: '20 May 2026, 11:48'
+    link: 'https://www.last.fm/music/Hank+Mobley/_/This+I+Dig+of+You'
+  - title: Remember
+    album: Soul Station
+    artist: Hank Mobley
+    timestamp: '20 May 2026, 11:43'
+    link: 'https://www.last.fm/music/Hank+Mobley/_/Remember'
+  - title: Lil' Darlin'
+    album: The Atomic Mr Basie
+    artist: 'Count Basie, Joe Williams, Lambert, Hendricks & Ross'
+    timestamp: '20 May 2026, 11:34'
+    link: >-
+      https://www.last.fm/music/Count+Basie,+Joe+Williams,+Lambert,+Hendricks+&+Ross/_/Lil%27+Darlin%27
+  - title: Fantail
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:31'
+    link: 'https://www.last.fm/music/Count+Basie/_/Fantail'
+  - title: Splanky
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:27'
+    link: 'https://www.last.fm/music/Count+Basie/_/Splanky'
+  - title: Midnite Blue
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:23'
+    link: 'https://www.last.fm/music/Count+Basie/_/Midnite+Blue'
+  - title: Whirly-Bird
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:19'
+    link: 'https://www.last.fm/music/Count+Basie/_/Whirly-Bird'
+  - title: Teddy the Toad
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:16'
+    link: 'https://www.last.fm/music/Count+Basie/_/Teddy+the+Toad'
+  - title: Double-O
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:13'
+    link: 'https://www.last.fm/music/Count+Basie/_/Double-O'
   - title: Flight of the Foo Birds
     album: The Atomic Mr Basie
     artist: Count Basie
