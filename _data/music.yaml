@@ -1,4 +1,24 @@
 items:
+  - title: Flight of the Foo Birds
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:06'
+    link: 'https://www.last.fm/music/Count+Basie/_/Flight+of+the+Foo+Birds'
+  - title: After Supper
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 11:02'
+    link: 'https://www.last.fm/music/Count+Basie/_/After+Supper'
+  - title: Duet
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 10:58'
+    link: 'https://www.last.fm/music/Count+Basie/_/Duet'
+  - title: The Kid from Red Bank
+    album: The Atomic Mr Basie
+    artist: Count Basie
+    timestamp: '20 May 2026, 10:56'
+    link: 'https://www.last.fm/music/Count+Basie/_/The+Kid+from+Red+Bank'
   - title: Close Your Eyes and Remember
     album: Come to My Garden
     artist: Minnie Riperton
