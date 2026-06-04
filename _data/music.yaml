@@ -1,4 +1,42 @@
 items:
+  - title: Les Fleurs
+    album: Come to My Garden
+    artist: Minnie Riperton
+    timestamp: '04 Jun 2026, 17:30'
+    link: 'https://www.last.fm/music/Minnie+Riperton/_/Les+Fleurs'
+  - title: YEA YEA YEA
+    album: THE BPM
+    artist: Sudan Archives
+    timestamp: '04 Jun 2026, 17:28'
+    link: 'https://www.last.fm/music/Sudan+Archives/_/YEA+YEA+YEA'
+  - title: COME AND FIND YOU
+    album: THE BPM
+    artist: Sudan Archives
+    timestamp: '04 Jun 2026, 17:24'
+    link: 'https://www.last.fm/music/Sudan+Archives/_/COME+AND+FIND+YOU'
+  - title: DEAD
+    album: THE BPM
+    artist: Sudan Archives
+    timestamp: '04 Jun 2026, 17:20'
+    link: 'https://www.last.fm/music/Sudan+Archives/_/DEAD'
+  - title: Ambassèl
+    album: Gétatchèw Mékuria and His Saxophone
+    artist: Gétatchèw Mèkurya
+    timestamp: '04 Jun 2026, 17:19'
+    link: 'https://www.last.fm/music/G%C3%A9tatch%C3%A8w+M%C3%A8kurya/_/Ambass%C3%A8l'
+  - title: Ethiopia Hagere
+    album: Moa Anbessa
+    artist: >-
+      The Ex, Getatchew Mekuria, Xavier Charles, Joost Buis, Brodie West, Colin
+      McLean
+    timestamp: '04 Jun 2026, 17:18'
+    link: >-
+      https://www.last.fm/music/The+Ex,+Getatchew+Mekuria,+Xavier+Charles,+Joost+Buis,+Brodie+West,+Colin+McLean/_/Ethiopia+Hagere
+  - title: Blue & Gold
+    album: It's a Hell of an Age
+    artist: Madra Salach
+    timestamp: '04 Jun 2026, 17:17'
+    link: 'https://www.last.fm/music/Madra+Salach/_/Blue+&+Gold'
   - title: Deep Waters
     album: Ocean Songs
     artist: Dirty Three
