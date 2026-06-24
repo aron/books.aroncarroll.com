@@ -1,4 +1,44 @@
 items:
+  - title: Hunter
+    album: Hunter
+    artist: Anna Calvi
+    timestamp: '24 Jun 2026, 20:05'
+    link: 'https://www.last.fm/music/Anna+Calvi/_/Hunter'
+  - title: As a Man
+    album: Hunter
+    artist: Anna Calvi
+    timestamp: '24 Jun 2026, 20:01'
+    link: 'https://www.last.fm/music/Anna+Calvi/_/As+a+Man'
+  - title: Limited Hangout
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:58'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Limited+Hangout'
+  - title: Bird of Paradise
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:55'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Bird+of+Paradise'
+  - title: Necklace
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:53'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Necklace'
+  - title: Pale Horse Rider
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:49'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Pale+Horse+Rider'
+  - title: Angeles
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:44'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Angeles'
+  - title: Paper Fog
+    album: Pale Horse Rider
+    artist: Cory Hanson
+    timestamp: '24 Jun 2026, 19:39'
+    link: 'https://www.last.fm/music/Cory+Hanson/_/Paper+Fog'
   - title: 100 Grandkids
     album: 'GO:OD AM'
     artist: Mac Miller
