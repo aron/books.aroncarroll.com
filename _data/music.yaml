@@ -1,4 +1,25 @@
 items:
+  - title: Body
+    album: Crushing
+    artist: Julia Jacklin
+    timestamp: '24 Jun 2026, 20:45'
+    link: 'https://www.last.fm/music/Julia+Jacklin/_/Body'
+  - title: Swimming Pool
+    album: Hunter
+    artist: Anna Calvi
+    timestamp: '24 Jun 2026, 20:24'
+    link: 'https://www.last.fm/music/Anna+Calvi/_/Swimming+Pool'
+  - title: Indies or Paradise
+    album: Hunter
+    artist: Anna Calvi
+    timestamp: '24 Jun 2026, 20:20'
+    link: 'https://www.last.fm/music/Anna+Calvi/_/Indies+or+Paradise'
+  - title: Don’t Beat the Girl out of My Boy
+    album: Hunter
+    artist: Anna Calvi
+    timestamp: '24 Jun 2026, 20:09'
+    link: >-
+      https://www.last.fm/music/Anna+Calvi/_/Don%E2%80%99t+Beat+the+Girl+out+of+My+Boy
   - title: Hunter
     album: Hunter
     artist: Anna Calvi
