@@ -1,4 +1,30 @@
 items:
+  - title: First Day of My Life
+    album: 'I''m Wide Awake, It''s Morning'
+    artist: Bright Eyes
+    timestamp: '28 Jun 2026, 21:12'
+    link: 'https://www.last.fm/music/Bright+Eyes/_/First+Day+of+My+Life'
+  - title: (They Long To Be) Close To You
+    album: Carpenters With The Royal Philharmonic Orchestra
+    artist: The Carpenters
+    timestamp: '28 Jun 2026, 21:08'
+    link: >-
+      https://www.last.fm/music/+noredirect/The+Carpenters/_/(They+Long+To+Be)+Close+To+You
+  - title: Roundabout
+    album: Fragile
+    artist: 'Yes'
+    timestamp: '28 Jun 2026, 21:02'
+    link: 'https://www.last.fm/music/Yes/_/Roundabout'
+  - title: Get Lucky
+    album: Random Access Memories
+    artist: Daft Punk
+    timestamp: '28 Jun 2026, 21:00'
+    link: 'https://www.last.fm/music/+noredirect/Daft+Punk/_/Get+Lucky'
+  - title: '1979'
+    album: Mellon Collie and the Infinite Sadness
+    artist: The Smashing Pumpkins
+    timestamp: '28 Jun 2026, 20:53'
+    link: 'https://www.last.fm/music/The+Smashing+Pumpkins/_/1979'
   - title: Traffic
     album: Please
     artist: DJ Plead
