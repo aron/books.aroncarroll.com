@@ -1,4 +1,16 @@
 items:
+  - title: The Invisible Doctrine
+    subtitle: The Secret History of Neoliberalism (& How It Came to Control Your Life)
+    authors:
+      - George Monbiot
+    url: 'https://www.goodreads.com/book/show/87556993'
+    goodreads_url: 'https://www.goodreads.com/review/show/8767427981'
+    isbn: 180206270X
+    type: kindle
+    state: started
+    pages: '218'
+    queued_at: '2026-07-13'
+    started_at: '2026-07-13'
   - title: Chip War
     subtitle: The Fight for the World's Most Critical Technology
     authors:
