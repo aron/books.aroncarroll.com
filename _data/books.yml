@@ -1,4 +1,14 @@
 items:
+- title: Pacific Edge
+  authors:
+  - Kim Stanley Robinson
+  url: https://goodreads.com/book/isbn/9780312890384
+  isbn: "9780312890384"
+  type: kindle
+  state: finished
+  queued_at: 2024-08-27
+  started_at: 2026-08-01
+  finished_at: 2026-08-15
 - title: The ALL NEW Don't Think of an Elephant!
   subtitle: Know Your Values and Frame the Debate
   authors:
