@@ -1,4 +1,24 @@
 items:
+  - title: blue
+    album: fata morgana
+    artist: L'Rain
+    timestamp: '21 Aug 2026, 19:54'
+    link: 'https://www.last.fm/music/L%27Rain/_/blue'
+  - title: with time
+    album: fata morgana
+    artist: L'Rain
+    timestamp: '21 Aug 2026, 19:50'
+    link: 'https://www.last.fm/music/L%27Rain/_/with+time'
+  - title: rumors of light
+    album: fata morgana
+    artist: L'Rain
+    timestamp: '21 Aug 2026, 19:50'
+    link: 'https://www.last.fm/music/L%27Rain/_/rumors+of+light'
+  - title: Fixer
+    album: 'The Knife, The Needle'
+    artist: Elanor Moss
+    timestamp: '21 Aug 2026, 19:48'
+    link: 'https://www.last.fm/music/Elanor+Moss/_/Fixer'
   - title: Like Swimwear
     album: Happy Today
     artist: Jeff Parker
