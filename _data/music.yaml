@@ -1,4 +1,54 @@
 items:
+  - title: Max Brown
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 10:04'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Max+Brown'
+  - title: Go Away
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:59'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Go+Away'
+  - title: 3 for L
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:55'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/3+for+L'
+  - title: Del Rio
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:53'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Del+Rio'
+  - title: 'Lydian, Etc.'
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:52'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Lydian,+Etc.'
+  - title: Gnarciss
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:49'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Gnarciss'
+  - title: Metamorphoses
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:48'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Metamorphoses'
+  - title: After the Rain
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:43'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/After+the+Rain'
+  - title: Fusion Swirl
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:37'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/Fusion+Swirl'
+  - title: C'mon Now
+    album: Suite for Max Brown
+    artist: Jeff Parker
+    timestamp: '27 Aug 2026, 09:37'
+    link: 'https://www.last.fm/music/Jeff+Parker/_/C%27mon+Now'
   - title: Clickity Clack
     album: The Pirate's Gospel
     artist: Alela Diane
