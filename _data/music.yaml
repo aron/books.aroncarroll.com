@@ -1,4 +1,24 @@
 items:
+  - title: Fire
+    album: The Elements
+    artist: Joe Henderson
+    timestamp: '30 Aug 2026, 18:54'
+    link: 'https://www.last.fm/music/Joe+Henderson/_/Fire'
+  - title: Is It Real?
+    album: Blame The Clown
+    artist: twisted teens
+    timestamp: '30 Aug 2026, 18:53'
+    link: 'https://www.last.fm/music/twisted+teens/_/Is+It+Real%3F'
+  - title: Corpse Pose
+    album: Blame The Clown
+    artist: twisted teens
+    timestamp: '30 Aug 2026, 18:52'
+    link: 'https://www.last.fm/music/twisted+teens/_/Corpse+Pose'
+  - title: White Hot Coal
+    album: Blame The Clown
+    artist: twisted teens
+    timestamp: '30 Aug 2026, 18:50'
+    link: 'https://www.last.fm/music/twisted+teens/_/White+Hot+Coal'
   - title: Hurricane
     album: Blame The Clown
     artist: twisted teens
