@@ -1,4 +1,14 @@
 items:
+  - title: '1995'
+    album: Lesser Matters
+    artist: The Radio Dept.
+    timestamp: '01 Sep 2026, 23:43'
+    link: 'https://www.last.fm/music/The+Radio+Dept./_/1995'
+  - title: 'Slottet #2'
+    album: Lesser Matters
+    artist: The Radio Dept.
+    timestamp: '01 Sep 2026, 23:40'
+    link: 'https://www.last.fm/music/The+Radio+Dept./_/Slottet+%232'
   - title: Bus
     album: Lesser Matters
     artist: The Radio Dept.
