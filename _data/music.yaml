@@ -1,4 +1,35 @@
 items:
+  - title: Paprika
+    album: Jubilee
+    artist: Japanese Breakfast
+    timestamp: '11 Sep 2026, 09:21'
+    link: 'https://www.last.fm/music/Japanese+Breakfast/_/Paprika'
+  - title: Afterlife
+    album: Headlights
+    artist: Alex G
+    timestamp: '11 Sep 2026, 09:18'
+    link: 'https://www.last.fm/music/Alex+G/_/Afterlife'
+  - title: Where's My Phone?
+    album: Nothing's About to Happen to Me
+    artist: Mitski
+    timestamp: '11 Sep 2026, 09:14'
+    link: 'https://www.last.fm/music/Mitski/_/Where%27s+My+Phone%3F'
+  - title: My Love Mine All Mine
+    album: The Land Is Inhospitable and So Are We
+    artist: Mitski
+    timestamp: '11 Sep 2026, 09:12'
+    link: 'https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine'
+  - title: In A Lake
+    album: Nothing's About to Happen to Me
+    artist: Mitski
+    timestamp: '11 Sep 2026, 09:09'
+    link: 'https://www.last.fm/music/Mitski/_/In+A+Lake'
+  - title: Don't You Cry in Lonesomeness
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '11 Sep 2026, 09:06'
+    link: >-
+      https://www.last.fm/music/This+is+Lorelei/_/Don%27t+You+Cry+in+Lonesomeness
   - title: And I Haven't Seen My Love in Quite a While
     album: The Singer in My Band
     artist: This is Lorelei
