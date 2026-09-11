@@ -1,4 +1,24 @@
 items:
+  - title: Treehouse
+    album: Treehouse
+    artist: Alex G
+    timestamp: '11 Sep 2026, 09:35'
+    link: 'https://www.last.fm/music/Alex+G/_/Treehouse'
+  - title: Mega Circuit
+    album: For Melancholy Brunettes (& Sad Women)
+    artist: Japanese Breakfast
+    timestamp: '11 Sep 2026, 09:32'
+    link: 'https://www.last.fm/music/Japanese+Breakfast/_/Mega+Circuit'
+  - title: Motion Sickness
+    album: Stranger in the Alps
+    artist: Phoebe Bridgers
+    timestamp: '11 Sep 2026, 09:28'
+    link: 'https://www.last.fm/music/Phoebe+Bridgers/_/Motion+Sickness'
+  - title: Be Sweet
+    album: Jubilee
+    artist: Japanese Breakfast
+    timestamp: '11 Sep 2026, 09:25'
+    link: 'https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet'
   - title: Paprika
     album: Jubilee
     artist: Japanese Breakfast
