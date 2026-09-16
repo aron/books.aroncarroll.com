@@ -1,4 +1,14 @@
 items:
+  - title: My Room
+    album: Less Louder
+    artist: Beans
+    timestamp: '16 Sep 2026, 09:15'
+    link: 'https://www.last.fm/music/Beans/_/My+Room'
+  - title: Resister
+    album: Less Louder
+    artist: Beans
+    timestamp: '16 Sep 2026, 09:12'
+    link: 'https://www.last.fm/music/Beans/_/Resister'
   - title: And I Haven't Seen My Love in Quite a While
     album: The Singer in My Band
     artist: This is Lorelei
