@@ -1,4 +1,24 @@
 items:
+  - title: Sailing (Your Baby's Down)
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '19 Sep 2026, 08:32'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Sailing+(Your+Baby%27s+Down)'
+  - title: Watching Heaven Fall
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '19 Sep 2026, 08:29'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Watching+Heaven+Fall'
+  - title: Billy Came Back
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '19 Sep 2026, 08:26'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Billy+Came+Back'
+  - title: Oh No Now My
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '19 Sep 2026, 08:23'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Oh+No+Now+My'
   - title: Nitro
     album: The Singer in My Band
     artist: This is Lorelei
@@ -34,6 +54,12 @@ items:
     artist: This is Lorelei
     timestamp: '19 Sep 2026, 08:22'
     link: 'https://www.last.fm/music/This+is+Lorelei/_/Oh+No+Now+My'
+  - title: I Will Eat My Heart in the Morning Light
+    album: The Singer in My Band
+    artist: This is Lorelei
+    timestamp: '19 Sep 2026, 08:22'
+    link: >-
+      https://www.last.fm/music/This+is+Lorelei/_/I+Will+Eat+My+Heart+in+the+Morning+Light
   - title: Earth Girl
     album: Second Song
     artist: Neil Young
