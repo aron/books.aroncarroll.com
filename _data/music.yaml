@@ -1,4 +1,9 @@
 items:
+  - title: Second Song
+    album: Second Song
+    artist: Neil Young
+    timestamp: '20 Sep 2026, 13:49'
+    link: 'https://www.last.fm/music/Neil+Young/_/Second+Song'
   - title: Earth Girl
     album: Second Song
     artist: Neil Young
