@@ -1,4 +1,29 @@
 items:
+  - title: PICNIC
+    album: PHILHARMONY
+    artist: Haruomi Hosono
+    timestamp: '21 Sep 2026, 20:26'
+    link: 'https://www.last.fm/music/+noredirect/Haruomi+Hosono/_/PICNIC'
+  - title: Note of Mothership
+    album: Yours Sincerely
+    artist: Haruomi Hosono
+    timestamp: '21 Sep 2026, 20:25'
+    link: 'https://www.last.fm/music/Haruomi+Hosono/_/Note+of+Mothership'
+  - title: Victory Dance
+    album: Where I'm Meant To Be
+    artist: Ezra Collective
+    timestamp: '21 Sep 2026, 20:22'
+    link: 'https://www.last.fm/music/Ezra+Collective/_/Victory+Dance'
+  - title: Life Goes On
+    album: Where I'm Meant To Be
+    artist: Ezra Collective
+    timestamp: '21 Sep 2026, 20:19'
+    link: 'https://www.last.fm/music/Ezra+Collective/_/Life+Goes+On'
+  - title: Part 1
+    album: Here Because of Hope
+    artist: Ezra Collective
+    timestamp: '21 Sep 2026, 20:18'
+    link: 'https://www.last.fm/music/Ezra+Collective/_/Part+1'
   - title: All of You
     album: '''Round About Midnight'
     artist: Miles Davis
