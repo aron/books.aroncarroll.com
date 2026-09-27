@@ -1,4 +1,30 @@
 items:
+  - title: I Need You
+    album: Help!
+    artist: The Beatles
+    timestamp: '27 Sep 2026, 18:53'
+    link: 'https://www.last.fm/music/The+Beatles/_/I+Need+You'
+  - title: You've Got to Hide Your Love Away
+    album: Help!
+    artist: The Beatles
+    timestamp: '27 Sep 2026, 18:51'
+    link: >-
+      https://www.last.fm/music/The+Beatles/_/You%27ve+Got+to+Hide+Your+Love+Away
+  - title: Kansas City / Hey-Hey-Hey-Hey
+    album: Beatles for Sale
+    artist: The Beatles
+    timestamp: '27 Sep 2026, 18:51'
+    link: 'https://www.last.fm/music/The+Beatles/_/Kansas+City+%2F+Hey-Hey-Hey-Hey'
+  - title: Mr Moonlight
+    album: Beatles for Sale
+    artist: The Beatles
+    timestamp: '27 Sep 2026, 18:48'
+    link: 'https://www.last.fm/music/The+Beatles/_/Mr+Moonlight'
+  - title: I'll Follow the Sun
+    album: Beatles for Sale
+    artist: The Beatles
+    timestamp: '27 Sep 2026, 18:46'
+    link: 'https://www.last.fm/music/The+Beatles/_/I%27ll+Follow+the+Sun'
   - title: Rock and Roll Music
     album: Beatles for Sale
     artist: The Beatles
