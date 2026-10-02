@@ -1,4 +1,24 @@
 items:
+  - title: Day Tripper
+    album: Rubber Soul
+    artist: The Beatles
+    timestamp: '02 Oct 2026, 11:09'
+    link: 'https://www.last.fm/music/The+Beatles/_/Day+Tripper'
+  - title: Little Girl
+    album: Rubber Soul
+    artist: The Beatles
+    timestamp: '02 Oct 2026, 11:06'
+    link: 'https://www.last.fm/music/The+Beatles/_/Little+Girl'
+  - title: Beatle Talk
+    album: Rubber Soul
+    artist: The Beatles
+    timestamp: '02 Oct 2026, 10:59'
+    link: 'https://www.last.fm/music/The+Beatles/_/Beatle+Talk'
+  - title: Girl
+    album: Rubber Soul
+    artist: The Beatles
+    timestamp: '02 Oct 2026, 10:56'
+    link: 'https://www.last.fm/music/The+Beatles/_/Girl'
   - title: The Word
     album: Rubber Soul
     artist: The Beatles
