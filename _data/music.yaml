@@ -1,4 +1,45 @@
 items:
+  - title: Jingle Bells
+    album: Jingle Bells
+    artist: The Puppini Sisters
+    timestamp: '05 Oct 2026, 07:16'
+    link: 'https://www.last.fm/music/The+Puppini+Sisters/_/Jingle+Bells'
+  - title: Jingle Bells
+    album: Christmas Songs & Classics
+    artist: New York Jazz Trio
+    timestamp: '05 Oct 2026, 07:15'
+    link: 'https://www.last.fm/music/New+York+Jazz+Trio/_/Jingle+Bells'
+  - title: Jingle Bells
+    album: White Christmas
+    artist: Bing Crosby
+    timestamp: '05 Oct 2026, 07:08'
+    link: 'https://www.last.fm/music/Bing+Crosby/_/Jingle+Bells'
+  - title: Jingle Bells?
+    album: A Christmas Album
+    artist: Barbra Streisand
+    timestamp: '05 Oct 2026, 07:07'
+    link: 'https://www.last.fm/music/Barbra+Streisand/_/Jingle+Bells%3F'
+  - title: Jingle Bells
+    album: Ella & Louis Christmas
+    artist: Ella Fitzgerald
+    timestamp: '05 Oct 2026, 07:07'
+    link: 'https://www.last.fm/music/Ella+Fitzgerald/_/Jingle+Bells'
+  - title: Jingle Bells
+    album: A Jolly Christmas from Frank Sinatra
+    artist: Frank Sinatra
+    timestamp: '05 Oct 2026, 07:06'
+    link: 'https://www.last.fm/music/Frank+Sinatra/_/Jingle+Bells'
+  - title: Jingle Bell Rock
+    album: Rockin' Around The Christmas Tree / Jingle Bell Rock
+    artist: Sierra Ferrell
+    timestamp: '05 Oct 2026, 07:05'
+    link: 'https://www.last.fm/music/Sierra+Ferrell/_/Jingle+Bell+Rock'
+  - title: Rockin' Around The Christmas Tree
+    album: Rockin' Around The Christmas Tree / Jingle Bell Rock
+    artist: Sierra Ferrell
+    timestamp: '05 Oct 2026, 07:04'
+    link: >-
+      https://www.last.fm/music/Sierra+Ferrell/_/Rockin%27+Around+The+Christmas+Tree
   - title: burning grey
     album: Fly or Die Fly or Die Fly or Die ((world war))
     artist: Jaimie Branch
