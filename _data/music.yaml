@@ -1,4 +1,34 @@
 items:
+  - title: Revolver
+    album: Chinook
+    artist: Mallory Hawk
+    timestamp: '07 Oct 2026, 12:51'
+    link: 'https://www.last.fm/music/Mallory+Hawk/_/Revolver'
+  - title: D'Anger
+    album: Chinook
+    artist: Mallory Hawk
+    timestamp: '07 Oct 2026, 12:48'
+    link: 'https://www.last.fm/music/Mallory+Hawk/_/D%27Anger'
+  - title: The Mirror
+    album: Chinook
+    artist: Mallory Hawk
+    timestamp: '07 Oct 2026, 12:45'
+    link: 'https://www.last.fm/music/Mallory+Hawk/_/The+Mirror'
+  - title: Blue
+    album: Memoria
+    artist: Carmen Villain
+    timestamp: '07 Oct 2026, 12:42'
+    link: 'https://www.last.fm/music/Carmen+Villain/_/Blue'
+  - title: Hope Synapses
+    album: Memoria
+    artist: Carmen Villain
+    timestamp: '07 Oct 2026, 12:37'
+    link: 'https://www.last.fm/music/Carmen+Villain/_/Hope+Synapses'
+  - title: Memoria
+    album: Memoria
+    artist: Carmen Villain
+    timestamp: '07 Oct 2026, 12:31'
+    link: 'https://www.last.fm/music/Carmen+Villain/_/Memoria'
   - title: Entre Nosotros
     album: Memoria
     artist: Carmen Villain
