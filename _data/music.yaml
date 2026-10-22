@@ -1,4 +1,19 @@
 items:
+  - title: Balboa Park
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '22 Oct 2026, 16:45'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Balboa+Park'
+  - title: The Line
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '22 Oct 2026, 16:40'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/The+Line'
+  - title: Sinaloa Cowboys
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '22 Oct 2026, 16:36'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Sinaloa+Cowboys'
   - title: Youngstown
     album: The Ghost of Tom Joad
     artist: Bruce Springsteen
