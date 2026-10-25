@@ -1,4 +1,19 @@
 items:
+  - title: The Line
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '25 Oct 2026, 22:49'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/The+Line'
+  - title: Sinaloa Cowboys
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '25 Oct 2026, 22:45'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Sinaloa+Cowboys'
+  - title: Youngstown
+    album: The Ghost of Tom Joad
+    artist: Bruce Springsteen
+    timestamp: '25 Oct 2026, 22:41'
+    link: 'https://www.last.fm/music/Bruce+Springsteen/_/Youngstown'
   - title: Highway 29
     album: The Ghost of Tom Joad
     artist: Bruce Springsteen
