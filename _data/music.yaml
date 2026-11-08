@@ -1,4 +1,19 @@
 items:
+  - title: An Extra Beat For You and Me
+    album: 'Box for Buddy, Box for Star'
+    artist: This is Lorelei
+    timestamp: '08 Nov 2026, 19:36'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/An+Extra+Beat+For+You+and+Me'
+  - title: Two Legs
+    album: 'Box for Buddy, Box for Star'
+    artist: This is Lorelei
+    timestamp: '08 Nov 2026, 19:31'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Two+Legs'
+  - title: A Song That Sings About You
+    album: 'Box for Buddy, Box for Star'
+    artist: This is Lorelei
+    timestamp: '08 Nov 2026, 19:28'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/A+Song+That+Sings+About+You'
   - title: 'Box for Buddy, Box for Star'
     album: 'Box for Buddy, Box for Star'
     artist: This is Lorelei
