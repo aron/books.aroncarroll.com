@@ -1,4 +1,14 @@
 items:
+  - title: A Song That Sings About You
+    album: 'Box for Buddy, Box for Star'
+    artist: This is Lorelei
+    timestamp: '10 Nov 2026, 17:48'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/A+Song+That+Sings+About+You'
+  - title: 'Box for Buddy, Box for Star'
+    album: 'Box for Buddy, Box for Star'
+    artist: This is Lorelei
+    timestamp: '10 Nov 2026, 17:44'
+    link: 'https://www.last.fm/music/This+is+Lorelei/_/Box+for+Buddy,+Box+for+Star'
   - title: Where's Your Love Now
     album: 'Box for Buddy, Box for Star'
     artist: This is Lorelei
