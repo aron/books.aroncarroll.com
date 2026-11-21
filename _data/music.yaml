@@ -1,4 +1,29 @@
 items:
+  - title: The Juice
+    album: Paddywhackery
+    artist: The Mary Wallopers
+    timestamp: '21 Nov 2026, 10:09'
+    link: 'https://www.last.fm/music/The+Mary+Wallopers/_/The+Juice'
+  - title: Crowns Of England
+    album: Paddywhackery
+    artist: The Mary Wallopers
+    timestamp: '21 Nov 2026, 10:06'
+    link: 'https://www.last.fm/music/The+Mary+Wallopers/_/Crowns+Of+England'
+  - title: ANGELUS 1
+    album: MO LÉAN
+    artist: Róis
+    timestamp: '21 Nov 2026, 10:06'
+    link: 'https://www.last.fm/music/R%C3%B3is/_/ANGELUS+1'
+  - title: WHAT DO YOU SAY
+    album: MO LÉAN
+    artist: Róis
+    timestamp: '21 Nov 2026, 10:05'
+    link: 'https://www.last.fm/music/R%C3%B3is/_/WHAT+DO+YOU+SAY'
+  - title: 'Oxygène, Pt. 1'
+    album: Oxygène
+    artist: Jean Michel Jarre
+    timestamp: '21 Nov 2026, 10:04'
+    link: 'https://www.last.fm/music/Jean+Michel+Jarre/_/Oxyg%C3%A8ne,+Pt.+1'
   - title: Only Passing Through
     album: As Killers Do
     artist: Lael Neale
