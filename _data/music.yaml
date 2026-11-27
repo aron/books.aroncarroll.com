@@ -1,4 +1,19 @@
 items:
+  - title: You've Got It
+    album: A New Flame
+    artist: Simply Red
+    timestamp: '27 Nov 2026, 23:03'
+    link: 'https://www.last.fm/music/Simply+Red/_/You%27ve+Got+It'
+  - title: A New Flame
+    album: A New Flame
+    artist: Simply Red
+    timestamp: '27 Nov 2026, 22:59'
+    link: 'https://www.last.fm/music/Simply+Red/_/A+New+Flame'
+  - title: It's Only Love
+    album: A New Flame
+    artist: Simply Red
+    timestamp: '27 Nov 2026, 22:54'
+    link: 'https://www.last.fm/music/Simply+Red/_/It%27s+Only+Love'
   - title: 'Glassworks: III. Islands'
     album: Glassworks - Expanded Edition
     artist: Philip Glass
